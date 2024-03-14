@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 162-main.aux
+The style file: plain.bst
+Database file #1: main.bib
+Warning--empty journal in whitepaper
+You've used 103 entries,
+            2118 wiz_defined-function locations,
+            920 strings with 19145 characters,
+and the built_in function-call counts, 22218 in all, are:
+= -- 2106
+> -- 755
+< -- 2
++ -- 333
+- -- 218
+* -- 779
+:= -- 3740
+add.period$ -- 309
+call.type$ -- 103
+change.case$ -- 403
+chr.to.int$ -- 0
+cite$ -- 104
+duplicate$ -- 831
+empty$ -- 2292
+format.name$ -- 218
+if$ -- 4869
+int.to.chr$ -- 0
+int.to.str$ -- 103
+missing$ -- 33
+newline$ -- 517
+num.names$ -- 206
+pop$ -- 821
+preamble$ -- 1
+purify$ -- 315
+quote$ -- 0
+skip$ -- 731
+stack$ -- 0
+substring$ -- 567
+swap$ -- 122
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 382
+warning$ -- 1
+while$ -- 210
+width$ -- 106
+write$ -- 1039
+(There was 1 warning)
