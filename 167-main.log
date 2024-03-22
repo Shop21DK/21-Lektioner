@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2024.1.16)  20 MAR 2024 09:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2024.1.16)  22 MAR 2024 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,7 +212,12 @@ Package tocbasic Info: babel extension for `lot' omitted
 \c@table=\count186
 Class scrbook Info: Redefining `\numberline' on input line 7123.
 \bibindent=\dimen138
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2021/01/26 3.53 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
@@ -245,7 +250,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 50.75pt
 (typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 26.
+(typearea)              on input line 27.
 
 
 Class scrbook Warning: Usage of package `fancyhdr' together
@@ -259,7 +264,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              `\addtokomafont' for the page style elements need
 (scrbook)              explicite user intervention to work.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 30.
+(scrbook)              package `fancyhdr' on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
@@ -330,7 +335,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@qlevel=\count197
 \csq@maxlvl=\count198
 \csq@tshold=\count199
-\csq@ltx@everypar=\toks16
+\csq@ltx@everypar=\toks18
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2021-01-04 v5.2k csquotes generic definitions (JAW)
@@ -551,22 +556,22 @@ Package csquotes Info: Redefining alias 'default' -> 'danish'.
 (./167-main.aux)
 \openout1 = `167-main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 193.
+LaTeX Font Info:    ... okay on input line 193.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -575,12 +580,12 @@ LaTeX Font Info:    ... okay on input line 192.
 \scratchbox=\box51
 \nofMPsegments=\count284
 \nofMParguments=\count285
-\everyMPshowfont=\toks17
+\everyMPshowfont=\toks19
 \MPscratchCnt=\count286
 \MPscratchDim=\dimen167
 \MPnumerator=\count287
 \makeMPintoPDFobject=\count288
-\everyMPtoPDFconversion=\toks18
+\everyMPtoPDFconversion=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -590,7 +595,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 192.
+Package hyperref Info: Link coloring OFF on input line 193.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -603,9 +608,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 192.
-LaTeX Info: Redefining \pageref on input line 192.
-LaTeX Info: Redefining \nameref on input line 192.
+LaTeX Info: Redefining \ref on input line 193.
+LaTeX Info: Redefining \pageref on input line 193.
+LaTeX Info: Redefining \nameref on input line 193.
 
 (./167-main.out) (./167-main.out)
 \@outlinefile=\write5
@@ -618,7 +623,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 192.
+(scrbook)           before \begin{document} on input line 193.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -630,9 +635,9 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 202.
+(Font)              <17.28> on input line 203.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 202.
+(Font)              <12> on input line 203.
  [1
 
 
@@ -643,15 +648,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <assets/images/cc-by-sa.pdf, id=13, 66.2475pt x 23.33719pt>
 File: assets/images/cc-by-sa.pdf Graphic file (type pdf)
 <use assets/images/cc-by-sa.pdf>
-Package pdftex.def Info: assets/images/cc-by-sa.pdf  used on input line 202.
+Package pdftex.def Info: assets/images/cc-by-sa.pdf  used on input line 203.
 (pdftex.def)             Requested size: 56.90602pt x 20.04642pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 202.
+(Font)              <7> on input line 203.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 202.
+(Font)              <5> on input line 203.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 202.
+Package hyperref Warning: Ignoring empty anchor on input line 203.
 
 [2
 
@@ -698,9 +703,9 @@ Overfull \hbox (6.08763pt too wide) detected at line 51
 
  [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 254.
+(Font)              <8> on input line 255.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 254.
+(Font)              <6> on input line 255.
  [11
 
 
@@ -720,7 +725,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <assets/images/the-tweet.png, id=182, 480.79625pt x 377.41pt>
 File: assets/images/the-tweet.png Graphic file (type png)
 <use assets/images/the-tweet.png>
-Package pdftex.def Info: assets/images/the-tweet.png  used on input line 310.
+Package pdftex.def Info: assets/images/the-tweet.png  used on input line 311.
 (pdftex.def)             Requested size: 199.17458pt x 156.3458pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -731,13 +736,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: assets/images/bitcoin-orange-pill.jpg Graphic file (type jpg)
 <use assets/images/bitcoin-orange-pill.jpg>
 Package pdftex.def Info: assets/images/bitcoin-orange-pill.jpg  used on input l
-ine 332.
+ine 333.
 (pdftex.def)             Requested size: 325.20833pt x 182.92967pt.
  [7] [8 <./assets/images/bitcoin-orange-pill.jpg>]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 348.
+(scrkbase)              on input line 349.
 [9
 
 
@@ -745,7 +750,7 @@ Package scrkbase Info: You've told me to use the font selection of the element
 <assets/images/blind-monks.jpg, id=224, 302.43832pt x 219.13644pt>
 File: assets/images/blind-monks.jpg Graphic file (type jpg)
 <use assets/images/blind-monks.jpg>
-Package pdftex.def Info: assets/images/blind-monks.jpg  used on input line 357.
+Package pdftex.def Info: assets/images/blind-monks.jpg  used on input line 358.
 
 (pdftex.def)             Requested size: 325.21176pt x 235.63728pt.
 
@@ -772,13 +777,13 @@ chapter 3.
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 488.
+Package hyperref Warning: Suppressing empty link on input line 489.
 
 
-Package hyperref Warning: Suppressing empty link on input line 488.
+Package hyperref Warning: Suppressing empty link on input line 489.
 
 
-Overfull \hbox (4.88506pt too wide) in paragraph at lines 514--514
+Overfull \hbox (4.88506pt too wide) in paragraph at lines 515--515
  []\OT1/cmr/bx/n/12 Bitcoin har l^^Zrt mig, at lo-ka-li-tet er en van-ske-lig s
 t^^\rrelse.[] 
  []
@@ -786,16 +791,16 @@ t^^\rrelse.[]
 [22]
 chapter 4.
 
-Package hyperref Warning: Suppressing empty link on input line 519.
+Package hyperref Warning: Suppressing empty link on input line 520.
 
 
-Package hyperref Warning: Suppressing empty link on input line 519.
+Package hyperref Warning: Suppressing empty link on input line 520.
 
 [23
 
 
 ]
-Overfull \hbox (14.15648pt too wide) in paragraph at lines 524--525
+Overfull \hbox (14.15648pt too wide) in paragraph at lines 525--526
 []\OT1/cmr/m/n/12 Kryptovalutaer, is^^Zr si-den den f^^\rste om-strid-te h^^War
 de-forgrening,
  []
@@ -808,13 +813,13 @@ chapter 5.
 ] [26]
 chapter 6.
 
-Overfull \hbox (9.6433pt too wide) in paragraph at lines 581--581
+Overfull \hbox (9.6433pt too wide) in paragraph at lines 582--582
 [][]  \OT1/cmr/m/n/12 Kon-gres-sen m^^Wa ik-ke ved-ta-ge no-gen lov, der vedr^^
 \rer
  []
 
 
-Overfull \hbox (3.72542pt too wide) in paragraph at lines 581--581
+Overfull \hbox (3.72542pt too wide) in paragraph at lines 582--582
 \OT1/cmr/m/n/12 ud^^\velse; el-ler ind-skr^^Zn-ker yt-rings-fri-he-den, el-ler 
 pres-
  []
@@ -824,10 +829,10 @@ pres-
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 585.
+Package hyperref Warning: Suppressing empty link on input line 586.
 
 
-Overfull \hbox (13.22964pt too wide) in paragraph at lines 585--585
+Overfull \hbox (13.22964pt too wide) in paragraph at lines 586--586
 [][]  \OT1/cmr/m/n/12 Der er ik-ke no-get tids-punkt i en Bitcoin-transaktion,
  []
 
@@ -837,7 +842,7 @@ chapter 7.
 File: assets/images/rabbit-hole-bottomless.png Graphic file (type png)
 <use assets/images/rabbit-hole-bottomless.png>
 Package pdftex.def Info: assets/images/rabbit-hole-bottomless.png  used on inpu
-t line 623.
+t line 624.
 (pdftex.def)             Requested size: 199.17502pt x 199.67296pt.
 [29
 
@@ -846,7 +851,7 @@ t line 623.
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 648.
+(scrkbase)              on input line 649.
 [31
 
 
@@ -860,7 +865,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [34]
 chapter 8.
 
-Overfull \hbox (3.84686pt too wide) in paragraph at lines 683--683
+Overfull \hbox (3.84686pt too wide) in paragraph at lines 684--684
  [] \OT1/cmr/m/n/12 Som fem^^Warig be-gynd-te jeg at stil-le mig selv en mas-se
  sp^^\rgsm^^Wal:
  []
@@ -869,25 +874,25 @@ Overfull \hbox (3.84686pt too wide) in paragraph at lines 683--683
 
 
 ]
-Underfull \hbox (badness 2478) in paragraph at lines 687--687
+Underfull \hbox (badness 2478) in paragraph at lines 688--688
   [][][]\OT1/cmr/m/n/10 Aaron (\OT1/cmtt/m/n/10 @aarontaycc\OT1/cmr/m/n/10 , \O
 T1/cmtt/m/n/10 @fiatminimalist\OT1/cmr/m/n/10 ), twe-et fra 12. de-cem-ber
  []
 
 
-Overfull \hbox (8.38934pt too wide) in paragraph at lines 693--693
+Overfull \hbox (8.38934pt too wide) in paragraph at lines 694--694
 \OT1/cmr/m/n/12 en-del^^\s s^^\gen ef-ter vi-den. Det er n^^\dvendigvis p^^Wavi
 rket
  []
 
 [36]
 
-Package hyperref Warning: Suppressing empty link on input line 700.
+Package hyperref Warning: Suppressing empty link on input line 701.
 
 [37] [38]
 chapter 9.
 
-Overfull \hbox (5.77046pt too wide) in paragraph at lines 724--725
+Overfull \hbox (5.77046pt too wide) in paragraph at lines 725--726
 \OT1/cmr/m/n/12 ikke-inflation^^Zrt sy-stem som Bitco-in kan ^^Zn-dre den m^^Wa
 de, hvorp^^Wa
  []
@@ -901,7 +906,7 @@ de, hvorp^^Wa
 File: assets/images/children-playing-with-money.png Graphic file (type png)
 <use assets/images/children-playing-with-money.png>
 Package pdftex.def Info: assets/images/children-playing-with-money.png  used on
- input line 734.
+ input line 735.
 (pdftex.def)             Requested size: 325.22165pt x 117.69925pt.
  [40] [41 <./assets/images/children-playing-with-money.png>] [42] [43]
 [44
@@ -924,16 +929,16 @@ chapter 12.
 File: assets/images/fiat-definition.png Graphic file (type png)
 <use assets/images/fiat-definition.png>
 Package pdftex.def Info: assets/images/fiat-definition.png  used on input line 
-861.
+862.
 (pdftex.def)             Requested size: 227.61826pt x 71.38028pt.
 
-Overfull \hbox (0.31773pt too wide) in paragraph at lines 859--865
+Overfull \hbox (0.31773pt too wide) in paragraph at lines 860--866
 []\OT1/cmr/m/n/12 V^^Zrdien af fiat-penge stam-mer ik-ke fra de-res ind-byg-ge-
 de egen-
  []
 
 
-Overfull \hbox (15.17036pt too wide) in paragraph at lines 859--865
+Overfull \hbox (15.17036pt too wide) in paragraph at lines 860--866
 \OT1/cmr/m/n/12 der dr^^\mmer dem frem. De-res v^^Zr-di p^^Wal^^Zgges ved de-kr
 et, vilk^^Warligt. 
  []
@@ -943,10 +948,10 @@ et, vilk^^Warligt.
 File: assets/images/lydian-coin-stater.png Graphic file (type png)
 <use assets/images/lydian-coin-stater.png>
 Package pdftex.def Info: assets/images/lydian-coin-stater.png  used on input li
-ne 870.
+ne 871.
 (pdftex.def)             Requested size: 142.26852pt x 113.34059pt.
 
-Overfull \hbox (4.33437pt too wide) in paragraph at lines 877--878
+Overfull \hbox (4.33437pt too wide) in paragraph at lines 878--879
 \OT1/cmr/m/n/12 sen. Folk bar-be-re-de bog-sta-ve-ligt talt s^^Wa me-get af de-
 res s^^\lvdollars,
  []
@@ -955,10 +960,10 @@ res s^^\lvdollars,
 File: assets/images/clipped-coins.png Graphic file (type png)
 <use assets/images/clipped-coins.png>
 Package pdftex.def Info: assets/images/clipped-coins.png  used on input line 88
-0.
+1.
 (pdftex.def)             Requested size: 325.2029pt x 156.07082pt.
 
-Overfull \hbox (6.09685pt too wide) in paragraph at lines 879--884
+Overfull \hbox (6.09685pt too wide) in paragraph at lines 880--885
 \OT1/cmr/m/n/12 devaluering. P^^Wa klas-sisk politi-og-r^^\ver-man^^Ser blev m^
 ^\ntklipperne
  []
@@ -971,7 +976,7 @@ Underfull \vbox (badness 4582) has occurred while \output is active []
 File: assets/images/joachimsthaler.png Graphic file (type png)
 <use assets/images/joachimsthaler.png>
 Package pdftex.def Info: assets/images/joachimsthaler.png  used on input line 8
-89.
+90.
 (pdftex.def)             Requested size: 142.25952pt x 142.25952pt.
  [54 <./assets/images/clipped-coins.png>]
 <assets/images/us-silver-dollar-note-smaller.png, id=680, 1280.785pt x 551.0587
@@ -979,7 +984,7 @@ Package pdftex.def Info: assets/images/joachimsthaler.png  used on input line 8
 File: assets/images/us-silver-dollar-note-smaller.png Graphic file (type png)
 <use assets/images/us-silver-dollar-note-smaller.png>
 Package pdftex.def Info: assets/images/us-silver-dollar-note-smaller.png  used 
-on input line 898.
+on input line 899.
 (pdftex.def)             Requested size: 325.19852pt x 139.9169pt.
 
 Underfull \vbox (badness 2384) has occurred while \output is active []
@@ -990,17 +995,17 @@ Underfull \vbox (badness 2384) has occurred while \output is active []
 File: assets/images/us-gold-cert-100-smaller.png Graphic file (type png)
 <use assets/images/us-gold-cert-100-smaller.png>
 Package pdftex.def Info: assets/images/us-gold-cert-100-smaller.png  used on in
-put line 911.
+put line 912.
 (pdftex.def)             Requested size: 325.2044pt x 141.13614pt.
  [56 <./assets/images/us-silver-dollar-note-smaller.png>]
 <assets/images/us-dollar-2004.jpg, id=698, 1283.79625pt x 551.05875pt>
 File: assets/images/us-dollar-2004.jpg Graphic file (type jpg)
 <use assets/images/us-dollar-2004.jpg>
 Package pdftex.def Info: assets/images/us-dollar-2004.jpg  used on input line 9
-22.
+23.
 (pdftex.def)             Requested size: 325.19911pt x 139.58897pt.
 
-Overfull \hbox (16.04951pt too wide) in paragraph at lines 920--926
+Overfull \hbox (16.04951pt too wide) in paragraph at lines 921--927
 []\OT1/cmr/m/n/12 Afskaffelsen af guld-stan-dar-den i 1971 ful-dend-te det-te ^
 ^Warhundrede-
  []
@@ -1016,23 +1021,23 @@ chapter 13.
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 955.
+Package hyperref Warning: Suppressing empty link on input line 956.
 
 
-Package hyperref Warning: Suppressing empty link on input line 955.
+Package hyperref Warning: Suppressing empty link on input line 956.
 
 [60]
 <assets/images/money-multiplier.png, id=729, 779.91376pt x 444.66125pt>
 File: assets/images/money-multiplier.png Graphic file (type png)
 <use assets/images/money-multiplier.png>
 Package pdftex.def Info: assets/images/money-multiplier.png  used on input line
- 966.
+ 967.
 (pdftex.def)             Requested size: 325.21715pt x 185.4198pt.
  [61 <./assets/images/money-multiplier.png>]
 <assets/images/bsg.jpg, id=741, 1284.8pt x 722.7pt>
 File: assets/images/bsg.jpg Graphic file (type jpg)
 <use assets/images/bsg.jpg>
-Package pdftex.def Info: assets/images/bsg.jpg  used on input line 977.
+Package pdftex.def Info: assets/images/bsg.jpg  used on input line 978.
 (pdftex.def)             Requested size: 325.21812pt x 182.93518pt.
  [62 <./assets/images/bsg.jpg>] [63] [64
 
@@ -1044,7 +1049,7 @@ chapter 14.
 File: assets/images/you-are-here.png Graphic file (type png)
 <use assets/images/you-are-here.png>
 Package pdftex.def Info: assets/images/you-are-here.png  used on input line 102
-7.
+8.
 (pdftex.def)             Requested size: 325.19699pt x 164.00299pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1059,13 +1064,13 @@ Underfull \vbox (badness 3168) has occurred while \output is active []
 File: assets/images/stock-to-flow-white-cropped.png Graphic file (type png)
 <use assets/images/stock-to-flow-white-cropped.png>
 Package pdftex.def Info: assets/images/stock-to-flow-white-cropped.png  used on
- input line 1065.
+ input line 1066.
 (pdftex.def)             Requested size: 325.1928pt x 123.24847pt.
 <assets/images/soundness-over-time.png, id=813, 600.2425pt x 371.3875pt>
 File: assets/images/soundness-over-time.png Graphic file (type png)
 <use assets/images/soundness-over-time.png>
 Package pdftex.def Info: assets/images/soundness-over-time.png  used on input l
-ine 1071.
+ine 1072.
 (pdftex.def)             Requested size: 325.22519pt x 201.22629pt.
 
 [69] [70 <./assets/images/stock-to-flow-white-cropped.png>] [71 <./assets/image
@@ -1073,12 +1078,12 @@ s/soundness-over-time.png>] [72]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1117.
+(scrkbase)              on input line 1118.
 [73
 
 
 ] [74]
-Overfull \hbox (5.48618pt too wide) in paragraph at lines 1121--1121
+Overfull \hbox (5.48618pt too wide) in paragraph at lines 1122--1122
 \OT1/cmr/m/it/12 de hun til sig selv. S^^Wa tog hun den lil-le guldn^^\gle
  []
 
@@ -1098,10 +1103,10 @@ chapter 15.
 <assets/images/xkcd-1225.png, id=884, 742.775pt x 398.48875pt>
 File: assets/images/xkcd-1225.png Graphic file (type png)
 <use assets/images/xkcd-1225.png>
-Package pdftex.def Info: assets/images/xkcd-1225.png  used on input line 1155.
+Package pdftex.def Info: assets/images/xkcd-1225.png  used on input line 1156.
 (pdftex.def)             Requested size: 325.22394pt x 174.47824pt.
  [78 <./assets/images/xkcd-1225.png>]
-Overfull \hbox (8.67737pt too wide) in paragraph at lines 1169--1169
+Overfull \hbox (8.67737pt too wide) in paragraph at lines 1170--1170
 \OT1/cmr/m/n/12 de-cil-li-o-ner 237 un-de-cil-li-o-ner 316 de-cil-li-o-ner 195 
 novem-
  []
@@ -1111,16 +1116,16 @@ novem-
 File: assets/images/youtube-vid-inverted.png Graphic file (type png)
 <use assets/images/youtube-vid-inverted.png>
 Package pdftex.def Info: assets/images/youtube-vid-inverted.png  used on input 
-line 1174.
+line 1175.
 (pdftex.def)             Requested size: 325.19931pt x 181.93858pt.
  [80 <./assets/images/youtube-vid-inverted.png>]
 <assets/images/xkcd-538.png, id=930, 404.712pt x 247.52475pt>
 File: assets/images/xkcd-538.png Graphic file (type png)
 <use assets/images/xkcd-538.png>
-Package pdftex.def Info: assets/images/xkcd-538.png  used on input line 1186.
+Package pdftex.def Info: assets/images/xkcd-538.png  used on input line 1187.
 (pdftex.def)             Requested size: 227.62523pt x 139.21721pt.
 
-Overfull \hbox (0.25247pt too wide) in paragraph at lines 1184--1190
+Overfull \hbox (0.25247pt too wide) in paragraph at lines 1185--1191
 []\OT1/cmr/m/n/12 Bitcoins skat-teki-ste er me-get an-der-le-des. Den er sik-re
 t af st^^Zrk
  []
@@ -1130,10 +1135,10 @@ t af st^^Zrk
 File: assets/images/elliptic-curve-examples.png Graphic file (type png)
 <use assets/images/elliptic-curve-examples.png>
 Package pdftex.def Info: assets/images/elliptic-curve-examples.png  used on inp
-ut line 1200.
+ut line 1201.
 (pdftex.def)             Requested size: 325.21812pt x 98.58174pt.
  [82 <./assets/images/xkcd-538.png>]
-Overfull \hbox (14.84398pt too wide) in paragraph at lines 1207--1207
+Overfull \hbox (14.84398pt too wide) in paragraph at lines 1208--1208
 []\OT1/cmr/m/n/12 Det enor-me om-fang af mu-li-ge bitcoin-adresser er vir-ke-li
 g overv^^Zl-
  []
@@ -1144,10 +1149,10 @@ g overv^^Zl-
 ]
 chapter 16.
 
-Package hyperref Warning: Suppressing empty link on input line 1239.
+Package hyperref Warning: Suppressing empty link on input line 1240.
 
 
-Overfull \hbox (2.16725pt too wide) in paragraph at lines 1239--1239
+Overfull \hbox (2.16725pt too wide) in paragraph at lines 1240--1240
 [][]  \OT1/cmr/m/n/12 Det grund-l^^Zg-gen-de pro-blem med kon-ven-tio-nel va-
  []
 
@@ -1156,17 +1161,17 @@ Overfull \hbox (2.16725pt too wide) in paragraph at lines 1239--1239
 File: assets/images/ken-thompson-hack.png Graphic file (type png)
 <use assets/images/ken-thompson-hack.png>
 Package pdftex.def Info: assets/images/ken-thompson-hack.png  used on input lin
-e 1252.
+e 1253.
 (pdftex.def)             Requested size: 325.21613pt x 230.32695pt.
  [86] [87 <./assets/images/ken-thompson-hack.png>]
 <assets/images/stealthy-hardware-trojan.png, id=999, 999.735pt x 299.1175pt>
 File: assets/images/stealthy-hardware-trojan.png Graphic file (type png)
 <use assets/images/stealthy-hardware-trojan.png>
 Package pdftex.def Info: assets/images/stealthy-hardware-trojan.png  used on in
-put line 1261.
+put line 1262.
 (pdftex.def)             Requested size: 325.21512pt x 97.30331pt.
  [88 <./assets/images/stealthy-hardware-trojan.png>]
-Overfull \hbox (0.90523pt too wide) in paragraph at lines 1272--1273
+Overfull \hbox (0.90523pt too wide) in paragraph at lines 1273--1274
 \OT1/cmr/m/n/12 eller-^^Zgget\ op-start-s-pro-blem, som Ken Thomp-sons ha-ck s^
 ^Wa glim-
  []
@@ -1177,16 +1182,16 @@ Overfull \hbox (0.90523pt too wide) in paragraph at lines 1272--1273
 File: assets/images/guix-bootstrap-dependencies.png Graphic file (type png)
 <use assets/images/guix-bootstrap-dependencies.png>
 Package pdftex.def Info: assets/images/guix-bootstrap-dependencies.png  used on
- input line 1275.
+ input line 1276.
 (pdftex.def)             Requested size: 325.21272pt x 91.81651pt.
 
-Overfull \hbox (4.8913pt too wide) in paragraph at lines 1280--1281
+Overfull \hbox (4.8913pt too wide) in paragraph at lines 1281--1282
 \OT1/cmr/m/n/12 and-syn-ligt, at al-le software-tegneb^^\ger, al-le hardware-te
 gneb^^\ger,
  []
 
 
-Overfull \hbox (9.13431pt too wide) in paragraph at lines 1280--1281
+Overfull \hbox (9.13431pt too wide) in paragraph at lines 1281--1282
 \OT1/cmr/m/n/12 al-le kryp-to-gra-fi-ske bi-bli-o-te-ker, al-le knudepunkts-imp
 lementeringer
  []
@@ -1202,7 +1207,7 @@ File: assets/images/bitcoin-whitepaper-timestamp-wide.png Graphic file (type pn
 g)
 <use assets/images/bitcoin-whitepaper-timestamp-wide.png>
 Package pdftex.def Info: assets/images/bitcoin-whitepaper-timestamp-wide.png  u
-sed on input line 1322.
+sed on input line 1323.
 (pdftex.def)             Requested size: 325.20488pt x 87.68242pt.
 [93 <./assets/images/bitcoin-whitepaper-timestamp-wide.png>] [94] [95] [96
 
@@ -1210,7 +1215,7 @@ sed on input line 1322.
 ]
 chapter 18.
 
-Overfull \hbox (3.24223pt too wide) in paragraph at lines 1374--1374
+Overfull \hbox (3.24223pt too wide) in paragraph at lines 1375--1375
 [][]  \OT1/cmr/m/n/12 Man-ge men-ne-sker af-vi-ser au-to-ma-tisk e-valuta som
  []
 
@@ -1218,7 +1223,7 @@ Overfull \hbox (3.24223pt too wide) in paragraph at lines 1374--1374
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99]
-Overfull \hbox (5.34824pt too wide) in paragraph at lines 1395--1396
+Overfull \hbox (5.34824pt too wide) in paragraph at lines 1396--1397
 \OT1/cmr/m/n/12 open sour-ce og den frie softwa-re-bev^^Z-gel-se. Som Sa-tos-hi
  p^^Wapegede,
  []
@@ -1228,10 +1233,10 @@ chapter 19.
 <assets/images/nope.png, id=1127, 3613.5pt x 907.39pt>
 File: assets/images/nope.png Graphic file (type png)
 <use assets/images/nope.png>
-Package pdftex.def Info: assets/images/nope.png  used on input line 1434.
+Package pdftex.def Info: assets/images/nope.png  used on input line 1435.
 (pdftex.def)             Requested size: 325.20097pt x 81.66158pt.
 
-Overfull \hbox (0.76924pt too wide) in paragraph at lines 1439--1439
+Overfull \hbox (0.76924pt too wide) in paragraph at lines 1440--1440
 [][]  \OT1/cmr/m/n/12 Kryp-te-ring vir-ker. Kor-rekt im-ple-men-te-re-de, st^^Z
 r-
  []
@@ -1242,21 +1247,21 @@ r-
 ] [102 <./assets/images/nope.png>]
 chapter 20.
 
-Package hyperref Warning: Suppressing empty link on input line 1472.
+Package hyperref Warning: Suppressing empty link on input line 1473.
 
 
-Package hyperref Warning: Suppressing empty link on input line 1472.
+Package hyperref Warning: Suppressing empty link on input line 1473.
 
 
-Package hyperref Warning: Suppressing empty link on input line 1472.
+Package hyperref Warning: Suppressing empty link on input line 1473.
 
 
-Overfull \hbox (9.39932pt too wide) in paragraph at lines 1472--1472
+Overfull \hbox (9.39932pt too wide) in paragraph at lines 1473--1473
 \OT1/cmr/m/n/12 tion kun har kend-skab til det, der er di-rek-te n^^\dvendigt
  []
 
 
-Overfull \hbox (19.64755pt too wide) in paragraph at lines 1472--1472
+Overfull \hbox (19.64755pt too wide) in paragraph at lines 1473--1473
 \OT1/cmr/m/n/12 tions-sy-ste-mer. Ind-til nu har kon-tan-ter v^^Zret det prim^^
 Zre
  []
@@ -1272,7 +1277,7 @@ Underfull \vbox (badness 1226) has occurred while \output is active []
 File: assets/images/bitcoin-code-white.png Graphic file (type png)
 <use assets/images/bitcoin-code-white.png>
 Package pdftex.def Info: assets/images/bitcoin-code-white.png  used on input li
-ne 1478.
+ne 1479.
 (pdftex.def)             Requested size: 325.20526pt x 205.50664pt.
 
 [104] [105 <./assets/images/bitcoin-code-white.png>] [106
@@ -1284,13 +1289,13 @@ chapter 21.
 File: assets/images/tech-adoption.png Graphic file (type png)
 <use assets/images/tech-adoption.png>
 Package pdftex.def Info: assets/images/tech-adoption.png  used on input line 15
-15.
+16.
 (pdftex.def)             Requested size: 325.21715pt x 219.19196pt.
 <assets/images/mobile-phone.png, id=1196, 2055.68pt x 662.475pt>
 File: assets/images/mobile-phone.png Graphic file (type png)
 <use assets/images/mobile-phone.png>
 Package pdftex.def Info: assets/images/mobile-phone.png  used on input line 152
-3.
+4.
 (pdftex.def)             Requested size: 325.2142pt x 104.80536pt.
 [107] [108 <./assets/images/tech-adoption.png>] [109 <./assets/images/mobile-ph
 one.png>]
@@ -1299,23 +1304,23 @@ pt>
 File: assets/images/internet-evolution-white-dates.png Graphic file (type png)
 <use assets/images/internet-evolution-white-dates.png>
 Package pdftex.def Info: assets/images/internet-evolution-white-dates.png  used
- on input line 1538.
+ on input line 1539.
 (pdftex.def)             Requested size: 325.20526pt x 194.51529pt.
 <assets/images/running-bitcoin.png, id=1245, 624.3325pt x 261.97874pt>
 File: assets/images/running-bitcoin.png Graphic file (type png)
 <use assets/images/running-bitcoin.png>
 Package pdftex.def Info: assets/images/running-bitcoin.png  used on input line 
-1545.
+1546.
 (pdftex.def)             Requested size: 227.6175pt x 95.5115pt.
  [110 <./assets/images/internet-evolution-white-dates.png>]
 <assets/images/lnd-growth-lopp-white.png, id=1255, 2096.83376pt x 974.64125pt>
 File: assets/images/lnd-growth-lopp-white.png Graphic file (type png)
 <use assets/images/lnd-growth-lopp-white.png>
 Package pdftex.def Info: assets/images/lnd-growth-lopp-white.png  used on input
- line 1553.
+ line 1554.
 (pdftex.def)             Requested size: 325.19785pt x 151.15706pt.
 
-Underfull \hbox (badness 1655) in paragraph at lines 1554--1554
+Underfull \hbox (badness 1655) in paragraph at lines 1555--1555
 [][]|\OT1/cmr/m/n/12 Lightning-netv^^Zrket, ja-nu-ar 2018 vs. de-cem-ber
  []
 
@@ -1326,7 +1331,7 @@ pp-white.png>] [113] [114
 ]
 part without number
 [115] [116]
-Overfull \hbox (10.24402pt too wide) in paragraph at lines 1605--1606
+Overfull \hbox (10.24402pt too wide) in paragraph at lines 1606--1607
 []\OT1/cmr/m/n/12 Som n^^Zvnt i be-gyn-del-sen tror jeg, at et-hvert svar p^^Wa
  sp^^\rgsm^^Walet
  []
@@ -1338,7 +1343,7 @@ Overfull \hbox (10.24402pt too wide) in paragraph at lines 1605--1606
 
 
 ]
-Overfull \hbox (15.20091pt too wide) in paragraph at lines 1634--1634
+Overfull \hbox (15.20091pt too wide) in paragraph at lines 1635--1635
 []\OT1/cmr/m/n/12 Tak til Sai-fe-de-an Am-mous for hans over-be-vis-nin-ger, n^
 ^Wadesl^^\se
  []
@@ -1367,7 +1372,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (0.67885pt too wide) in paragraph at lines 1643--1643
+Overfull \hbox (0.67885pt too wide) in paragraph at lines 1644--1644
  [] \OT1/cmr/m/n/12 Den-ne bi-bli-o-gra-fi in-klu-de-rer en r^^Zk-ke b^^\ger, a
 r-tik-ler og online-
  []
@@ -2241,60 +2246,60 @@ cmr/m/n/12 ,
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 2.
+(scrkbase)              on input line 1.
 [143] [144] [145]
-Overfull \hbox (49.17964pt too wide) in paragraph at lines 33--35
-[]\OT1/cmr/m/n/12 Telegram-kanalen "EnOgTy-ve": []htt-ps://t.me/enogtyvedk[] 
+Overfull \hbox (16.03056pt too wide) in paragraph at lines 32--33
+[]\OT1/cmr/bx/n/12 Telegram-kanalen "EnOgTy-ve": \OT1/cmr/m/n/12 Chat for dan-s
+ke Bitcoin-
  []
 
 
-Overfull \hbox (39.67975pt too wide) in paragraph at lines 43--45
-[]\OT1/cmr/m/n/12 Bogen Bitco-in-stan-dar-den: []htt-ps://bitcoinstandarden.dk[
-] 
- []
-
-
-Overfull \hbox (12.10225pt too wide) in paragraph at lines 48--50
-[]\OT1/cmr/m/n/12 Bitcoinskolen.net: []htt-ps://www.bitcoinskolen.net/[] 
+Overfull \hbox (8.17105pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/bx/n/12 Bogen \OT1/cmr/bx/it/12 Bitco-in-stan-dar-den\OT1/cmr/bx/n/1
+2 : \OT1/cmr/m/n/12 En de-tal-je-ret ^^\ko-no-misk ana-
  []
 
 ) [146] (./167-main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `167-main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13736 strings out of 480432
- 247972 string characters out of 5891250
- 817581 words of memory out of 5000000
- 29938 multiletter control sequences out of 15000+600000
- 411618 words of font info for 54 fonts, out of 8000000 for 9000
+ 13756 strings out of 480432
+ 248354 string characters out of 5891250
+ 818211 words of memory out of 5000000
+ 29953 multiletter control sequences out of 15000+600000
+ 411977 words of font info for 55 fonts, out of 8000000 for 9000
  428 hyphenation exceptions out of 8191
- 111i,10n,116p,10629b,888s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,10n,116p,10660b,888s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/debian/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.60
 0pk> </home/debian/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.
 600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmtt12.pfb>
-Output written on 167-main.pdf (162 pages, 19298394 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on 167-main.pdf (162 pages, 19308176 bytes).
 PDF statistics:
- 2006 PDF objects out of 2073 (max. 8388607)
- 1746 compressed objects within 18 object streams
- 567 named destinations out of 1000 (max. 500000)
+ 2011 PDF objects out of 2073 (max. 8388607)
+ 1750 compressed objects within 18 object streams
+ 568 named destinations out of 1000 (max. 500000)
  422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

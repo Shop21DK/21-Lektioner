@@ -48,5 +48,5 @@
 \contentsline {chapter}{\numberline {21}Metaforer for Bitcoins fremtid}{107}{chapter.21}%
 \contentsline {paragraph}{\nonumberline Bitcoin har lært mig, at det er vigtigt at forstå fortiden for at forstå dens fremtid. En fremtid, som kun lige er begyndt\dots }{113}{paragraph*.131}%
 \contentsline {part}{\nonumberline Afsluttende tanker}{115}{part*.133}%
-\contentsline {part}{\numberline {IV}Den danske version}{143}{part.4}%
+\contentsline {part}{\numberline {IV}Den danske udgave}{143}{part.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
