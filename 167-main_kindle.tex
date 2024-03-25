@@ -29,9 +29,11 @@
 % Copyright with title BEGIN
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%remove pages 4,12,20,22,28,30,34,44,48,52,56,60,62,66,88,100,108,120,122,126,158,172,174,182,186,188,208
 %https://tex.stackexchange.com/questions/16735/latex-options-for-kindle
 
-\usepackage[papersize={108mm,144mm},margin=2mm]{geometry}  
+%\usepackage[papersize={108mm,144mm},margin=2mm]{geometry}  
+\usepackage[width=85.09mm, height=111.76mm, center]{crop}
 \sloppy 
 \pagestyle{empty} 
 \usepackage[scaled]{helvet}
@@ -45,6 +47,22 @@
 
 \renewcommand{\headrulewidth}{0pt} % Optional: Removes the horizontal line in the header
 \renewcommand{\footrulewidth}{0pt} % Optional: Removes the horizontal line in the footer
+
+
+
+
+\usepackage[pdftex]{pict2e}
+\usepackage{color}
+\definecolor{light-gray}{gray}{0.95}
+
+\newcommand*\cornerCrop{% 
+  \begin{picture}(0,0)
+    \unitlength1pt
+    \put(0,0){\color{light-gray}\circle*{1}}
+\end{picture}}
+
+\cropdef\cornerCrop\cornerCrop\cornerCrop\cornerCrop{cornerDots}
+\crop[cornerDots]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \def\secondpage{\clearpage\null\vfill
