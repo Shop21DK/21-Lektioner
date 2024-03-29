@@ -1,0 +1,338 @@
+<!DOCTYPE html> 
+<html lang='da' xmlns:epub='http://www.idpf.org/2007/ops' xmlns='http://www.w3.org/1999/xhtml'> 
+<head><title>15 Styrke i tal</title> 
+<meta charset='UTF-8' /> 
+<meta name='generator' content='TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)' /> 
+<link href='167-main_kindle.css' rel='stylesheet' type='text/css' /> 
+</head><body>
+  <!-- l. 1162 --><div class='crosslinks'><p class='noindent'></p></div>
+  <h2 class='chapterHead'><span class='titlemark'>15</span>  <a id='x27-6400015'></a>Styrke i tal</h2>
+         <p class='noindent'><span class='phvro8t-x-x-114'>„Lad mig se: fire gange fem er tolv, og fire
+         </span><span class='phvro8t-x-x-114'>gange seks er tretten, og fire gange syv er
+         </span><span class='phvro8t-x-x-114'>fjorten - åh nej! Jeg når aldrig op på tyve med
+         </span><span class='phvro8t-x-x-114'>den hastighed!“</span>
+</p> 
+<p class='indent'>                                   – Lewis Carroll, <span class='phvro8t-x-x-114'>Alice i
+</span><span class='phvro8t-x-x-114'>Eventyrland</span>    
+</p> 
+<p class='noindent'>Tal er en vigtig del af vores hverdag. Store tal er dog ikke noget,
+som de fleste af os er fortrolige med. De største tal, vi kan støde
+på i hverdagen, er i størrelsesordenen millioner, milliarder eller
+billioner. Vi kan læse om millioner af mennesker i fattigdom,
+milliarder af dollars brugt på redningspakker til banker og
+billioner af dollars i statsgæld. Selvom det er svært at finde
+hoved og hale i disse overskrifter, er vi nogenlunde fortrolige
+med størrelsen af disse tal.
+</p> 
+<p class='indent'>  Selvom vi måske er fortrolige med milliarder og billioner,
+begynder vores intuition allerede at svigte når vi arbejder med
+tal i denne størrelsesorden. Har du en fornemmelse af, hvor
+længe du skal vente på, at der går en million/milliard/trillion
+sekunder? Hvis du er ligesom mig, er du fortabt uden faktisk at
+regne på tallene.
+</p> 
+<p class='indent'>  Lad os se nærmere på dette eksempel: Forskellen mellem
+hver er en stigning på tre størrelsesordener: <span class='cmr-12'>10</span><sup><span class='cmr-8'>6</span></sup>, <span class='cmr-12'>10</span><sup><span class='cmr-8'>9</span></sup>, <span class='cmr-12'>10</span><sup><span class='cmr-8'>12</span></sup>. Det
+er ikke særlig nyttigt at tænke i sekunder, så lad os omsætte det
+                                                        
+                                                        
+til noget, vi kan forstå:</p> 
+
+      <ul class='itemize1'>
+      <li class='itemize'><span class='cmr-12'>10</span><sup><span class='cmr-8'>6</span></sup>: En million sekunder var <span class='cmr-12'>1</span><img src='167-main_kindle3x.png' align='middle' class='frac' alt='12' /> uge siden.
+      </li>
+      <li class='itemize'><span class='cmr-12'>10</span><sup><span class='cmr-8'>9</span></sup>: En milliard sekunder er næsten 32 år siden.
+      </li>
+      <li class='itemize'><span class='cmr-12'>10</span><sup><span class='cmr-8'>12</span></sup>:       For       en       billion       sekunder       siden
+      var      Manhattan      dækket      af      et      tykt      lag
+      is.<a href='#fn1x16' epub:type='noteref'><sup class='textsuperscript'>1</sup></a><a id='x27-64001f1'></a></li></ul>
+  <figure class='figure'> 
+
+                                                        
+                                                        
+                                                        
+                                                        
+<p class='indent'><img height='295' src='assets/images/xkcd-1225.png' width='295' alt='PIC' /> <a id='x27-64002r1'></a>
+<a id='x27-64003'></a></p> 
+<section class='footnotes' epub:type='footnotes'> 
+
+<aside epub:type='footnote' class='footnote' id='fn1x16'><p><sup class='textsuperscript'>1</sup><span class='phvr8t-x-x-95'>En billion sekunder (</span><span class='cmr-10'>10</span><sup><span class='cmr-7'>12</span></sup><span class='phvr8t-x-x-95'>) var </span><span class='cmr-10'>31</span><span class='cmmi-10'>.</span><span class='cmr-10'>710 </span><span class='phvr8t-x-x-95'>år siden. Den sidste istid nåede sit
+</span><span class='phvr8t-x-x-95'>højeste niveau for </span><span class='cmr-10'>33</span><span class='cmmi-10'>.</span><span class='cmr-10'>000 </span><span class='phvr8t-x-x-95'>år siden. [</span><a href='167-main_kindleli13.xhtml#Xwiki:LGM'><span class='phvr8t-x-x-95'>88</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                          
+</section> 
+<figcaption class='caption'><span class='id'>
+Figur 15.1: </span><span class='content'>For  omkring  1  billion  sekunder  siden.  Kilde:
+            xkcd 1225
+</span></figcaption><!-- tex4ht:label?: x27-64002r15  -->
+                                                        
+                                                        
+  </figure>
+<p class='indent'>  Så snart vi bevæger os ind i den moderne kryptografis
+astronomiske sfære, svigter vores intuition katastrofalt. Bitcoin
+er bygget op omkring store tal og den næsten umulige opgave,
+det er at gætte dem. Disse tal er langt, langt større end noget, vi
+kan støde på i dagligdagen. Mange størrelsesordener større. At
+forstå, hvor store disse tal i virkeligheden er, er afgørende for at
+forstå Bitcoin som helhed.
+</p> 
+<p class='indent'>  Lad  os  kigge  nærmere  på
+SHA-256<a href='#fn2x16' epub:type='noteref'><sup class='textsuperscript'>2</sup></a><a id='x27-64004f2'></a>, en af
+hash-funktionerne<a href='#fn3x16' epub:type='noteref'><sup class='textsuperscript'>3</sup></a><a id='x27-64005f3'></a>
+der bruges i Bitcoin, som et konkret eksempel. Det er
+kun naturligt at tænke på 256 bits som „to hundrede og
+seksoghalvtreds“, hvilket slet ikke er et stort tal. Men tallet i
+SHA-256 taler om størrelsesordener - noget vores hjerner ikke
+er gearet til at håndtere.
+  Bitlængden er et praktisk mål, men den sande betydning af
+256-bit sikkerhed går tabt i oversættelsen. Ligesom millionerne
+(<span class='cmr-12'>10</span><sup><span class='cmr-8'>6</span></sup>) og milliarderne (<span class='cmr-12'>10</span><sup><span class='cmr-8'>9</span></sup>) ovenfor, omhandler tallet i SHA-256
+en størrelsesordenen (<span class='cmr-12'>2</span><sup><span class='cmr-8'>256</span></sup>).
+</p> 
+<section class='footnotes' epub:type='footnotes'> 
+
+  <aside epub:type='footnote' class='footnote' id='fn2x16'><p><sup class='textsuperscript'>2 </sup>SHA-256 er en del af SHA-2-familien af kryptografiske hashfunktioner,
+der er udviklet af den amerikanske sikkerhedstjeneste NSA. [<a href='167-main_kindleli13.xhtml#Xwiki:sha2'>97</a>]</p> 
+
+</aside>
+  <aside epub:type='footnote' class='footnote' id='fn3x16'><p><sup class='textsuperscript'>3 </sup><span class='phvr8t-x-x-95'>Bitcoin bruger SHA-256 til hashing af blokke. [</span><a href='167-main_kindleli13.xhtml#Xbtcwiki:block-hashing'><span class='phvr8t-x-x-95'>12</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                
+</section> 
+<p class='indent'>    Så
+hvor stærk er SHA-256 egentlig?
+        </p> 
+<blockquote class='quotation'>
+                                                        
+                                                        
+      <p class='indent'>    „SHA-256 er meget stærk. Det er ikke som det
+      trinvise skridt fra MD5 til SHA1. Den kan holde i
+      flere årtier, medmindre der opstår et massivt
+      gennembrudsangreb.“ </p> 
+
+                                                   <div class='flushright'>
+<p class='indent'>
+ – Satoshi
+Nakamoto<a href='#fn4x16' epub:type='noteref'><sup class='textsuperscript'>4</sup></a><a id='x27-64006f4'></a></p> 
+<section class='footnotes' epub:type='footnotes'> 
+<aside epub:type='footnote' class='footnote' id='fn4x16'><p><sup class='textsuperscript'>4 </sup><span class='phvr8t-x-x-95'>Satoshi Nakamoto, i et svar på et spørgsmål om SHA-256-kollisioner.
+</span><span class='phvr8t-x-x-95'>[</span><a href='167-main_kindleli13.xhtml#Xsatoshi-sha256'><span class='phvr8t-x-x-95'>55</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                                                                                                          
+</section> 
+</div>
+      </blockquote>
+<p class='indent'>  Lad os skære det ud i pap. <span class='cmr-12'>2</span><sup><span class='cmr-8'>256</span></sup> er lig med følgende
+tal:
+        </p> 
+<blockquote class='quotation'>
+      <p class='indent'>    115 kvattuordecillioner 792 tredecillioner 89
+      duodecillioner 237 undecillioner 316 decillioner
+      195 novemdecillioner 423 oktodecillioner
+      570 septendecillioner 985 sexdecillioner 8
+      quindecillioner 687 quattuordecillioner 907
+      tredecillioner 853 duodecillioner 269 undecillioner
+      984 kvintilliard 665 kvintillion 640 kvadrilliard 564
+      kvadrillion 39 trilliard 457 trillion 584 billiard 7
+      billioner 913 milliarder 129 millioner 639 tusind
+      936.
+      </p> 
+</blockquote>
+                                                        
+                                                        
+<p class='indent'>  Det er mange kvintillioner! Det er stort set umuligt at forstå
+dette tal. Der er intet i det fysiske univers at sammenligne
+det med. Det er langt større end antallet af atomer i det
+observerbare univers. Den menneskelige hjerne er simpelthen
+ikke skabt til at forstå det.
+                                                        
+                                                        
+</p> 
+<p class='indent'>  En af de bedste visualiseringer af den sande
+styrke i SHA-256 er en video af Grant Sanderson.
+Den hedder meget passende <span class='phvro8t-x-x-114'>„How secure is 256 bit
+</span><span class='phvro8t-x-x-114'>security?“</span><a href='#fn5x16' epub:type='noteref'><sup class='textsuperscript'>5</sup></a><a id='x27-64007f5'></a>
+Den viser på smukkeste vis, hvor stort et 256-bit rum er.
+Gør dig selv en tjeneste og brug fem minutter på at
+se den. Som alle andre <span class='phvro8t-x-x-114'>3Blue1Brown</span>-videoer er den
+ikke bare fascinerende, men også usædvanligt godt
+lavet. Advarsel: Du falder måske ned i et matematisk
+kaninhul.</p> 
+<section class='footnotes' epub:type='footnotes'> 
+    <aside epub:type='footnote' class='footnote' id='fn5x16'><p><sup class='textsuperscript'>5 </sup><span class='phvr8t-x-x-95'>Se videoen på </span><a href='https://youtu.be/S9JGmA5nY_u' class='url'><span class='ectt-1000'>https://youtu.be/S9JGmA5nY_u</span></a></p> 
+ </aside>                
+</section> 
+<figure class='figure'> 
+
+                                                        
+                                                        
+                                                        
+                                                        
+<p class='indent'><img height='295' src='assets/images/youtube-vid-inverted.png' width='295' alt='PIC' /> <a id='x27-64008r2'></a>
+<a id='x27-64009'></a>
+</p> 
+<figcaption class='caption'><span class='id'>Figur 15.2: </span><span class='content'>Illustration   af   SHA-256-sikkerhed.   Original
+            grafik  af  Grant  Sanderson  også  kendt  som
+            3Blue1Brown.
+</span></figcaption><!-- tex4ht:label?: x27-64008r15  -->
+                                                        
+                                                        
+  </figure>
+<p class='indent'>  Bruce Schneier [<a href='167-main_kindleli13.xhtml#Xweb:schneier'>65</a>] brugte de fysiske grænser for
+beregning til at sætte dette tal i perspektiv: Selv hvis vi
+kunne bygge en optimal computer, som ville bruge al
+energi til rådighed, til at flippe bits perfekt [<a href='167-main_kindleli13.xhtml#Xwiki:landauer'>87</a>], bygge en
+Dyson-sfære<a href='#fn6x16' epub:type='noteref'><sup class='textsuperscript'>6</sup></a><a id='x27-64010f6'></a>
+rundt om vores sol og lade den køre i 100 milliarder milliarder
+år, ville vi stadig kun have en chance på <span class='cmr-12'>25% </span>for at finde en nål i
+en høstak på 256 bit.
+        </p> 
+<section class='footnotes' epub:type='footnotes'> 
+    <aside epub:type='footnote' class='footnote' id='fn6x16'><p><sup class='textsuperscript'>6 </sup><span class='phvr8t-x-x-95'>En Dyson-sfære er en hypotetisk megastruktur, som fuldstændigt omslutter
+</span><span class='phvr8t-x-x-95'>en stjerne og opsamler en stor procentdel af dens energiudbytte. [</span><a href='167-main_kindleli13.xhtml#Xwiki:dyson'><span class='phvr8t-x-x-95'>81</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+
+</aside>                                                                                                                 
+</section> 
+<blockquote class='quotation'>
+      <p class='indent'>    „Disse tal har intet at gøre med apparaternes
+      teknologi; de er de maksimale værdier, som
+      termodynamikken tillader. Desuden antyder de
+      kraftigt, at brute-force-angreb mod 256-bit nøgler vil
+      være umulige, indtil computere bliver bygget af
+      noget andet end fysiske materialer og optager
+      noget andet end plads.“ </p> 
+
+                                                   <div class='flushright'>
+<p class='indent'>
+ – Bruce
+Schneier<a href='#fn7x16' epub:type='noteref'><sup class='textsuperscript'>7</sup></a><a id='x27-64011f7'></a></p> 
+<section class='footnotes' epub:type='footnotes'> 
+<aside epub:type='footnote' class='footnote' id='fn7x16'><p><sup class='textsuperscript'>7 </sup><span class='phvr8t-x-x-95'>Bruce Schneier, </span><span class='phvro8t-x-x-95'>Applied Cryptography </span><span class='phvr8t-x-x-95'>[</span><a href='167-main_kindleli13.xhtml#Xbruce-schneier'><span class='phvr8t-x-x-95'>64</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                                              
+</section> 
+</div>
+      </blockquote>
+                                                        
+                                                        
+  Det er svært at overdrive betydningen af dette. Stærk
+kryptografi vender op og ned på magtbalancen i den fysiske
+verden, som vi er så vant til. Ubrydelige ting findes ikke i den
+virkelige verden. Hvis du bruger tilstrækkelig kraft, vil du kunne
+åbne enhver dør, kasse eller skattekiste.
+<p class='indent'>  Bitcoins skattekiste er meget anderledes. Den er sikret af
+stærk kryptografi, som ikke giver plads til brute force. Og så
+længe de underliggende matematiske antagelser holder, er
+brute force det eneste, vi har. Bevares, der er også risikoen for
+et globalt angreb med $5 skruenøgler (figur <a href='#x27-64012r3'>15.3<!-- tex4ht:ref: fig:xkcd-538  --></a>) Men
+tortur vil ikke virke på alle bitcoin-adresser, og bitcoins
+kryptografiske vægge vil afværge alle brute force-angreb. Selv
+hvis du angriber med en kraft som tusind sole, bogstaveligt
+talt.</p> 
+<figure class='figure'> 
+
+                                                        
+                                                        
+                                                        
+                                                        
+<p class='indent'><img height='227' src='assets/images/xkcd-538.png' width='227' alt='PIC' /> <a id='x27-64012r3'></a>
+<a id='x27-64013'></a>
+</p> 
+<figcaption class='caption'><span class='id'>Figur 15.3: </span><span class='content'>$Angreb med 5$ skruenøgle. Kilde: xkcd 538 </span></figcaption><!-- tex4ht:label?: x27-64012r15  -->
+                                                        
+                                                        
+  </figure>
+<p class='indent'>  Denne kendsgerning og dens implikationer blev gribende
+opsummeret i opfordringen til at benytte kryptografiske våben:
+<span class='phvro8t-x-x-114'>„Ingen form for tvang vil nogensinde kunne løse et matematisk
+</span><span class='phvro8t-x-x-114'>problem.“</span>
+        </p> 
+<blockquote class='quotation'>
+      <p class='indent'>    „Det er ikke indlysende, at verden skulle
+      fungere på denne måde, men på én eller
+      anden måde smiler universet til kryptering.“
+      </p> 
+
+                                                   <div class='flushright'>
+<p class='indent'>
+ – Julian
+Assange<a href='#fn8x16' epub:type='noteref'><sup class='textsuperscript'>8</sup></a><a id='x27-64014f8'></a></p> 
+<section class='footnotes' epub:type='footnotes'> 
+<aside epub:type='footnote' class='footnote' id='fn8x16'><p><sup class='textsuperscript'>8 </sup><span class='phvr8t-x-x-95'>Julian Assange, </span><span class='phvro8t-x-x-95'>A Call to Cryptographic Arms </span><span class='phvr8t-x-x-95'>[</span><a href='167-main_kindleli13.xhtml#Xcall-to-cryptographic-arms'><span class='phvr8t-x-x-95'>5</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                                    
+</section> 
+</div>
+      </blockquote>
+<p class='indent'>  Ingen ved endnu med sikkerhed, om universets smil er ægte
+eller ej. Det er muligt, at vores antagelse om matematiske
+asymmetrier er forkert og at vi finder ud af, at P faktisk er
+lig med NP [<a href='167-main_kindleli13.xhtml#Xwiki:pnp'>95</a>], eller at vi overraskende finder hurtige
+løsninger på specifikke problemer [<a href='167-main_kindleli13.xhtml#Xwiki:discrete-log'>79</a>] som vi i øjeblikket
+antager, er svære at løse. Hvis det skulle være tilfældet, vil
+kryptografi, som vi kender den, ophøre med at eksistere, og
+konsekvenserne vil højst sandsynligt ændre verden til
+ukendelighed.
+                                                        
+                                                        
+        </p> 
+<blockquote class='quotation'>
+      <p class='indent'>    „Vires in Numeris“ = „Styrke i
+      tal“<a href='#fn9x16' epub:type='noteref'><sup class='textsuperscript'>9</sup></a><a id='x27-64015f9'></a>
+      </p> 
+<section class='footnotes' epub:type='footnotes'> 
+    <aside epub:type='footnote' class='footnote' id='fn9x16'><p><sup class='textsuperscript'>9 </sup><span class='phvro8t-x-x-95'>Vires in Numeris </span><span class='phvr8t-x-x-95'>blev først foreslået som et Bitcoin-motto af
+</span><span class='phvr8t-x-x-95'>bitcointalk-brugeren </span><span class='phvro8t-x-x-95'>epii</span><span class='phvr8t-x-x-95'> [</span><a href='167-main_kindleli13.xhtml#Xepii'><span class='phvr8t-x-x-95'>26</span></a><span class='phvr8t-x-x-95'>]</span></p> 
+ </aside>                                                                  
+</section> 
+</blockquote>
+<p class='indent'>  <span class='phvro8t-x-x-114'>Vires in numeris </span>er ikke kun et fængende motto, der
+bruges af bitcoinere. Erkendelsen af, at der er en ufattelig
+styrke at finde i tal, er dybtgående. Forståelsen af den
+omvending af den eksisterende magtbalance, som det
+muliggør, ændrede mit syn på verden og den fremtid, der ligger
+foran os.
+</p> 
+<p class='indent'>  Et direkte resultat af dette er det faktum, at du ikke behøver at
+spørge nogen om lov til at deltage i Bitcoin. Der er ingen side,
+man skal tilmelde sig, ingen virksomhed, der har ansvaret,
+ingen myndighed, man skal sende ansøgningsskemaer til. Du
+skal blot generere et stort tal, og så er du stort set klar. Den
+centrale myndighed for kontooprettelse er matematik. Og kun
+Gud ved, hvem der er ansvarlig for det.</p> 
+<figure class='figure'> 
+
+                                                        
+                                                        
+                                                        
+                                                        
+<p class='indent'><img height='295' src='assets/images/elliptic-curve-examples.png' width='295' alt='PIC' /> <a id='x27-64016r4'></a>
+<a id='x27-64017'></a>
+</p> 
+<figcaption class='caption'><span class='id'>Figur 15.4: </span><span class='content'>Eksempler på elliptiske kurver. Grafik cc-by-sa
+            Emmanuel Boutet.
+</span></figcaption><!-- tex4ht:label?: x27-64016r15  -->
+                                                        
+                                                        
+  </figure>
+<p class='indent'>  Bitcoin er bygget på vores bedste forståelse af virkeligheden.
+Selvom der stadig er mange åbne problemer inden for fysik,
+datalogi og matematik, er vi dog ret sikre på visse ting. At der
+er en asymmetri mellem at finde løsninger og validere
+korrektheden af disse løsninger er en af disse ting. At beregning
+kræver energi er en anden. Med andre ord: Det er sværere at
+finde en nål i en høstak end at tjekke, om den spidse ting i din
+hånd faktisk er en nål eller ej. Og det kræver arbejde at finde
+nålen.
+</p> 
+<p class='indent'>  Det enorme omfang af mulige bitcoin-adresser er virkelig
+overvældende. Antallet af private nøgler er endnu højere. Det er
+fascinerende, hvor meget af vores moderne verden, der kan
+koges ned til usandsynligheden af at finde en nål i en
+ubegribelig stor høstak. Jeg er nu mere bevidst om dette faktum
+end nogensinde før.
+  <a id='paragraph*.47'></a></p> 
+
+<p class='noindent'><span class='paragraphHead'><a id='x27-6500015'></a><span class='phvb8t-x-x-114'>Bitcoin har lært mig, at der er styrke i tal.</span></span>
+                                                        
+                                                        
+  </p> 
+<!-- l. 1255 --><div class='crosslinks'><p class='noindent'></p></div>
+   
+</body> 
+</html>

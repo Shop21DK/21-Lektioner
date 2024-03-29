@@ -1,0 +1,290 @@
+     <?xml version="1.0" encoding="utf-8"?> 
+         <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head> 
+ <meta name="dtb:uid" content="http://example.com/167-main"/> 
+ <meta name="dtb:depth" content="3"/> 
+ <meta name="dtb:totalPageCount" content="0"/> 
+ <meta name="dtb:maxPageNumber" content="0"/> 
+ </head> 
+ <docTitle> 
+<text>21 Lektioner</text> 
+</docTitle> 
+ <navMap>      
+<navPoint id="navPoint-1" playOrder="1"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Forord</text> 
+</navLabel> 
+<content src="167-mainli1.xhtml#x2-1000" />  </navPoint> 
+     
+<navPoint id="navPoint-2" playOrder="2"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Indhold</text> 
+</navLabel> 
+<content src="167-mainli2.xhtml#x3-2000" />  </navPoint> 
+     
+<navPoint id="navPoint-3" playOrder="3"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Om denne bog <br 
+class="newline" />(... og om forfatteren)</text> 
+</navLabel> 
+<content src="167-mainli3.xhtml#x4-3000" />  </navPoint> 
+     
+<navPoint id="navPoint-4" playOrder="4"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Forord</text> 
+</navLabel> 
+<content src="167-mainli4.xhtml#x5-7000" />  </navPoint> 
+     
+<navPoint id="navPoint-5" playOrder="5"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Introduktion</text> 
+</navLabel> 
+<content src="167-mainli5.xhtml#x6-9000" />  </navPoint> 
+     
+<navPoint id="navPoint-6" playOrder="6"> 
+<navLabel> 
+<text><navmark type="part">  I</navmark> Filosofi</text> 
+</navLabel> 
+<content src="167-mainpa1.xhtml#x7-13000I" />
+ 
+<navPoint id="navPoint-7" playOrder="7"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Filosofi</text> 
+</navLabel> 
+<content src="167-mainli6.xhtml#x8-14000I" />  </navPoint> 
+     
+<navPoint id="navPoint-8" playOrder="8"> 
+<navLabel> 
+<text><navmark type="chapter">  1</navmark> Uforanderlighed og forandring</text> 
+</navLabel> 
+<content src="167-mainch1.xhtml#x9-150001" />  </navPoint> 
+     
+<navPoint id="navPoint-9" playOrder="9"> 
+<navLabel> 
+<text><navmark type="chapter">  2</navmark> Knaphedens
+knaphed</text> 
+</navLabel> 
+<content src="167-mainch2.xhtml#x10-190002" />  </navPoint> 
+     
+<navPoint id="navPoint-10" playOrder="10"> 
+<navLabel> 
+<text><navmark type="chapter">  3</navmark> Replikation og lokalitet</text> 
+</navLabel> 
+<content src="167-mainch3.xhtml#x11-210003" />  </navPoint> 
+     
+<navPoint id="navPoint-11" playOrder="11"> 
+<navLabel> 
+<text><navmark type="chapter">  4</navmark> Problemet med
+identitet</text> 
+</navLabel> 
+<content src="167-mainch4.xhtml#x12-230004" /> </navPoint> 
+    
+<navPoint id="navPoint-12" playOrder="12"> 
+<navLabel> 
+<text><navmark type="chapter"> 5</navmark> En perfekt undfangelse</text> 
+</navLabel> 
+<content src="167-mainch5.xhtml#x13-250005" /> </navPoint> 
+    
+<navPoint id="navPoint-13" playOrder="13"> 
+<navLabel> 
+<text><navmark type="chapter"> 6</navmark> Ytringsfrihedens kraft</text> 
+</navLabel> 
+<content src="167-mainch6.xhtml#x14-270006" /> </navPoint> 
+
+ 
+<navPoint id="navPoint-14" playOrder="14"> 
+<navLabel> 
+<text><navmark type="chapter">  7</navmark> Grænserne for viden</text> 
+</navLabel> 
+<content src="167-mainch7.xhtml#x15-290007" />  </navPoint> 
+</navPoint> 
+     
+<navPoint id="navPoint-15" playOrder="15"> 
+<navLabel> 
+<text><navmark type="part">  II</navmark> Økonomi</text> 
+</navLabel> 
+<content src="167-mainpa2.xhtml#x16-33000II" />       
+<navPoint id="navPoint-16" playOrder="16"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Økonomi</text> 
+</navLabel> 
+<content src="167-mainli7.xhtml#x17-34000II" />  </navPoint> 
+
+ 
+<navPoint id="navPoint-17" playOrder="17"> 
+<navLabel> 
+<text><navmark type="chapter"> 8</navmark> Finansiel uvidenhed</text> 
+</navLabel> 
+<content src="167-mainch8.xhtml#x18-350008" /> </navPoint> 
+     
+<navPoint id="navPoint-18" playOrder="18"> 
+<navLabel> 
+<text><navmark type="chapter"> 9</navmark> Inflation</text> 
+</navLabel> 
+<content src="167-mainch9.xhtml#x19-380009" /> </navPoint> 
+     
+<navPoint id="navPoint-19" playOrder="19"> 
+<navLabel> 
+<text><navmark type="chapter"> 10</navmark> Værdi</text> 
+</navLabel> 
+<content src="167-mainch10.xhtml#x20-4500010" /> </navPoint> 
+     
+<navPoint id="navPoint-20" playOrder="20"> 
+<navLabel> 
+<text><navmark type="chapter">
+11</navmark> Penge</text> 
+</navLabel> 
+<content src="167-mainch11.xhtml#x21-4700011" /> </navPoint> 
+     
+<navPoint id="navPoint-21" playOrder="21"> 
+<navLabel> 
+<text><navmark type="chapter"> 12</navmark> Pengenes historie og undergang</text> 
+</navLabel> 
+<content src="167-mainch12.xhtml#x22-5000012" /> </navPoint> 
+     
+<navPoint id="navPoint-22" playOrder="22"> 
+<navLabel> 
+<text><navmark type="chapter"> 13</navmark> Vanviddet
+i brøkreserve-bankvæsenet</text> 
+</navLabel> 
+<content src="167-mainch13.xhtml#x23-5500013" /> </navPoint> 
+     
+<navPoint id="navPoint-23" playOrder="23"> 
+<navLabel> 
+<text><navmark type="chapter"> 14</navmark> Stabile penge</text> 
+</navLabel> 
+<content src="167-mainch14.xhtml#x24-5800014" /> </navPoint> 
+</navPoint> 
+     
+<navPoint id="navPoint-24" playOrder="24"> 
+<navLabel> 
+<text><navmark type="part"> III</navmark> Teknologi</text> 
+</navLabel> 
+<content src="167-mainpa3.xhtml#x25-62000III" />
+ 
+<navPoint id="navPoint-25" playOrder="25"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Teknologi</text> 
+</navLabel> 
+<content src="167-mainli8.xhtml#x26-63000III" />  </navPoint> 
+     
+<navPoint id="navPoint-26" playOrder="26"> 
+<navLabel> 
+<text><navmark type="chapter">  15</navmark> Styrke i tal</text> 
+</navLabel> 
+<content src="167-mainch15.xhtml#x27-6400015" />  </navPoint> 
+     
+<navPoint id="navPoint-27" playOrder="27"> 
+<navLabel> 
+<text><navmark type="chapter">  16</navmark> Refleksioner over
+„Stol ikke, bekræft“</text> 
+</navLabel> 
+<content src="167-mainch16.xhtml#x28-6600016" />  </navPoint> 
+     
+<navPoint id="navPoint-28" playOrder="28"> 
+<navLabel> 
+<text><navmark type="chapter">  17</navmark> At fortælle tid kræver arbejde</text> 
+</navLabel> 
+<content src="167-mainch17.xhtml#x29-6800017" />  </navPoint> 
+     
+<navPoint id="navPoint-29" playOrder="29"> 
+<navLabel> 
+<text><navmark type="chapter">
+18</navmark> Bevæg dig langsomt, og undgå at ødelægge ting</text> 
+</navLabel> 
+<content src="167-mainch18.xhtml#x30-7000018" />  </navPoint> 
+     
+<navPoint id="navPoint-30" playOrder="30"> 
+<navLabel> 
+<text><navmark type="chapter">  19</navmark> Privatlivet
+er ikke dødt</text> 
+</navLabel> 
+<content src="167-mainch19.xhtml#x31-7200019" />  </navPoint> 
+     
+<navPoint id="navPoint-31" playOrder="31"> 
+<navLabel> 
+<text><navmark type="chapter">  20</navmark> Cypherpunks skriver kode</text> 
+</navLabel> 
+<content src="167-mainch20.xhtml#x32-7400020" />  </navPoint> 
+     
+<navPoint id="navPoint-32" playOrder="32"> 
+<navLabel> 
+<text><navmark type="chapter">  21</navmark> Metaforer
+for Bitcoins fremtid</text> 
+</navLabel> 
+<content src="167-mainch21.xhtml#x33-7600021" />  </navPoint> 
+</navPoint> 
+     
+<navPoint id="navPoint-33" playOrder="33"> 
+<navLabel> 
+<text><navmark type="part">  III</navmark> Afsluttende tanker</text> 
+</navLabel> 
+<content src="167-mainpa4.xhtml#x34-78000III" />      
+<navPoint id="navPoint-34" playOrder="34"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Konklusion</text> 
+</navLabel> 
+<content src="167-mainli9.xhtml#x35-79000III" />  </navPoint> 
+
+ 
+<navPoint id="navPoint-35" playOrder="35"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Takkeord</text> 
+</navLabel> 
+<content src="167-mainli10.xhtml#x36-82000III" />  </navPoint> 
+     
+<navPoint id="navPoint-36" playOrder="36"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Figurer</text> 
+</navLabel> 
+<content src="167-mainli11.xhtml#x37-83000III" />  </navPoint> 
+     
+<navPoint id="navPoint-37" playOrder="37"> 
+<navLabel> 
+<text><navmark type="likechapter">  </navmark> Om bibliografien</text> 
+</navLabel> 
+<content src="167-mainli12.xhtml#x38-84000III" />  </navPoint> 
+     
+<navPoint id="navPoint-38" playOrder="38"> 
+<navLabel> 
+<text><navmark type="likechapter">
+</navmark> Litteratur</text> 
+</navLabel> 
+<content src="167-mainli13.xhtml#x39-87000III" />  </navPoint> 
+</navPoint> 
+     
+<navPoint id="navPoint-39" playOrder="39"> 
+<navLabel> 
+<text><navmark type="part">  IV</navmark> Den danske udgave</text> 
+</navLabel> 
+<content src="167-mainpa5.xhtml#x40-88000IV" />       
+<navPoint id="navPoint-40" playOrder="40"> 
+<navLabel> 
+<text><navmark type="likesection">  </navmark> Om den danske
+                                                              
+                                                              
+udgave</text> 
+</navLabel> 
+<content src="167-mainpa5.xhtml#x40-89000IV" /> </navPoint> 
+     
+<navPoint id="navPoint-41" playOrder="41"> 
+<navLabel> 
+<text><navmark type="likesection"> </navmark> Motivation</text> 
+</navLabel> 
+<content src="167-mainpa5.xhtml#x40-90000IV" /> </navPoint> 
+     
+<navPoint id="navPoint-42" playOrder="42"> 
+<navLabel> 
+<text><navmark type="likesection"> </navmark> Handling</text> 
+</navLabel> 
+<content src="167-mainpa5.xhtml#x40-91000IV" /> </navPoint> 
+     
+<navPoint id="navPoint-43" playOrder="43"> 
+<navLabel> 
+<text><navmark type="likesection"> </navmark> Taknemmelighed</text> 
+</navLabel> 
+<content src="167-mainpa5.xhtml#x40-92000IV" />
+  </navPoint> 
+</navPoint> 
+</navMap>
+  </ncx> 

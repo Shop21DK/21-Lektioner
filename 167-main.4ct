@@ -1,0 +1,126 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Forord}}{13}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-2}{Indhold}}{19}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{4}{x4-3000}{QQ2-4-3}{Om denne bog \\ (... og om forfatteren)}}{23}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{4}{x4-4000}{QQ2-4-4}{}}{24}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{4}{x4-5000}{QQ2-4-5}{}}{24}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{4}{x4-6000}{QQ2-4-6}{}}{25}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{5}{x5-7000}{QQ2-5-7}{Forord}}{29}\relax 
+\doTocEntry\toclikepart{}{\csname a:TocLink\endcsname{1}{x1-8000}{QQ2-1-8}{21 Lektioner}}{7}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{6}{x6-9000}{QQ2-6-9}{Introduktion}}{11}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{6}{x6-10000}{QQ2-6-10}{\hyperref  [ch:philosophy]{Kapitel 1}}}{12}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{6}{x6-11000}{QQ2-6-11}{\hyperref  [ch:economics]{Kapitel 2}}}{12}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{6}{x6-12000}{QQ2-6-12}{\hyperref  [ch:technology]{Kapitel 3}}}{12}\relax 
+\doTocEntry\tocpart{I}{\csname a:TocLink\endcsname{7}{x7-13000I}{QQ2-7-13}{Filosofi}}{21}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{8}{x8-14000I}{QQ2-8-14}{Filosofi}}{23}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{8}{x8-14002}{}{\numberline {0.1}{\ignorespaces Blinde munke undersøger Bitcoin-elefanten\relax }}}{25}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{9}{x9-150001}{QQ2-9-15}{Uforanderlighed og forandring}}{31}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-160001}{QQ2-9-16}{}}{31}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-170001}{QQ2-9-17}{}}{31}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-180001}{QQ2-9-18}{Bitcoin har lært mig, at den ikke ændrer sig. Det gør jeg.}}{33}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{10}{x10-190002}{QQ2-10-19}{Knaphedens knaphed}}{37}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{10}{x10-200002}{QQ2-10-20}{I en tid med overflod har Bitcoin lært mig, hvad reel knaphed er.}}{38}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{11}{x11-210003}{QQ2-11-21}{Replikation og lokalitet}}{41}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{11}{x11-220003}{QQ2-11-22}{Bitcoin har lært mig, at lokalitet er en vanskelig størrelse.}}{43}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{12}{x12-230004}{QQ2-12-23}{Problemet med identitet}}{47}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{12}{x12-240004}{QQ2-12-24}{Bitcoin har lært mig, at decentralisering er i modstrid med identitet.}}{48}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{13}{x13-250005}{QQ2-13-25}{En perfekt undfangelse}}{51}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{13}{x13-260005}{QQ2-13-26}{Bitcoin har lært mig, at fortællinger er vigtige.}}{52}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{14}{x14-270006}{QQ2-14-27}{Ytringsfrihedens kraft}}{55}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{14}{x14-280006}{QQ2-14-28}{Bitcoin har lært mig, at ytringsfrihed og fri software er ustoppelige i et frit samfund.}}{56}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{15}{x15-290007}{QQ2-15-29}{Grænserne for viden}}{59}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{15}{x15-300007}{QQ2-15-30}{}}{59}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{15}{x15-310007}{QQ2-15-31}{}}{59}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{15}{x15-31003}{}{\numberline {7.1}{\ignorespaces Bitcoin-kaninhullet er bundløst.\relax }}}{61}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{15}{x15-320007}{QQ2-15-32}{Bitcoin har lært mig, at jeg ved meget lidt om næsten alt. Den har lært mig, at dette kaninhul er bundløst.}}{62}\relax 
+\doTocEntry\tocpart{II}{\csname a:TocLink\endcsname{16}{x16-33000II}{QQ2-16-33}{Økonomi}}{69}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{17}{x17-34000II}{QQ2-17-34}{Økonomi}}{71}\relax 
+\doTocEntry\tocchapter{8}{\csname a:TocLink\endcsname{18}{x18-350008}{QQ2-18-35}{Finansiel uvidenhed}}{77}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{18}{x18-360008}{QQ2-18-36}{}}{77}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{18}{x18-370008}{QQ2-18-37}{Bitcoin har lært mig at kigge bag kulisserne og at se min økonomiske uvidenhed i øjnene.}}{81}\relax 
+\doTocEntry\tocchapter{9}{\csname a:TocLink\endcsname{19}{x19-380009}{QQ2-19-38}{Inflation}}{85}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-390009}{QQ2-19-39}{}}{86}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{19}{x19-39002}{}{\numberline {9.1}{\ignorespaces Hyperinflation in the Weimar Republic (1921-1923)\relax }}}{88}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-400009}{QQ2-19-40}{}}{89}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-410009}{QQ2-19-41}{}}{91}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-420009}{QQ2-19-42}{}}{91}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-430009}{QQ2-19-43}{}}{93}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{19}{x19-440009}{QQ2-19-44}{Bitcoin har lært mig om den skjulte skat ved inflation samt katastrofen forbundet med hyperinflation.}}{93}\relax 
+\doTocEntry\tocchapter{10}{\csname a:TocLink\endcsname{20}{x20-4500010}{QQ2-20-45}{Værdi}}{97}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{20}{x20-4600010}{QQ2-20-46}{Bitcoin har lært mig, at værdi er subjektiv, men ikke vilkårlig.}}{98}\relax 
+\doTocEntry\tocchapter{11}{\csname a:TocLink\endcsname{21}{x21-4700011}{QQ2-21-47}{Penge}}{101}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{21}{x21-4800011}{QQ2-21-48}{}}{101}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{21}{x21-4900011}{QQ2-21-49}{Bitcoin har lært mig, hvad penge er.}}{104}\relax 
+\doTocEntry\tocchapter{12}{\csname a:TocLink\endcsname{22}{x22-5000012}{QQ2-22-50}{Pengenes historie og undergang}}{107}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-50002}{}{\numberline {12.1}{\ignorespaces fiat — `Lad det ske'\relax }}}{110}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{22}{x22-5100012}{QQ2-22-51}{}}{111}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{22}{x22-5200012}{QQ2-22-52}{}}{111}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52003}{}{\numberline {12.2}{\ignorespaces Lydisk mønt. Billedet er licenseret under Creative Commons Attribution Share-Alike 4.0 af Classical Numismatic Group, Inc.\relax }}}{114}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52005}{}{\numberline {12.3}{\ignorespaces Sølvmønter med varierende grad af afklipning.\relax }}}{117}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52008}{}{\numberline {12.4}{\ignorespaces Den oprindelige \enquote {dollar}. Sankt Joachim er afbilledet med sin kappe og troldmandshat. Billedet er cc-by-sa af Wikipedia-bruger Berlin-George\relax }}}{120}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52010}{}{\numberline {12.5}{\ignorespaces En amerikansk sølvdollar fra 1928. \enquote {Betales til ihændehaveren på forespørgsel.} Billede cc-by-sa af National Numismatic Collection ved the Smithsonian Institution\relax }}}{123}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52012}{}{\numberline {12.6}{\ignorespaces Dette er et amerikansk 100 dollars guldcertifikat fra 1928. Billedet er cc-by-sa fra National Numismatic Collection, National Museum of American History.\relax }}}{126}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{22}{x22-52014}{}{\numberline {12.7}{\ignorespaces En 20-dollarseddel fra 2004-serien, der bruges i dag. `DENNE SEDDEL ER LOVLIGT BETALINGSMIDDEL'\relax }}}{129}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{22}{x22-5300012}{QQ2-22-53}{}}{130}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{22}{x22-5400012}{QQ2-22-54}{Bitcoin har lært mig om pengenes historie og det største trick i økonomiens historie: fiat-valuta.}}{130}\relax 
+\doTocEntry\tocchapter{13}{\csname a:TocLink\endcsname{23}{x23-5500013}{QQ2-23-55}{Vanviddet i brøkreserve-bankvæsenet}}{133}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{23}{x23-55003}{}{\numberline {13.1}{\ignorespaces Pengenes multiplikatoreffekt\relax }}}{137}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{23}{x23-5600013}{QQ2-23-56}{}}{138}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{23}{x23-56002}{}{\numberline {13.2}{\ignorespaces Yellen (direktør for den amerikanske centralbank) er en stærk modstander af en revision af den amerikanske centralbank (Federal Reserve), mens \textit  {Bitcoin Sign Guy} i baggrunden stærkt argumenterer for køb af bitcoin.\relax }}}{140}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{23}{x23-5700013}{QQ2-23-57}{Bitcoin har lært mig, at brøkreservebankvæsen er det rene vanvid.}}{141}\relax 
+\doTocEntry\tocchapter{14}{\csname a:TocLink\endcsname{24}{x24-5800014}{QQ2-24-58}{Stabile penge}}{145}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{24}{x24-58004}{}{\numberline {14.1}{\ignorespaces Bitcoins forsyningsformel\relax }}}{149}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{24}{x24-58006}{}{\numberline {14.2}{\ignorespaces Bitcoins kontrollerede udbud\relax }}}{152}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{24}{x24-58010}{}{\numberline {14.3}{\ignorespaces Forholdet mellem lager og produktion for guld\relax }}}{157}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{24}{x24-58013}{}{\numberline {14.4}{\ignorespaces Visualisering af forholdet mellem lager og produktion for USD, guld og Bitcoin\relax }}}{160}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{24}{x24-5900014}{QQ2-24-59}{}}{161}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{24}{x24-59002}{}{\numberline {14.5}{\ignorespaces Stigende forhold mellem lager og produktion for bitcoin sammenlignet med guld\relax }}}{163}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{24}{x24-6000014}{QQ2-24-60}{}}{164}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{24}{x24-6100014}{QQ2-24-61}{Bitcoin har lært mig, at stabile penge er essentielle.}}{165}\relax 
+\doTocEntry\tocpart{III}{\csname a:TocLink\endcsname{25}{x25-62000III}{QQ2-25-62}{Teknologi}}{171}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{26}{x26-63000III}{QQ2-26-63}{Teknologi}}{173}\relax 
+\doTocEntry\tocchapter{15}{\csname a:TocLink\endcsname{27}{x27-6400015}{QQ2-27-64}{Styrke i tal}}{177}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{27}{x27-64003}{}{\numberline {15.1}{\ignorespaces For omkring 1 billion sekunder siden. Kilde: xkcd 1225\relax }}}{180}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{27}{x27-64009}{}{\numberline {15.2}{\ignorespaces Illustration af SHA-256-sikkerhed. Original grafik af Grant Sanderson også kendt som 3Blue1Brown.\relax }}}{185}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{27}{x27-64013}{}{\numberline {15.3}{\ignorespaces \$Angreb med 5\$ skruenøgle. Kilde: xkcd 538\relax }}}{189}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{27}{x27-64017}{}{\numberline {15.4}{\ignorespaces Eksempler på elliptiske kurver. Grafik cc-by-sa Emmanuel Boutet.\relax }}}{193}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{27}{x27-6500015}{QQ2-27-65}{Bitcoin har lært mig, at der er styrke i tal.}}{194}\relax 
+\doTocEntry\tocchapter{16}{\csname a:TocLink\endcsname{28}{x28-6600016}{QQ2-28-66}{Refleksioner over \enquote {Stol ikke, bekræft}}}{197}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{28}{x28-66004}{}{\numberline {16.1}{\ignorespaces Uddrag fra Ken Thompsons artikel `Reflections on Trusting Trust'\relax }}}{201}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{28}{x28-66007}{}{\numberline {16.2}{\ignorespaces Fra \textit  {Stealthy Dopant-Level Hardware Trojans} af Becker, Regazzoni, Paar, Burleson\relax }}}{204}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{28}{x28-66012}{}{\numberline {16.3}{\ignorespaces Hvad kom først, hønen eller ægget?\relax }}}{208}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{28}{x28-6700016}{QQ2-28-67}{Bitcoin har lært mig, at jeg ikke skal stole, men bekræfte.}}{209}\relax 
+\doTocEntry\tocchapter{17}{\csname a:TocLink\endcsname{29}{x29-6800017}{QQ2-29-68}{At fortælle tid kræver arbejde}}{213}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{29}{x29-68002}{}{\numberline {17.1}{\ignorespaces Uddrag fra hvidbogen. Var der nogen, der sagde tidskæde?\relax }}}{215}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{29}{x29-6900017}{QQ2-29-69}{Bitcoin har lært mig, at det er svært at fortælle hvad klokken er, især hvis man er decentraliseret.}}{217}\relax 
+\doTocEntry\tocchapter{18}{\csname a:TocLink\endcsname{30}{x30-7000018}{QQ2-30-70}{Bevæg dig langsomt, og undgå at ødelægge ting}}{221}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{30}{x30-7100018}{QQ2-30-71}{Bitcoin har lært mig, at det at bevæge sig langsomt er en af dens funktioner, ikke en fejl.}}{225}\relax 
+\doTocEntry\tocchapter{19}{\csname a:TocLink\endcsname{31}{x31-7200019}{QQ2-31-72}{Privatlivet er ikke dødt}}{229}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{31}{x31-72003}{}{\numberline {19.1}{\ignorespaces Jeg er ikke Dorian Nakamoto.\relax }}}{231}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{31}{x31-7300019}{QQ2-31-73}{Bitcoin har lært mig, at privatlivets fred ikke er død.}}{233}\relax 
+\doTocEntry\tocchapter{20}{\csname a:TocLink\endcsname{32}{x32-7400020}{QQ2-32-74}{Cypherpunks skriver kode}}{237}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{32}{x32-74004}{}{\numberline {20.1}{\ignorespaces Kodeuddrag fra Bitcoin version 0.1\relax }}}{240}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{32}{x32-7500020}{QQ2-32-75}{Bitcoin har lært mig, at cypherpunks skriver kode.}}{241}\relax 
+\doTocEntry\tocchapter{21}{\csname a:TocLink\endcsname{33}{x33-7600021}{QQ2-33-76}{Metaforer for Bitcoins fremtid}}{245}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{33}{x33-76003}{}{\numberline {21.1}{\ignorespaces Bitcoin er bogstaveligt talt helt uden for skalaen.\relax }}}{247}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{33}{x33-76006}{}{\numberline {21.2}{\ignorespaces Mobiltelefon, ca. 1965 vs. 2019.\relax }}}{250}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{33}{x33-76013}{}{\numberline {21.3}{\ignorespaces Internettet, 1982 vs 2005. Kilde: cc-by Merit Network, Inc. og Barrett Lyon, Opte Project\relax }}}{254}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{33}{x33-76017}{}{\numberline {21.4}{\ignorespaces Hal Finney skrev det første tweet, der nævnte bitcoin, i januar 2009.\relax }}}{257}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{33}{x33-76019}{}{\numberline {21.5}{\ignorespaces Lightning-netværket, januar 2018 vs. december 2018. Kilde: Jameson Lopp\relax }}}{260}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{33}{x33-7700021}{QQ2-33-77}{Bitcoin har lært mig, at det er vigtigt at forstå fortiden for at forstå dens fremtid. En fremtid, som kun lige er begyndt\dots  }}{261}\relax 
+\doTocEntry\tocpart{III}{\csname a:TocLink\endcsname{34}{x34-78000III}{QQ2-34-78}{Afsluttende tanker}}{267}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{35}{x35-79000III}{QQ2-35-79}{Konklusion}}{269}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{35}{x35-80000III}{QQ2-35-80}{}}{270}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{35}{x35-81000III}{QQ2-35-81}{}}{270}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{36}{x36-82000III}{QQ2-36-82}{Takkeord}}{279}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{37}{x37-83000III}{QQ2-37-83}{Figurer}}{285}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{38}{x38-84000III}{QQ2-38-84}{Om bibliografien}}{289}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{38}{x38-85000III}{QQ2-38-85}{}}{289}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{38}{x38-86000III}{QQ2-38-86}{}}{289}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{39}{x39-87000III}{QQ2-39-87}{Litteratur}}{293}\relax 
+\doTocEntry\tocpart{IV}{\csname a:TocLink\endcsname{40}{x40-88000IV}{QQ2-40-88}{Den danske udgave}}{319}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{40}{x40-89000IV}{QQ2-40-89}{Om den danske udgave}}{319}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{40}{x40-90000IV}{QQ2-40-90}{Motivation}}{319}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{40}{x40-91000IV}{QQ2-40-91}{Handling}}{320}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{40}{x40-92000IV}{QQ2-40-92}{Taknemmelighed}}{320}\relax 
+\par 

@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package unique-identifier='dcidid'
+xmlns='http://www.idpf.org/2007/opf' version='3.0'>
+  <metadata xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:opf='http://www.idpf.org/2007/opf'>
+    <dc:title>21 Lektioner</dc:title>
+    <dc:language>da</dc:language>
+    <dc:identifier id='dcidid'>
+    http://example.com/167-main_kindle</dc:identifier>
+    <dc:creator>Gigi</dc:creator>
+    <dc:date>2024-03-23T07:27:00Z</dc:date>
+    <meta property='dcterms:modified'>2024-03-23T07:27:00Z</meta>
+  </metadata>
+  <manifest>
+    <item href='167-main_kindle.ncx' id='ncx'
+    media-type='application/x-dtbncx+xml'></item>
+    <item href='167-main_kindle.css' id='stylesheet'
+    media-type='text/css'></item>
+    <item href='167-main_kindle.xhtml' id='file1'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli1.xhtml' id='file2'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli2.xhtml' id='file3'
+    properties='nav' media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli3.xhtml' id='file4'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli4.xhtml' id='file5'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli5.xhtml' id='file6'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlepa1.xhtml' id='file7'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli6.xhtml' id='file8'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech1.xhtml' id='file9'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech2.xhtml' id='file10'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech3.xhtml' id='file11'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech4.xhtml' id='file12'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech5.xhtml' id='file13'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech6.xhtml' id='file14'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech7.xhtml' id='file15'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlepa2.xhtml' id='file16'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli7.xhtml' id='file17'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech8.xhtml' id='file18'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech9.xhtml' id='file19'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech10.xhtml' id='file20'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech11.xhtml' id='file21'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech12.xhtml' id='file22'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech13.xhtml' id='file23'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech14.xhtml' id='file24'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlepa3.xhtml' id='file25'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli8.xhtml' id='file26'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech15.xhtml' id='file27'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech16.xhtml' id='file28'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech17.xhtml' id='file29'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech18.xhtml' id='file30'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech19.xhtml' id='file31'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech20.xhtml' id='file32'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlech21.xhtml' id='file33'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlepa4.xhtml' id='file34'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli9.xhtml' id='file35'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli10.xhtml' id='file36'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli11.xhtml' id='file37'
+    properties='nav' media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli12.xhtml' id='file38'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindleli13.xhtml' id='file39'
+    media-type='application/xhtml+xml'></item>
+    <item href='167-main_kindlepa5.xhtml' id='file40'
+    media-type='application/xhtml+xml'></item>
+    <item href='assets/images/cc-by-sa-.png'
+    id='assets-imagescc-by-sa-_png' media-type='image/png'></item>
+    <item href='assets/images/the-tweet.png'
+    id='assets-imagesthe-tweet_png' media-type='image/png'></item>
+    <item href='assets/images/bitcoin-orange-pill.jpg'
+    id='assets-imagesbitcoin-orange-pill_jpg'
+    media-type='image/jpeg'></item>
+    <item href='assets/images/blind-monks.jpg'
+    id='assets-imagesblind-monks_jpg' media-type='image/jpeg'>
+    </item>
+    <item href='assets/images/rabbit-hole-bottomless.png'
+    id='assets-imagesrabbit-hole-bottomless_png'
+    media-type='image/png'></item>
+    <item href='assets/images/children-playing-with-money.png'
+    id='assets-imageschildren-playing-with-money_png'
+    media-type='image/png'></item>
+    <item href='assets/images/fiat-definition.png'
+    id='assets-imagesfiat-definition_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/lydian-coin-stater.png'
+    id='assets-imageslydian-coin-stater_png'
+    media-type='image/png'></item>
+    <item href='assets/images/clipped-coins.png'
+    id='assets-imagesclipped-coins_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/joachimsthaler.png'
+    id='assets-imagesjoachimsthaler_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/us-silver-dollar-note-smaller.png'
+    id='assets-imagesus-silver-dollar-note-smaller_png'
+    media-type='image/png'></item>
+    <item href='assets/images/us-gold-cert-100-smaller.png'
+    id='assets-imagesus-gold-cert-100-smaller_png'
+    media-type='image/png'></item>
+    <item href='assets/images/us-dollar-2004.jpg'
+    id='assets-imagesus-dollar-2004_jpg' media-type='image/jpeg'>
+    </item>
+    <item href='assets/images/money-multiplier.png'
+    id='assets-imagesmoney-multiplier_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/bsg.jpg' id='assets-imagesbsg_jpg'
+    media-type='image/jpeg'></item>
+    <item href='assets/images/you-are-here.png'
+    id='assets-imagesyou-are-here_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/stock-to-flow-white-cropped.png'
+    id='assets-imagesstock-to-flow-white-cropped_png'
+    media-type='image/png'></item>
+    <item href='assets/images/soundness-over-time.png'
+    id='assets-imagessoundness-over-time_png'
+    media-type='image/png'></item>
+    <item href='assets/images/xkcd-1225.png'
+    id='assets-imagesxkcd-1225_png' media-type='image/png'></item>
+    <item href='assets/images/youtube-vid-inverted.png'
+    id='assets-imagesyoutube-vid-inverted_png'
+    media-type='image/png'></item>
+    <item href='assets/images/xkcd-538.png'
+    id='assets-imagesxkcd-538_png' media-type='image/png'></item>
+    <item href='assets/images/elliptic-curve-examples.png'
+    id='assets-imageselliptic-curve-examples_png'
+    media-type='image/png'></item>
+    <item href='assets/images/ken-thompson-hack.png'
+    id='assets-imagesken-thompson-hack_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/stealthy-hardware-trojan.png'
+    id='assets-imagesstealthy-hardware-trojan_png'
+    media-type='image/png'></item>
+    <item href='assets/images/guix-bootstrap-dependencies.png'
+    id='assets-imagesguix-bootstrap-dependencies_png'
+    media-type='image/png'></item>
+    <item href='assets/images/bitcoin-whitepaper-timestamp-wide.png'
+    id='assets-imagesbitcoin-whitepaper-timestamp-wide_png'
+    media-type='image/png'></item>
+    <item href='assets/images/nope.png' id='assets-imagesnope_png'
+    media-type='image/png'></item>
+    <item href='assets/images/bitcoin-code-white.png'
+    id='assets-imagesbitcoin-code-white_png'
+    media-type='image/png'></item>
+    <item href='assets/images/tech-adoption.png'
+    id='assets-imagestech-adoption_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/mobile-phone.png'
+    id='assets-imagesmobile-phone_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/internet-evolution-white-dates.png'
+    id='assets-imagesinternet-evolution-white-dates_png'
+    media-type='image/png'></item>
+    <item href='assets/images/running-bitcoin.png'
+    id='assets-imagesrunning-bitcoin_png' media-type='image/png'>
+    </item>
+    <item href='assets/images/lnd-growth-lopp-white.png'
+    id='assets-imageslnd-growth-lopp-white_png'
+    media-type='image/png'></item>
+    <item href='167-main_kindle0x.png' id='167-main_kindle0x_png'
+    media-type='image/png'></item>
+    <item href='167-main_kindle1x.png' id='167-main_kindle1x_png'
+    media-type='image/png'></item>
+    <item href='167-main_kindle2x.png' id='167-main_kindle2x_png'
+    media-type='image/png'></item>
+    <item href='167-main_kindle3x.png' id='167-main_kindle3x_png'
+    media-type='image/png'></item>
+  </manifest>
+  <spine toc='ncx'>
+    <itemref idref='file1'></itemref>
+    <itemref idref='file2'></itemref>
+    <itemref idref='file3'></itemref>
+    <itemref idref='file4'></itemref>
+    <itemref idref='file5'></itemref>
+    <itemref idref='file6'></itemref>
+    <itemref idref='file7'></itemref>
+    <itemref idref='file8'></itemref>
+    <itemref idref='file9'></itemref>
+    <itemref idref='file10'></itemref>
+    <itemref idref='file11'></itemref>
+    <itemref idref='file12'></itemref>
+    <itemref idref='file13'></itemref>
+    <itemref idref='file14'></itemref>
+    <itemref idref='file15'></itemref>
+    <itemref idref='file16'></itemref>
+    <itemref idref='file17'></itemref>
+    <itemref idref='file18'></itemref>
+    <itemref idref='file19'></itemref>
+    <itemref idref='file20'></itemref>
+    <itemref idref='file21'></itemref>
+    <itemref idref='file22'></itemref>
+    <itemref idref='file23'></itemref>
+    <itemref idref='file24'></itemref>
+    <itemref idref='file25'></itemref>
+    <itemref idref='file26'></itemref>
+    <itemref idref='file27'></itemref>
+    <itemref idref='file28'></itemref>
+    <itemref idref='file29'></itemref>
+    <itemref idref='file30'></itemref>
+    <itemref idref='file31'></itemref>
+    <itemref idref='file32'></itemref>
+    <itemref idref='file33'></itemref>
+    <itemref idref='file34'></itemref>
+    <itemref idref='file35'></itemref>
+    <itemref idref='file36'></itemref>
+    <itemref idref='file37'></itemref>
+    <itemref idref='file38'></itemref>
+    <itemref idref='file39'></itemref>
+    <itemref idref='file40'></itemref>
+  </spine>
+</package>

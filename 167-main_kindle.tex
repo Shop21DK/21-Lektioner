@@ -27,8 +27,9 @@
 
 \areaset[0.50in]{4.5in}{8in}% --- AMAZON END ---
 % Copyright with title BEGIN
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% KINDLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %remove pages 4,12,20,22,28,30,34,44,48,52,56,60,62,66,88,100,108,120,122,126,158,172,174,182,186,188,208
 %https://tex.stackexchange.com/questions/16735/latex-options-for-kindle
 
@@ -49,22 +50,21 @@
 \renewcommand{\footrulewidth}{0pt} % Optional: Removes the horizontal line in the footer
 
 
-
-
 \usepackage[pdftex]{pict2e}
-\usepackage{color}
-\definecolor{light-gray}{gray}{0.95}
+%\usepackage{color}
+%\definecolor{light-gray}{gray}{0.95}
 
-\newcommand*\cornerCrop{% 
-  \begin{picture}(0,0)
-    \unitlength1pt
-    \put(0,0){\color{light-gray}\circle*{1}}
-\end{picture}}
+%\newcommand*\cornerCrop{% 
+%  \begin{picture}(0,0)
+%    \unitlength1pt
+%    \put(0,0){\color{light-gray}\circle*{1}}
+%\end{picture}}
 
-\cropdef\cornerCrop\cornerCrop\cornerCrop\cornerCrop{cornerDots}
-\crop[cornerDots]
+%\cropdef\cornerCrop\cornerCrop\cornerCrop\cornerCrop{cornerDots}
+%\crop[cornerDots]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%%%%%%%%%%%%%% END KINDLE             %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\secondpage{\clearpage\null\vfill
 %\pagestyle{empty}
 \begin{minipage}[b]{0.9\textwidth}
@@ -223,7 +223,8 @@ Denne bog og dens online version er distribueret under vilkårene for Creative C
    \def\chapquote@author{#2}%
    \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
    \itshape}{\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
-\makeatother%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                   DOCUMENT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

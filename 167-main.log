@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2024.1.16)  22 MAR 2024 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2024.3.22)  29 MAR 2024 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -217,6 +217,9 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2021/01/26 3.53 The Babel package
 
@@ -224,7 +227,7 @@ Package: babel 2021/01/26 3.53 The Babel package
 File: babel.def 2021/01/26 3.53 Babel common definitions
 \babel@savecnt=\count187
 \U@D=\dimen139
-\l@babelnohyphens=\language46
+\l@babelnohyphens=\language86
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -250,7 +253,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 50.75pt
 (typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 27.
+(typearea)              on input line 28.
 
 
 Class scrbook Warning: Usage of package `fancyhdr' together
@@ -264,7 +267,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              `\addtokomafont' for the page style elements need
 (scrbook)              explicite user intervention to work.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 31.
+(scrbook)              package `fancyhdr' on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
@@ -556,22 +559,22 @@ Package csquotes Info: Redefining alias 'default' -> 'danish'.
 (./167-main.aux)
 \openout1 = `167-main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -595,7 +598,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 193.
+Package hyperref Info: Link coloring OFF on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -608,9 +611,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 193.
-LaTeX Info: Redefining \pageref on input line 193.
-LaTeX Info: Redefining \nameref on input line 193.
+LaTeX Info: Redefining \ref on input line 195.
+LaTeX Info: Redefining \pageref on input line 195.
+LaTeX Info: Redefining \nameref on input line 195.
 
 (./167-main.out) (./167-main.out)
 \@outlinefile=\write5
@@ -623,7 +626,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 193.
+(scrbook)           before \begin{document} on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -635,9 +638,9 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 203.
+(Font)              <17.28> on input line 205.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 203.
+(Font)              <12> on input line 205.
  [1
 
 
@@ -645,20 +648,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<assets/images/cc-by-sa.pdf, id=13, 66.2475pt x 23.33719pt>
+<assets/images/cc-by-sa.pdf, id=14, 66.2475pt x 23.33719pt>
 File: assets/images/cc-by-sa.pdf Graphic file (type pdf)
 <use assets/images/cc-by-sa.pdf>
-Package pdftex.def Info: assets/images/cc-by-sa.pdf  used on input line 203.
+Package pdftex.def Info: assets/images/cc-by-sa.pdf  used on input line 205.
 (pdftex.def)             Requested size: 56.90602pt x 20.04642pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 203.
+(Font)              <7> on input line 205.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 203.
+(Font)              <5> on input line 205.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 203.
+Package hyperref Warning: Ignoring empty anchor on input line 205.
 
-[2
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+05.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [2
 
  <./assets/images/cc-by-sa.pdf>] [3
 
@@ -671,30 +678,29 @@ Package hyperref Warning: Ignoring empty anchor on input line 203.
 ] [5] [6] [7] [8
 
 
-] (./167-main.toc
-[9]
-Overfull \hbox (2.03766pt too wide) detected at line 44
- \OT1/cmr/bx/n/12 101
+] (./167-main.toc [9]
+Overfull \hbox (2.03697pt too wide) detected at line 44
+ \T1/cmr/bx/n/12 101
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 46
- \OT1/cmr/bx/n/12 103
+Overfull \hbox (2.03697pt too wide) detected at line 46
+ \T1/cmr/bx/n/12 103
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 48
- \OT1/cmr/bx/n/12 107
+Overfull \hbox (2.03697pt too wide) detected at line 48
+ \T1/cmr/bx/n/12 107
  []
 
 
-Overfull \hbox (6.08763pt too wide) detected at line 50
- \OT1/cmr/bx/n/14.4 115
+Overfull \hbox (5.54623pt too wide) detected at line 50
+ \T1/cmr/bx/n/14.4 115
  []
 
 
-Overfull \hbox (6.08763pt too wide) detected at line 51
- \OT1/cmr/bx/n/14.4 143
+Overfull \hbox (5.54623pt too wide) detected at line 51
+ \T1/cmr/bx/n/14.4 143
  []
 
 )
@@ -703,13 +709,19 @@ Overfull \hbox (6.08763pt too wide) detected at line 51
 
  [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 255.
+(Font)              <8> on input line 257.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 255.
+(Font)              <6> on input line 257.
  [11
 
 
-] [12] [13] [14
+] [12]
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+67.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[13] [14
 
 
 ] [15] [16
@@ -722,35 +734,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-<assets/images/the-tweet.png, id=182, 480.79625pt x 377.41pt>
+<assets/images/the-tweet.png, id=188, 480.79625pt x 377.41pt>
 File: assets/images/the-tweet.png Graphic file (type png)
 <use assets/images/the-tweet.png>
-Package pdftex.def Info: assets/images/the-tweet.png  used on input line 311.
+Package pdftex.def Info: assets/images/the-tweet.png  used on input line 313.
 (pdftex.def)             Requested size: 199.17458pt x 156.3458pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 [6 <./assets/images/the-tweet.png>]
-<assets/images/bitcoin-orange-pill.jpg, id=204, 1927.2pt x 1084.05pt>
+<assets/images/bitcoin-orange-pill.jpg, id=210, 1927.2pt x 1084.05pt>
 File: assets/images/bitcoin-orange-pill.jpg Graphic file (type jpg)
 <use assets/images/bitcoin-orange-pill.jpg>
 Package pdftex.def Info: assets/images/bitcoin-orange-pill.jpg  used on input l
-ine 333.
+ine 335.
 (pdftex.def)             Requested size: 325.20833pt x 182.92967pt.
  [7] [8 <./assets/images/bitcoin-orange-pill.jpg>]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 349.
+(scrkbase)              on input line 351.
 [9
 
 
 ] [10]
-<assets/images/blind-monks.jpg, id=224, 302.43832pt x 219.13644pt>
+<assets/images/blind-monks.jpg, id=230, 302.43832pt x 219.13644pt>
 File: assets/images/blind-monks.jpg Graphic file (type jpg)
 <use assets/images/blind-monks.jpg>
-Package pdftex.def Info: assets/images/blind-monks.jpg  used on input line 358.
+Package pdftex.def Info: assets/images/blind-monks.jpg  used on input line 360.
 
 (pdftex.def)             Requested size: 325.21176pt x 235.63728pt.
 
@@ -777,32 +789,26 @@ chapter 3.
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 489.
+Package hyperref Warning: Suppressing empty link on input line 491.
 
 
-Package hyperref Warning: Suppressing empty link on input line 489.
-
-
-Overfull \hbox (4.88506pt too wide) in paragraph at lines 515--515
- []\OT1/cmr/bx/n/12 Bitcoin har l^^Zrt mig, at lo-ka-li-tet er en van-ske-lig s
-t^^\rrelse.[] 
- []
+Package hyperref Warning: Suppressing empty link on input line 491.
 
 [22]
 chapter 4.
 
-Package hyperref Warning: Suppressing empty link on input line 520.
+Package hyperref Warning: Suppressing empty link on input line 522.
 
 
-Package hyperref Warning: Suppressing empty link on input line 520.
+Package hyperref Warning: Suppressing empty link on input line 522.
 
 [23
 
 
 ]
-Overfull \hbox (14.15648pt too wide) in paragraph at lines 525--526
-[]\OT1/cmr/m/n/12 Kryptovalutaer, is^^Zr si-den den f^^\rste om-strid-te h^^War
-de-forgrening,
+Overfull \hbox (14.07712pt too wide) in paragraph at lines 527--528
+[]\T1/cmr/m/n/12 Kryptovalutaer, især si-den den før-ste om-strid-te hårde-forg
+rening,
  []
 
 [24]
@@ -812,37 +818,26 @@ chapter 5.
 
 ] [26]
 chapter 6.
-
-Overfull \hbox (9.6433pt too wide) in paragraph at lines 582--582
-[][]  \OT1/cmr/m/n/12 Kon-gres-sen m^^Wa ik-ke ved-ta-ge no-gen lov, der vedr^^
-\rer
- []
-
-
-Overfull \hbox (3.72542pt too wide) in paragraph at lines 582--582
-\OT1/cmr/m/n/12 ud^^\velse; el-ler ind-skr^^Zn-ker yt-rings-fri-he-den, el-ler 
-pres-
- []
-
 [27
 
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 586.
+Package hyperref Warning: Suppressing empty link on input line 588.
 
 
-Overfull \hbox (13.22964pt too wide) in paragraph at lines 586--586
-[][]  \OT1/cmr/m/n/12 Der er ik-ke no-get tids-punkt i en Bitcoin-transaktion,
+Overfull \hbox (11.67616pt too wide) in paragraph at lines 588--588
+[]\T1/cmr/m/n/12 ^^R   Der er ik-ke no-get tids-punkt i en Bitcoin-transaktion,
+
  []
 
 [28]
 chapter 7.
-<assets/images/rabbit-hole-bottomless.png, id=402, 401.5pt x 402.50375pt>
+<assets/images/rabbit-hole-bottomless.png, id=408, 401.5pt x 402.50375pt>
 File: assets/images/rabbit-hole-bottomless.png Graphic file (type png)
 <use assets/images/rabbit-hole-bottomless.png>
 Package pdftex.def Info: assets/images/rabbit-hole-bottomless.png  used on inpu
-t line 624.
+t line 626.
 (pdftex.def)             Requested size: 199.17502pt x 199.67296pt.
 [29
 
@@ -851,7 +846,7 @@ t line 624.
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 649.
+(scrkbase)              on input line 651.
 [31
 
 
@@ -865,48 +860,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [34]
 chapter 8.
 
-Overfull \hbox (3.84686pt too wide) in paragraph at lines 684--684
- [] \OT1/cmr/m/n/12 Som fem^^Warig be-gynd-te jeg at stil-le mig selv en mas-se
- sp^^\rgsm^^Wal:
+Overfull \hbox (0.8291pt too wide) in paragraph at lines 686--686
+\T1/cmr/m/n/12 mar-ke-det? Hvad er fiat-penge? Hvad er \T1/cmr/m/it/12 al-min-d
+e-li-ge \T1/cmr/m/n/12 pen-ge? Hvor-
  []
 
 [35
 
 
 ]
-Underfull \hbox (badness 2478) in paragraph at lines 688--688
-  [][][]\OT1/cmr/m/n/10 Aaron (\OT1/cmtt/m/n/10 @aarontaycc\OT1/cmr/m/n/10 , \O
-T1/cmtt/m/n/10 @fiatminimalist\OT1/cmr/m/n/10 ), twe-et fra 12. de-cem-ber
- []
-
-
-Overfull \hbox (8.38934pt too wide) in paragraph at lines 694--694
-\OT1/cmr/m/n/12 en-del^^\s s^^\gen ef-ter vi-den. Det er n^^\dvendigvis p^^Wavi
-rket
+Underfull \hbox (badness 2503) in paragraph at lines 690--690
+  [][][]\T1/cmr/m/n/10 Aaron (\T1/cmtt/m/n/10 @aarontaycc\T1/cmr/m/n/10 , \T1/c
+mtt/m/n/10 @fiatminimalist\T1/cmr/m/n/10 ), twe-et fra 12. de-cem-ber
  []
 
 [36]
 
-Package hyperref Warning: Suppressing empty link on input line 701.
+Package hyperref Warning: Suppressing empty link on input line 703.
 
 [37] [38]
 chapter 9.
-
-Overfull \hbox (5.77046pt too wide) in paragraph at lines 725--726
-\OT1/cmr/m/n/12 ikke-inflation^^Zrt sy-stem som Bitco-in kan ^^Zn-dre den m^^Wa
-de, hvorp^^Wa
- []
-
 [39
 
 
 ]
-<assets/images/children-playing-with-money.png, id=507, 1053.9375pt x 381.425pt
+<assets/images/children-playing-with-money.png, id=513, 1053.9375pt x 381.425pt
 >
 File: assets/images/children-playing-with-money.png Graphic file (type png)
 <use assets/images/children-playing-with-money.png>
 Package pdftex.def Info: assets/images/children-playing-with-money.png  used on
- input line 735.
+ input line 737.
 (pdftex.def)             Requested size: 325.22165pt x 117.69925pt.
  [40] [41 <./assets/images/children-playing-with-money.png>] [42] [43]
 [44
@@ -925,89 +908,71 @@ chapter 11.
 ]
 chapter 12.
 [51]
-<assets/images/fiat-definition.png, id=642, 457.71pt x 143.53625pt>
+<assets/images/fiat-definition.png, id=648, 457.71pt x 143.53625pt>
 File: assets/images/fiat-definition.png Graphic file (type png)
 <use assets/images/fiat-definition.png>
 Package pdftex.def Info: assets/images/fiat-definition.png  used on input line 
-862.
+864.
 (pdftex.def)             Requested size: 227.61826pt x 71.38028pt.
-
-Overfull \hbox (0.31773pt too wide) in paragraph at lines 860--866
-[]\OT1/cmr/m/n/12 V^^Zrdien af fiat-penge stam-mer ik-ke fra de-res ind-byg-ge-
-de egen-
- []
-
-
-Overfull \hbox (15.17036pt too wide) in paragraph at lines 860--866
-\OT1/cmr/m/n/12 der dr^^\mmer dem frem. De-res v^^Zr-di p^^Wal^^Zgges ved de-kr
-et, vilk^^Warligt. 
- []
-
-[52 <./assets/images/fiat-definition.png>]
-<assets/images/lydian-coin-stater.png, id=657, 301.125pt x 239.89626pt>
+ [52 <./assets/images/fiat-definition.png>]
+<assets/images/lydian-coin-stater.png, id=663, 301.125pt x 239.89626pt>
 File: assets/images/lydian-coin-stater.png Graphic file (type png)
 <use assets/images/lydian-coin-stater.png>
 Package pdftex.def Info: assets/images/lydian-coin-stater.png  used on input li
-ne 871.
+ne 873.
 (pdftex.def)             Requested size: 142.26852pt x 113.34059pt.
-
-Overfull \hbox (4.33437pt too wide) in paragraph at lines 878--879
-\OT1/cmr/m/n/12 sen. Folk bar-be-re-de bog-sta-ve-ligt talt s^^Wa me-get af de-
-res s^^\lvdollars,
- []
-
-<assets/images/clipped-coins.png, id=658, 1474.50874pt x 707.64375pt>
+<assets/images/clipped-coins.png, id=664, 1474.50874pt x 707.64375pt>
 File: assets/images/clipped-coins.png Graphic file (type png)
 <use assets/images/clipped-coins.png>
 Package pdftex.def Info: assets/images/clipped-coins.png  used on input line 88
-1.
+3.
 (pdftex.def)             Requested size: 325.2029pt x 156.07082pt.
 
-Overfull \hbox (6.09685pt too wide) in paragraph at lines 880--885
-\OT1/cmr/m/n/12 devaluering. P^^Wa klas-sisk politi-og-r^^\ver-man^^Ser blev m^
-^\ntklipperne
+Overfull \hbox (2.2037pt too wide) in paragraph at lines 882--887
+\T1/cmr/m/n/12 ne sta-dig me-re kre-a-ti-ve med de-res tek-nik-ker, hvil-ket tv
+ang ^^R   mønt-
  []
 
 
 Underfull \vbox (badness 4582) has occurred while \output is active []
 
  [53 <./assets/images/lydian-coin-stater.png>]
-<assets/images/joachimsthaler.png, id=668, 935.495pt x 935.495pt>
+<assets/images/joachimsthaler.png, id=674, 935.495pt x 935.495pt>
 File: assets/images/joachimsthaler.png Graphic file (type png)
 <use assets/images/joachimsthaler.png>
 Package pdftex.def Info: assets/images/joachimsthaler.png  used on input line 8
-90.
+92.
 (pdftex.def)             Requested size: 142.25952pt x 142.25952pt.
  [54 <./assets/images/clipped-coins.png>]
-<assets/images/us-silver-dollar-note-smaller.png, id=680, 1280.785pt x 551.0587
+<assets/images/us-silver-dollar-note-smaller.png, id=686, 1280.785pt x 551.0587
 5pt>
 File: assets/images/us-silver-dollar-note-smaller.png Graphic file (type png)
 <use assets/images/us-silver-dollar-note-smaller.png>
 Package pdftex.def Info: assets/images/us-silver-dollar-note-smaller.png  used 
-on input line 899.
+on input line 901.
 (pdftex.def)             Requested size: 325.19852pt x 139.9169pt.
 
 Underfull \vbox (badness 2384) has occurred while \output is active []
 
  [55 <./assets/images/joachimsthaler.png>]
-<assets/images/us-gold-cert-100-smaller.png, id=692, 1269.74374pt x 551.05875pt
+<assets/images/us-gold-cert-100-smaller.png, id=698, 1269.74374pt x 551.05875pt
 >
 File: assets/images/us-gold-cert-100-smaller.png Graphic file (type png)
 <use assets/images/us-gold-cert-100-smaller.png>
 Package pdftex.def Info: assets/images/us-gold-cert-100-smaller.png  used on in
-put line 912.
+put line 914.
 (pdftex.def)             Requested size: 325.2044pt x 141.13614pt.
  [56 <./assets/images/us-silver-dollar-note-smaller.png>]
-<assets/images/us-dollar-2004.jpg, id=698, 1283.79625pt x 551.05875pt>
+<assets/images/us-dollar-2004.jpg, id=704, 1283.79625pt x 551.05875pt>
 File: assets/images/us-dollar-2004.jpg Graphic file (type jpg)
 <use assets/images/us-dollar-2004.jpg>
 Package pdftex.def Info: assets/images/us-dollar-2004.jpg  used on input line 9
-23.
+25.
 (pdftex.def)             Requested size: 325.19911pt x 139.58897pt.
 
-Overfull \hbox (16.04951pt too wide) in paragraph at lines 921--927
-[]\OT1/cmr/m/n/12 Afskaffelsen af guld-stan-dar-den i 1971 ful-dend-te det-te ^
-^Warhundrede-
+Overfull \hbox (15.96985pt too wide) in paragraph at lines 923--929
+[]\T1/cmr/m/n/12 Afskaffelsen af guld-stan-dar-den i 1971 ful-dend-te det-te år
+hundrede-
  []
 
 
@@ -1021,23 +986,23 @@ chapter 13.
 
 ]
 
-Package hyperref Warning: Suppressing empty link on input line 956.
+Package hyperref Warning: Suppressing empty link on input line 958.
 
 
-Package hyperref Warning: Suppressing empty link on input line 956.
+Package hyperref Warning: Suppressing empty link on input line 958.
 
 [60]
-<assets/images/money-multiplier.png, id=729, 779.91376pt x 444.66125pt>
+<assets/images/money-multiplier.png, id=736, 779.91376pt x 444.66125pt>
 File: assets/images/money-multiplier.png Graphic file (type png)
 <use assets/images/money-multiplier.png>
 Package pdftex.def Info: assets/images/money-multiplier.png  used on input line
- 967.
+ 969.
 (pdftex.def)             Requested size: 325.21715pt x 185.4198pt.
  [61 <./assets/images/money-multiplier.png>]
-<assets/images/bsg.jpg, id=741, 1284.8pt x 722.7pt>
+<assets/images/bsg.jpg, id=747, 1284.8pt x 722.7pt>
 File: assets/images/bsg.jpg Graphic file (type jpg)
 <use assets/images/bsg.jpg>
-Package pdftex.def Info: assets/images/bsg.jpg  used on input line 978.
+Package pdftex.def Info: assets/images/bsg.jpg  used on input line 980.
 (pdftex.def)             Requested size: 325.21812pt x 182.93518pt.
  [62 <./assets/images/bsg.jpg>] [63] [64
 
@@ -1045,32 +1010,32 @@ Package pdftex.def Info: assets/images/bsg.jpg  used on input line 978.
 ]
 chapter 14.
 [65]
-<assets/images/you-are-here.png, id=775, 1510.64375pt x 761.84625pt>
+<assets/images/you-are-here.png, id=781, 1510.64375pt x 761.84625pt>
 File: assets/images/you-are-here.png Graphic file (type png)
 <use assets/images/you-are-here.png>
-Package pdftex.def Info: assets/images/you-are-here.png  used on input line 102
-8.
+Package pdftex.def Info: assets/images/you-are-here.png  used on input line 103
+0.
 (pdftex.def)             Requested size: 325.19699pt x 164.00299pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [66]
 [67 <./assets/images/you-are-here.png>]
-Underfull \vbox (badness 3168) has occurred while \output is active []
+Underfull \vbox (badness 1622) has occurred while \output is active []
 
  [68]
-<assets/images/stock-to-flow-white-cropped.png, id=812, 2351.78625pt x 891.33pt
+<assets/images/stock-to-flow-white-cropped.png, id=819, 2351.78625pt x 891.33pt
 >
 File: assets/images/stock-to-flow-white-cropped.png Graphic file (type png)
 <use assets/images/stock-to-flow-white-cropped.png>
 Package pdftex.def Info: assets/images/stock-to-flow-white-cropped.png  used on
- input line 1066.
+ input line 1068.
 (pdftex.def)             Requested size: 325.1928pt x 123.24847pt.
-<assets/images/soundness-over-time.png, id=813, 600.2425pt x 371.3875pt>
+<assets/images/soundness-over-time.png, id=820, 600.2425pt x 371.3875pt>
 File: assets/images/soundness-over-time.png Graphic file (type png)
 <use assets/images/soundness-over-time.png>
 Package pdftex.def Info: assets/images/soundness-over-time.png  used on input l
-ine 1072.
+ine 1074.
 (pdftex.def)             Requested size: 325.22519pt x 201.22629pt.
 
 [69] [70 <./assets/images/stock-to-flow-white-cropped.png>] [71 <./assets/image
@@ -1078,16 +1043,11 @@ s/soundness-over-time.png>] [72]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1118.
+(scrkbase)              on input line 1120.
 [73
 
 
 ] [74]
-Overfull \hbox (5.48618pt too wide) in paragraph at lines 1122--1122
-\OT1/cmr/m/it/12 de hun til sig selv. S^^Wa tog hun den lil-le guldn^^\gle
- []
-
-
 Underfull \vbox (badness 2197) has occurred while \output is active []
 
  [75
@@ -1100,100 +1060,95 @@ chapter 15.
 
 
 ]
-<assets/images/xkcd-1225.png, id=884, 742.775pt x 398.48875pt>
+<assets/images/xkcd-1225.png, id=892, 742.775pt x 398.48875pt>
 File: assets/images/xkcd-1225.png Graphic file (type png)
 <use assets/images/xkcd-1225.png>
-Package pdftex.def Info: assets/images/xkcd-1225.png  used on input line 1156.
+Package pdftex.def Info: assets/images/xkcd-1225.png  used on input line 1158.
 (pdftex.def)             Requested size: 325.22394pt x 174.47824pt.
  [78 <./assets/images/xkcd-1225.png>]
-Overfull \hbox (8.67737pt too wide) in paragraph at lines 1170--1170
-\OT1/cmr/m/n/12 de-cil-li-o-ner 237 un-de-cil-li-o-ner 316 de-cil-li-o-ner 195 
-novem-
+Overfull \hbox (8.613pt too wide) in paragraph at lines 1172--1172
+\T1/cmr/m/n/12 de-cil-li-o-ner 237 un-de-cil-li-o-ner 316 de-cil-li-o-ner 195 n
+ovem-
  []
 
 [79]
-<assets/images/youtube-vid-inverted.png, id=911, 1282.7925pt x 717.68124pt>
+<assets/images/youtube-vid-inverted.png, id=921, 1282.7925pt x 717.68124pt>
 File: assets/images/youtube-vid-inverted.png Graphic file (type png)
 <use assets/images/youtube-vid-inverted.png>
 Package pdftex.def Info: assets/images/youtube-vid-inverted.png  used on input 
-line 1175.
+line 1177.
 (pdftex.def)             Requested size: 325.19931pt x 181.93858pt.
  [80 <./assets/images/youtube-vid-inverted.png>]
-<assets/images/xkcd-538.png, id=930, 404.712pt x 247.52475pt>
+<assets/images/xkcd-538.png, id=940, 404.712pt x 247.52475pt>
 File: assets/images/xkcd-538.png Graphic file (type png)
 <use assets/images/xkcd-538.png>
-Package pdftex.def Info: assets/images/xkcd-538.png  used on input line 1187.
+Package pdftex.def Info: assets/images/xkcd-538.png  used on input line 1189.
 (pdftex.def)             Requested size: 227.62523pt x 139.21721pt.
 
-Overfull \hbox (0.25247pt too wide) in paragraph at lines 1185--1191
-[]\OT1/cmr/m/n/12 Bitcoins skat-teki-ste er me-get an-der-le-des. Den er sik-re
-t af st^^Zrk
+Overfull \hbox (0.1764pt too wide) in paragraph at lines 1187--1193
+[]\T1/cmr/m/n/12 Bitcoins skat-teki-ste er me-get an-der-le-des. Den er sik-ret
+ af stærk
  []
 
 [81]
-<assets/images/elliptic-curve-examples.png, id=947, 1284.8pt x 389.455pt>
+<assets/images/elliptic-curve-examples.png, id=957, 1284.8pt x 389.455pt>
 File: assets/images/elliptic-curve-examples.png Graphic file (type png)
 <use assets/images/elliptic-curve-examples.png>
 Package pdftex.def Info: assets/images/elliptic-curve-examples.png  used on inp
-ut line 1201.
+ut line 1203.
 (pdftex.def)             Requested size: 325.21812pt x 98.58174pt.
- [82 <./assets/images/xkcd-538.png>]
-Overfull \hbox (14.84398pt too wide) in paragraph at lines 1208--1208
-[]\OT1/cmr/m/n/12 Det enor-me om-fang af mu-li-ge bitcoin-adresser er vir-ke-li
-g overv^^Zl-
- []
-
-[83 <./assets/images/elliptic-curve-examples.png>] [84
+ [82 <./assets/images/xkcd-538.png>] [83 <./assets/images/elliptic-curve-exampl
+es.png>] [84
 
 
 ]
 chapter 16.
 
-Package hyperref Warning: Suppressing empty link on input line 1240.
+Package hyperref Warning: Suppressing empty link on input line 1242.
 
 
-Overfull \hbox (2.16725pt too wide) in paragraph at lines 1240--1240
-[][]  \OT1/cmr/m/n/12 Det grund-l^^Zg-gen-de pro-blem med kon-ven-tio-nel va-
+Overfull \hbox (0.61646pt too wide) in paragraph at lines 1242--1242
+[]\T1/cmr/m/n/12 ^^R   Det grund-læg-gen-de pro-blem med kon-ven-tio-nel va-
+ []
+
+
+Overfull \hbox (0.99019pt too wide) in paragraph at lines 1245--1246
+\T1/cmr/m/n/12 gang be-tro-e-de \T1/cmr/m/it/12 tred-je-par-ter\T1/cmr/m/n/12 ,
+ men be-tro-e-de par-ter, punk-tum. Uden
  []
 
 [85]
-<assets/images/ken-thompson-hack.png, id=982, 1183.42125pt x 838.13126pt>
+<assets/images/ken-thompson-hack.png, id=992, 1183.42125pt x 838.13126pt>
 File: assets/images/ken-thompson-hack.png Graphic file (type png)
 <use assets/images/ken-thompson-hack.png>
 Package pdftex.def Info: assets/images/ken-thompson-hack.png  used on input lin
-e 1253.
+e 1255.
 (pdftex.def)             Requested size: 325.21613pt x 230.32695pt.
  [86] [87 <./assets/images/ken-thompson-hack.png>]
-<assets/images/stealthy-hardware-trojan.png, id=999, 999.735pt x 299.1175pt>
+<assets/images/stealthy-hardware-trojan.png, id=1009, 999.735pt x 299.1175pt>
 File: assets/images/stealthy-hardware-trojan.png Graphic file (type png)
 <use assets/images/stealthy-hardware-trojan.png>
 Package pdftex.def Info: assets/images/stealthy-hardware-trojan.png  used on in
-put line 1262.
+put line 1264.
 (pdftex.def)             Requested size: 325.21512pt x 97.30331pt.
- [88 <./assets/images/stealthy-hardware-trojan.png>]
-Overfull \hbox (0.90523pt too wide) in paragraph at lines 1273--1274
-\OT1/cmr/m/n/12 eller-^^Zgget\ op-start-s-pro-blem, som Ken Thomp-sons ha-ck s^
-^Wa glim-
- []
-
-[89]
-<assets/images/guix-bootstrap-dependencies.png, id=1025, 931.48pt x 262.9825pt>
+ [88 <./assets/images/stealthy-hardware-trojan.png>] [89]
+<assets/images/guix-bootstrap-dependencies.png, id=1035, 931.48pt x 262.9825pt>
 
 File: assets/images/guix-bootstrap-dependencies.png Graphic file (type png)
 <use assets/images/guix-bootstrap-dependencies.png>
 Package pdftex.def Info: assets/images/guix-bootstrap-dependencies.png  used on
- input line 1276.
+ input line 1278.
 (pdftex.def)             Requested size: 325.21272pt x 91.81651pt.
 
-Overfull \hbox (4.8913pt too wide) in paragraph at lines 1281--1282
-\OT1/cmr/m/n/12 and-syn-ligt, at al-le software-tegneb^^\ger, al-le hardware-te
-gneb^^\ger,
+Overfull \hbox (5.46677pt too wide) in paragraph at lines 1283--1284
+\T1/cmr/m/n/12 and-syn-ligt, at al-le software-tegnebøger, al-le hardware-tegne
+bøger,
  []
 
 
-Overfull \hbox (9.13431pt too wide) in paragraph at lines 1281--1282
-\OT1/cmr/m/n/12 al-le kryp-to-gra-fi-ske bi-bli-o-te-ker, al-le knudepunkts-imp
-lementeringer
+Overfull \hbox (9.05608pt too wide) in paragraph at lines 1283--1284
+\T1/cmr/m/n/12 al-le kryp-to-gra-fi-ske bi-bli-o-te-ker, al-le knudepunkts-impl
+ementeringer
  []
 
 [90 <./assets/images/guix-bootstrap-dependencies.png>] [91] [92
@@ -1201,13 +1156,13 @@ lementeringer
 
 ]
 chapter 17.
-<assets/images/bitcoin-whitepaper-timestamp-wide.png, id=1050, 1381.16pt x 372.
+<assets/images/bitcoin-whitepaper-timestamp-wide.png, id=1060, 1381.16pt x 372.
 39125pt>
 File: assets/images/bitcoin-whitepaper-timestamp-wide.png Graphic file (type pn
 g)
 <use assets/images/bitcoin-whitepaper-timestamp-wide.png>
 Package pdftex.def Info: assets/images/bitcoin-whitepaper-timestamp-wide.png  u
-sed on input line 1323.
+sed on input line 1325.
 (pdftex.def)             Requested size: 325.20488pt x 87.68242pt.
 [93 <./assets/images/bitcoin-whitepaper-timestamp-wide.png>] [94] [95] [96
 
@@ -1215,56 +1170,34 @@ sed on input line 1323.
 ]
 chapter 18.
 
-Overfull \hbox (3.24223pt too wide) in paragraph at lines 1375--1375
-[][]  \OT1/cmr/m/n/12 Man-ge men-ne-sker af-vi-ser au-to-ma-tisk e-valuta som
+Overfull \hbox (1.69112pt too wide) in paragraph at lines 1377--1377
+[]\T1/cmr/m/n/12 ^^R   Man-ge men-ne-sker af-vi-ser au-to-ma-tisk e-valuta som
  []
 
 [97] [98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99]
-Overfull \hbox (5.34824pt too wide) in paragraph at lines 1396--1397
-\OT1/cmr/m/n/12 open sour-ce og den frie softwa-re-bev^^Z-gel-se. Som Sa-tos-hi
- p^^Wapegede,
- []
-
 [100]
 chapter 19.
-<assets/images/nope.png, id=1127, 3613.5pt x 907.39pt>
+<assets/images/nope.png, id=1137, 3613.5pt x 907.39pt>
 File: assets/images/nope.png Graphic file (type png)
 <use assets/images/nope.png>
-Package pdftex.def Info: assets/images/nope.png  used on input line 1435.
+Package pdftex.def Info: assets/images/nope.png  used on input line 1437.
 (pdftex.def)             Requested size: 325.20097pt x 81.66158pt.
-
-Overfull \hbox (0.76924pt too wide) in paragraph at lines 1440--1440
-[][]  \OT1/cmr/m/n/12 Kryp-te-ring vir-ker. Kor-rekt im-ple-men-te-re-de, st^^Z
-r-
- []
-
 [101
 
 
 ] [102 <./assets/images/nope.png>]
 chapter 20.
 
-Package hyperref Warning: Suppressing empty link on input line 1473.
+Package hyperref Warning: Suppressing empty link on input line 1475.
 
 
-Package hyperref Warning: Suppressing empty link on input line 1473.
+Package hyperref Warning: Suppressing empty link on input line 1475.
 
 
-Package hyperref Warning: Suppressing empty link on input line 1473.
-
-
-Overfull \hbox (9.39932pt too wide) in paragraph at lines 1473--1473
-\OT1/cmr/m/n/12 tion kun har kend-skab til det, der er di-rek-te n^^\dvendigt
- []
-
-
-Overfull \hbox (19.64755pt too wide) in paragraph at lines 1473--1473
-\OT1/cmr/m/n/12 tions-sy-ste-mer. Ind-til nu har kon-tan-ter v^^Zret det prim^^
-Zre
- []
+Package hyperref Warning: Suppressing empty link on input line 1475.
 
 
 Underfull \vbox (badness 1226) has occurred while \output is active []
@@ -1273,11 +1206,11 @@ Underfull \vbox (badness 1226) has occurred while \output is active []
 
 
 ]
-<assets/images/bitcoin-code-white.png, id=1161, 905.3825pt x 572.1375pt>
+<assets/images/bitcoin-code-white.png, id=1171, 905.3825pt x 572.1375pt>
 File: assets/images/bitcoin-code-white.png Graphic file (type png)
 <use assets/images/bitcoin-code-white.png>
 Package pdftex.def Info: assets/images/bitcoin-code-white.png  used on input li
-ne 1479.
+ne 1481.
 (pdftex.def)             Requested size: 325.20526pt x 205.50664pt.
 
 [104] [105 <./assets/images/bitcoin-code-white.png>] [106
@@ -1285,43 +1218,43 @@ ne 1479.
 
 ]
 chapter 21.
-<assets/images/tech-adoption.png, id=1193, 1188.44pt x 800.9925pt>
+<assets/images/tech-adoption.png, id=1203, 1188.44pt x 800.9925pt>
 File: assets/images/tech-adoption.png Graphic file (type png)
 <use assets/images/tech-adoption.png>
 Package pdftex.def Info: assets/images/tech-adoption.png  used on input line 15
-16.
+18.
 (pdftex.def)             Requested size: 325.21715pt x 219.19196pt.
-<assets/images/mobile-phone.png, id=1196, 2055.68pt x 662.475pt>
+<assets/images/mobile-phone.png, id=1206, 2055.68pt x 662.475pt>
 File: assets/images/mobile-phone.png Graphic file (type png)
 <use assets/images/mobile-phone.png>
 Package pdftex.def Info: assets/images/mobile-phone.png  used on input line 152
-4.
+6.
 (pdftex.def)             Requested size: 325.2142pt x 104.80536pt.
 [107] [108 <./assets/images/tech-adoption.png>] [109 <./assets/images/mobile-ph
 one.png>]
-<assets/images/internet-evolution-white-dates.png, id=1240, 2148.025pt x 1284.8
+<assets/images/internet-evolution-white-dates.png, id=1250, 2148.025pt x 1284.8
 pt>
 File: assets/images/internet-evolution-white-dates.png Graphic file (type png)
 <use assets/images/internet-evolution-white-dates.png>
 Package pdftex.def Info: assets/images/internet-evolution-white-dates.png  used
- on input line 1539.
+ on input line 1541.
 (pdftex.def)             Requested size: 325.20526pt x 194.51529pt.
-<assets/images/running-bitcoin.png, id=1245, 624.3325pt x 261.97874pt>
+<assets/images/running-bitcoin.png, id=1255, 624.3325pt x 261.97874pt>
 File: assets/images/running-bitcoin.png Graphic file (type png)
 <use assets/images/running-bitcoin.png>
 Package pdftex.def Info: assets/images/running-bitcoin.png  used on input line 
-1546.
+1548.
 (pdftex.def)             Requested size: 227.6175pt x 95.5115pt.
  [110 <./assets/images/internet-evolution-white-dates.png>]
-<assets/images/lnd-growth-lopp-white.png, id=1255, 2096.83376pt x 974.64125pt>
+<assets/images/lnd-growth-lopp-white.png, id=1265, 2096.83376pt x 974.64125pt>
 File: assets/images/lnd-growth-lopp-white.png Graphic file (type png)
 <use assets/images/lnd-growth-lopp-white.png>
 Package pdftex.def Info: assets/images/lnd-growth-lopp-white.png  used on input
- line 1554.
+ line 1556.
 (pdftex.def)             Requested size: 325.19785pt x 151.15706pt.
 
-Underfull \hbox (badness 1655) in paragraph at lines 1555--1555
-[][]|\OT1/cmr/m/n/12 Lightning-netv^^Zrket, ja-nu-ar 2018 vs. de-cem-ber
+Underfull \hbox (badness 1845) in paragraph at lines 1557--1557
+[][]|\T1/cmr/m/n/12 Lightning-netværket, ja-nu-ar 2018 vs. de-cem-ber
  []
 
 [111 <./assets/images/running-bitcoin.png>] [112 <./assets/images/lnd-growth-lo
@@ -1330,31 +1263,19 @@ pp-white.png>] [113] [114
 
 ]
 part without number
-[115] [116]
-Overfull \hbox (10.24402pt too wide) in paragraph at lines 1606--1607
-[]\OT1/cmr/m/n/12 Som n^^Zvnt i be-gyn-del-sen tror jeg, at et-hvert svar p^^Wa
- sp^^\rgsm^^Walet
- []
-
-[117
+[115] [116] [117
 
 
 ] [118] [119] [120
 
 
-]
-Overfull \hbox (15.20091pt too wide) in paragraph at lines 1635--1635
-[]\OT1/cmr/m/n/12 Tak til Sai-fe-de-an Am-mous for hans over-be-vis-nin-ger, n^
-^Wadesl^^\se
- []
-
-[121
+] [121
 
 
 ] [122] (./167-main.lof
-Overfull \hbox (10.12526pt too wide) in paragraph at lines 26--26
- \OT1/cmr/m/n/12 ri-kan-ske cen-tral-bank (Fe-de-ral Re-ser-ve), mens \OT1/cmr/
-m/it/12 Bitco- 
+Overfull \hbox (10.04622pt too wide) in paragraph at lines 26--26
+ \T1/cmr/m/n/12 ri-kan-ske cen-tral-bank (Fe-de-ral Re-ser-ve), mens \T1/cmr/m/
+it/12 Bitco- 
  []
 
 
@@ -1372,871 +1293,866 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (0.67885pt too wide) in paragraph at lines 1644--1644
- [] \OT1/cmr/m/n/12 Den-ne bi-bli-o-gra-fi in-klu-de-rer en r^^Zk-ke b^^\ger, a
-r-tik-ler og online-
+Overfull \hbox (0.929pt too wide) in paragraph at lines 1646--1646
+ [] \T1/cmr/m/n/12 Den-ne bi-bli-o-gra-fi in-klu-de-rer en ræk-ke bø-ger, ar-ti
+k-ler og online-
  []
 
 (./167-main.bbl [127] [128
 
 
 ]
-Underfull \hbox (badness 4454) in paragraph at lines 10--15
-[]\OT1/cmr/m/n/12 Saifedean Am-mous.  Pre-sen-ta-tion on the bitco-in
+Underfull \hbox (badness 4479) in paragraph at lines 10--15
+[]\T1/cmr/m/n/12 Saifedean Am-mous.  Pre-sen-ta-tion on the bitco-in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--15
-\OT1/cmr/m/n/12 stan-dard.  []$\OT1/cmtt/m/n/12 https : / / www . bayernlb . de
- / internet /
+\T1/cmr/m/n/12 stan-dard.  []$\T1/cmtt/m/n/12 https : / / www . bayernlb . de /
+ internet /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--15
-\OT1/cmtt/m/n/12 media / de / ir / downloads _ 1 / bayernlb _ research /
+\T1/cmtt/m/n/12 media / de / ir / downloads _ 1 / bayernlb _ research /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--15
-\OT1/cmtt/m/n/12 sonderpublikationen _ 1 / bitcoin _ munich _ may _ 28 . pdf$[]
-\OT1/cmr/m/n/12 ,
+\T1/cmtt/m/n/12 sonderpublikationen _ 1 / bitcoin _ munich _ may _ 28 . pdf$[]\
+T1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 27--32
-\OT1/cmr/m/n/12 tu-re of the in-ter-net - in-tro-duction: A call to cryp-
+Underfull \hbox (badness 1112) in paragraph at lines 27--32
+\T1/cmr/m/n/12 tu-re of the in-ter-net - in-tro-duction: A call to cryp-
  []
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 27--32
-\OT1/cmr/m/n/12 to-grap-hic arms.  []$\OT1/cmtt/m/n/12 https : / / cryptome . o
-rg / 2012 / 12 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
-[]\OT1/cmr/m/n/12 Beautyon.  Why ame-ri-ca can't re-gu-la-
+Underfull \hbox (badness 6047) in paragraph at lines 27--32
+\T1/cmr/m/n/12 to-grap-hic arms.  []$\T1/cmtt/m/n/12 https : / / cryptome . org
+ / 2012 / 12 /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--43
-\OT1/cmr/m/n/12 te bitco-in.  []$\OT1/cmtt/m/n/12 https : / / hackernoon . com 
-/
+[]\T1/cmr/m/n/12 Beautyon.  Why ame-ri-ca can't re-gu-la-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--43
-\OT1/cmtt/m/n/12 why-[]america-[]cant-[]regulate-[]bitcoin-[]8c77cee8d794$[]\OT
-1/cmr/m/n/12 ,
+\T1/cmr/m/n/12 te bitco-in.  []$\T1/cmtt/m/n/12 https : / / hackernoon . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
-[]\OT1/cmr/m/n/12 Beautyon.  Bitco-in is. and that is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
-\OT1/cmr/m/n/12 enough.  []$\OT1/cmtt/m/n/12 https : / / hackernoon . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
-\OT1/cmtt/m/n/12 bitcoin-[]is-[]and-[]that-[]is-[]enough-[]e3116870eed1$[]\OT1/
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+\T1/cmtt/m/n/12 why-[]america-[]cant-[]regulate-[]bitcoin-[]8c77cee8d794$[]\T1/
 cmr/m/n/12 ,
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+[]\T1/cmr/m/n/12 Beautyon.  Bitco-in is. and that is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+\T1/cmr/m/n/12 enough.  []$\T1/cmtt/m/n/12 https : / / hackernoon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+\T1/cmtt/m/n/12 bitcoin-[]is-[]and-[]that-[]is-[]enough-[]e3116870eed1$[]\T1/cm
+r/m/n/12 ,
+ []
+
 [129]
-Underfull \hbox (badness 1688) in paragraph at lines 63--68
-[]\OT1/cmr/m/n/12 Jeff Bezos.  To our sha-re-hol-ders.  []$\OT1/cmtt/m/n/12 htt
-p : / / media .
+Underfull \hbox (badness 1694) in paragraph at lines 63--68
+[]\T1/cmr/m/n/12 Jeff Bezos.  To our sha-re-hol-ders.  []$\T1/cmtt/m/n/12 http 
+: / / media .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--68
-\OT1/cmtt/m/n/12 corporate-[]ir . net / media _ files / irol / 97 / 97664 /
+\T1/cmtt/m/n/12 corporate-[]ir . net / media _ files / irol / 97 / 97664 /
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 84--89
-[]\OT1/cmr/m/n/12 Bitcoin Wiki con-tri-bu-tors.  Ge-ne-sis blo-ck --- Bitco-
+Underfull \hbox (badness 1048) in paragraph at lines 84--89
+[]\T1/cmr/m/n/12 Bitcoin Wiki con-tri-bu-tors.  Ge-ne-sis blo-ck --- Bitco-
  []
 
 [130]
 Underfull \hbox (badness 10000) in paragraph at lines 115--120
-\OT1/cmtt/m/n/12 what-[]is-[]it-[]like-[]to-[]be-[]a-[]bitcoin-[]56109f3e6753$[
-]\OT1/cmr/m/n/12 ,
+\T1/cmtt/m/n/12 what-[]is-[]it-[]like-[]to-[]be-[]a-[]bitcoin-[]56109f3e6753$[]
+\T1/cmr/m/n/12 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--126
-[]\OT1/cmr/m/n/12 Guix Con-tri-bu-tors.  Gu-ix --- boot-strap-ping.
+[]\T1/cmr/m/n/12 Guix Con-tri-bu-tors.  Gu-ix --- boot-strap-ping.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--126
-[]$\OT1/cmtt/m/n/12 https : / / guix . gnu . org / manual / en / html _ node /
+[]$\T1/cmtt/m/n/12 https : / / guix . gnu . org / manual / en / html _ node /
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 140--145
-[]\OT1/cmr/m/n/12 Jeff Desjar-dins.  The ri-sing spe-ed of te-ch-no-lo-gi-cal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--145
-\OT1/cmr/m/n/12 adop-tion.  []$\OT1/cmtt/m/n/12 https : / / www . visualcapital
-ist . com /
+Underfull \hbox (badness 2035) in paragraph at lines 140--145
+[]\T1/cmr/m/n/12 Jeff Desjar-dins.  The ri-sing spe-ed of te-ch-no-lo-gi-cal
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--145
-\OT1/cmtt/m/n/12 rising-[]speed-[]technological-[]adoption/$[]\OT1/cmr/m/n/12 ,
- Fe-bru-ary
+\T1/cmr/m/n/12 adop-tion.  []$\T1/cmtt/m/n/12 https : / / www . visualcapitalis
+t . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+\T1/cmtt/m/n/12 rising-[]speed-[]technological-[]adoption/$[]\T1/cmr/m/n/12 , F
+e-bru-ary
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 161--166
-\OT1/cmtt/m/n/12 index . php ? topic = 4994 . msg140770 # msg140770$[]\OT1/cmr/
-m/n/12 , May
+\T1/cmtt/m/n/12 index . php ? topic = 4994 . msg140770 # msg140770$[]\T1/cmr/m/
+n/12 , May
  []
 
 [131]
 Underfull \hbox (badness 10000) in paragraph at lines 168--173
-[]\OT1/cmr/m/n/12 Electronic Fron-ti-er Fo-un-da-tion.  The cryp-to
+[]\T1/cmr/m/n/12 Electronic Fron-ti-er Fo-un-da-tion.  The cryp-to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 168--173
-\OT1/cmr/m/n/12 wars:governments wor-king to un-der-mi-ne en-cryp-
+\T1/cmr/m/n/12 wars:governments wor-king to un-der-mi-ne en-cryp-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 168--173
-\OT1/cmr/m/n/12 tion.  []$\OT1/cmtt/m/n/12 https : / / www . eff . org / files 
-/ 2014 / 01 / 03 /
+\T1/cmr/m/n/12 tion.  []$\T1/cmtt/m/n/12 https : / / www . eff . org / files / 
+2014 / 01 / 03 /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 180--185
-[]\OT1/cmr/m/n/12 William Gib-son.  The sci-en-ce in sci-en-ce fi-
+[]\T1/cmr/m/n/12 William Gib-son.  The sci-en-ce in sci-en-ce fi-
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 180--185
-\OT1/cmr/m/n/12 ction.  []$\OT1/cmtt/m/n/12 https : / / www . npr . org / 2018 
-/ 10 / 22 / 1067220 /
+Underfull \hbox (badness 4328) in paragraph at lines 180--185
+\T1/cmr/m/n/12 ction.  []$\T1/cmtt/m/n/12 https : / / www . npr . org / 2018 / 
+10 / 22 / 1067220 /
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 187--191
-[]\OT1/cmr/m/n/12 Gigi.  Bitco-in's ener-gy consump-tion -- a shift
+Underfull \hbox (badness 7981) in paragraph at lines 187--191
+[]\T1/cmr/m/n/12 Gigi.  Bitco-in's ener-gy consump-tion -- a shift
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 187--191
-\OT1/cmr/m/n/12 in per-specti-ve.  []$\OT1/cmtt/m/n/12 https : / / dergigi . co
-m / 2018 / 06 / 10 /
+Underfull \hbox (badness 2970) in paragraph at lines 187--191
+\T1/cmr/m/n/12 in per-specti-ve.  []$\T1/cmtt/m/n/12 https : / / dergigi . com 
+/ 2018 / 06 / 10 /
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 193--198
-[]\OT1/cmr/m/n/12 Gigi.  The magic dust of cryp-to-grap-hy -- how
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--198
-\OT1/cmr/m/n/12 di-gi-tal in-for-ma-tion is chan-ging our so-cie-ty-bitco-
+Underfull \hbox (badness 5050) in paragraph at lines 193--198
+[]\T1/cmr/m/n/12 Gigi.  The magic dust of cryp-to-grap-hy -- how
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 193--198
-\OT1/cmr/m/n/12 in's gravi-ty.  []$\OT1/cmtt/m/n/12 https : / / dergigi . com /
- 2018 / 08 / 17 /
+\T1/cmr/m/n/12 di-gi-tal in-for-ma-tion is chan-ging our so-cie-ty-bitco-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 200--205
-\OT1/cmr/m/n/12 le scrip-ting.  []$\OT1/cmtt/m/n/12 https : / / lists . linuxfo
-undation . org /
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
+\T1/cmr/m/n/12 in's gravi-ty.  []$\T1/cmtt/m/n/12 https : / / dergigi . com / 2
+018 / 08 / 17 /
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 200--205
+\T1/cmr/m/n/12 le scrip-ting.  []$\T1/cmtt/m/n/12 https : / / lists . linuxfoun
+dation . org /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 200--205
-\OT1/cmtt/m/n/12 pipermail / bitcoin-[]dev / 2018-[]January / 015614 . html$[]\
-OT1/cmr/m/n/12 ,
+\T1/cmtt/m/n/12 pipermail / bitcoin-[]dev / 2018-[]January / 015614 . html$[]\T
+1/cmr/m/n/12 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--211
-[]\OT1/cmr/m/n/12 Hasu.  Un-pa-ck-ing bitco-in's so-ci-al con-
+[]\T1/cmr/m/n/12 Hasu.  Un-pa-ck-ing bitco-in's so-ci-al con-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--211
-\OT1/cmr/m/n/12 tra-ct.  []$\OT1/cmtt/m/n/12 https : / / uncommoncore . co /
+\T1/cmr/m/n/12 tra-ct.  []$\T1/cmtt/m/n/12 https : / / uncommoncore . co /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--211
-\OT1/cmtt/m/n/12 unpacking-[]bitcoins-[]social-[]contract$[]\OT1/cmr/m/n/12 , D
-e-cem-ber
+\T1/cmtt/m/n/12 unpacking-[]bitcoins-[]social-[]contract$[]\T1/cmr/m/n/12 , De-
+cem-ber
  []
 
 [132]
 Underfull \hbox (badness 10000) in paragraph at lines 225--229
-\OT1/cmr/m/n/12 von Mi-ses In-sti-tu-te, []$\OT1/cmtt/m/n/12 https : / / mises 
-. org / library /
+\T1/cmr/m/n/12 von Mi-ses In-sti-tu-te, []$\T1/cmtt/m/n/12 https : / / mises . 
+org / library /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 231--236
-[]\OT1/cmr/m/n/12 Dan Held.  Bitco-in's di-stri-bu-tion
+[]\T1/cmr/m/n/12 Dan Held.  Bitco-in's di-stri-bu-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 231--236
-\OT1/cmr/m/n/12 was fair.  []$\OT1/cmtt/m/n/12 https : / / blog . picks . co /
+\T1/cmr/m/n/12 was fair.  []$\T1/cmtt/m/n/12 https : / / blog . picks . co /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 231--236
-\OT1/cmtt/m/n/12 bitcoins-[]distribution-[]was-[]fair-[]e2ef7bbbc892$[]\OT1/cmr
-/m/n/12 ,
+\T1/cmtt/m/n/12 bitcoins-[]distribution-[]was-[]fair-[]e2ef7bbbc892$[]\T1/cmr/m
+/n/12 ,
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 238--241
-[]\OT1/cmr/m/n/12 Eric Hug-hes.  A cyp-her-punk's ma-ni-fe-sto.  []$\OT1/cmtt/m
-/n/12 https :
+Underfull \hbox (badness 1655) in paragraph at lines 238--241
+[]\T1/cmr/m/n/12 Eric Hug-hes.  A cyp-her-punk's ma-ni-fe-sto.  []$\T1/cmtt/m/n
+/12 https :
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 238--241
-\OT1/cmtt/m/n/12 / / www . activism . net / cypherpunk / manifesto . html$[]\OT
-1/cmr/m/n/12 ,
+\T1/cmtt/m/n/12 / / www . activism . net / cypherpunk / manifesto . html$[]\T1/
+cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 243--247
-[]\OT1/cmr/m/n/12 Guido J^^?org H^^?uls-mann.  \OT1/cmr/m/it/12 Et-hi-cs of Mo-
-ney Pro-
+Underfull \hbox (badness 7047) in paragraph at lines 243--247
+[]\T1/cmr/m/n/12 Guido Jörg Hüls-mann.  \T1/cmr/m/it/12 Et-hi-cs of Mo-ney Pro-
+
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 266--272
-[]\OT1/cmr/m/n/12 Margo Rap-port.  Hi-story shows pri-ce of an oun-
+Underfull \hbox (badness 2310) in paragraph at lines 266--272
+[]\T1/cmr/m/n/12 Margo Rap-port.  Hi-story shows pri-ce of an oun-
  []
 
 
-Underfull \hbox (badness 4328) in paragraph at lines 266--272
-\OT1/cmr/m/n/12 ce of gold equals pri-ce of a de-cent men's su-it,
+Underfull \hbox (badness 4353) in paragraph at lines 266--272
+\T1/cmr/m/n/12 ce of gold equals pri-ce of a de-cent men's su-it,
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 266--272
-\OT1/cmr/m/n/12 says sionna in-ve-st-ment ma-na-gers.  []$\OT1/cmtt/m/n/12 http
-s : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--272
-\OT1/cmtt/m/n/12 businesswire . com / news / home / 20110819005774 / en /
+Underfull \hbox (badness 5050) in paragraph at lines 266--272
+\T1/cmr/m/n/12 says sionna in-ve-st-ment ma-na-gers.  []$\T1/cmtt/m/n/12 https 
+: / / www .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 266--272
-\OT1/cmtt/m/n/12 History-[]Shows-[]Price-[]Ounce-[]Gold-[]Equals-[]Price$[]\OT1
-/cmr/m/n/12 ,
+\T1/cmtt/m/n/12 businesswire . com / news / home / 20110819005774 / en /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--272
+\T1/cmtt/m/n/12 History-[]Shows-[]Price-[]Ounce-[]Gold-[]Equals-[]Price$[]\T1/c
+mr/m/n/12 ,
  []
 
 [133]
 Underfull \hbox (badness 10000) in paragraph at lines 274--278
-[]\OT1/cmr/m/n/12 Trace May-er.  The 7 net-work ef-fects of
+[]\T1/cmr/m/n/12 Trace May-er.  The 7 net-work ef-fects of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 274--278
-\OT1/cmr/m/n/12 bitco-in.  []$\OT1/cmtt/m/n/12 https : / / www . thrivenotes . 
-com /
+\T1/cmr/m/n/12 bitco-in.  []$\T1/cmtt/m/n/12 https : / / www . thrivenotes . co
+m /
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 280--284
-[]\OT1/cmr/m/n/12 Ralph C. Mer-k-le.  Da-os, de-mo-cra-cy and gover-nan-
+Underfull \hbox (badness 1331) in paragraph at lines 280--284
+[]\T1/cmr/m/n/12 Ralph C. Mer-k-le.  Da-os, de-mo-cra-cy and gover-nan-
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 280--284
-\OT1/cmr/m/n/12 ce.  []$\OT1/cmtt/m/n/12 https : / / alcor . org / cryonics / C
-ryonics2016-[]4 .
+Underfull \hbox (badness 2253) in paragraph at lines 280--284
+\T1/cmr/m/n/12 ce.  []$\T1/cmtt/m/n/12 https : / / alcor . org / cryonics / Cry
+onics2016-[]4 .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 286--291
-\OT1/cmtt/m/n/12 com / fiatminimalist / status / 1072880815661436928$[]\OT1/cmr
-/m/n/12 ,
+\T1/cmtt/m/n/12 com / fiatminimalist / status / 1072880815661436928$[]\T1/cmr/m
+/n/12 ,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 293--298
-[]$\OT1/cmtt/m/n/12 https : / / www . muenzeoesterreich . at / eng / discover /
-
+[]$\T1/cmtt/m/n/12 https : / / www . muenzeoesterreich . at / eng / discover /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 293--298
-\OT1/cmtt/m/n/12 for-[]investors / gold-[]the-[]extraordinary-[]metal$[]\OT1/cm
-r/m/n/12 ,
+\T1/cmtt/m/n/12 for-[]investors / gold-[]the-[]extraordinary-[]metal$[]\T1/cmr/
+m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 300--305
-[]\OT1/cmr/m/n/12 British Mu-se-um.  The ori-gins of co-i-na-ge.  []$\OT1/cmtt/
-m/n/12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--305
-\OT1/cmtt/m/n/12 / / www . britishmuseum . org / explore / themes / money /
- []
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 312--317
-[]\OT1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: Bitco-in p2p e-cash pa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--317
-\OT1/cmr/m/n/12 per.  []$\OT1/cmtt/m/n/12 https : / / www . metzdowd . com / pi
-permail /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--324
-\OT1/cmtt/m/n/12 topics / bitcoin-[]open-[]source ? commentId = 2003008 %
- []
-
-[134]
-Underfull \hbox (badness 6493) in paragraph at lines 338--342
-[]\OT1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: Questions about bitco-
- []
-
-
-Underfull \hbox (badness 6978) in paragraph at lines 344--348
-[]\OT1/cmr/m/n/12 Satoshi Na-ka-mo-to.  De-a-ling with sha-256 col-li-
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 344--348
-\OT1/cmr/m/n/12 sions.  []$\OT1/cmtt/m/n/12 https : / / bitcointalk . org / ind
-ex . php ? topic =
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 350--354
-[]\OT1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: 0.3 al-most re-a-dy.  []$\OT1/cmtt/
-m/n/12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--354
-\OT1/cmtt/m/n/12 / / bitcointalk . org / index . php ? topic = 199 . msg1670 #
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--360
-\OT1/cmtt/m/n/12 org / index . php ? topic = 195 . msg1611 # msg1611$[]\OT1/cmr
-/m/n/12 , Ju-ne
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 367--373
-[]\OT1/cmr/m/n/12 Jordan Pear-son.  In-si-de the wor-ld of the bitco-
- []
-
-
-Underfull \hbox (badness 4832) in paragraph at lines 367--373
-\OT1/cmr/m/n/12 in car-ni-vo-res: Why a small com-mu-ni-ty of bitco-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--373
-\OT1/cmr/m/n/12 in users is eat-ing me-at exclu-si-ve-ly.  []$\OT1/cmtt/m/n/12 
-https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--373
-\OT1/cmtt/m/n/12 / / motherboard . vice . com / en _ us / article / ne74nw /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--373
-\OT1/cmtt/m/n/12 inside-[]the-[]world-[]of-[]the-[]bitcoin-[]carnivores$[]\OT1/
-cmr/m/n/12 ,
- []
-
-[135]
-Underfull \hbox (badness 4266) in paragraph at lines 375--380
-[]\OT1/cmr/m/n/12 Pieter Wu-il-le.  Sch-norr sig-na-tu-res for secp256k1.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--380
-[]$\OT1/cmtt/m/n/12 https : / / github . com / sipa / bips / blob / bip-[]schno
-rr /
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 382--388
-[]\OT1/cmr/m/n/12 Plato.  \OT1/cmr/m/it/12 Pla-to in Twel-ve Vo-lu-mes, Vol. 3.
- (Eut-hy-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--388
-[]$\OT1/cmtt/m/n/12 http : / / www . perseus . tufts . edu / hopper / text ? do
-c =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--388
-\OT1/cmtt/m/n/12 Perseus % 3Atext % 3A1999 . 01 . 0178 % 3Atext % 3DEuthyd .
- []
-
-
-Underfull \hbox (badness 7667) in paragraph at lines 411--416
-[]\OT1/cmr/m/n/12 Edward Snow-den.  Edward snow-den: Nsa whi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--416
-\OT1/cmr/m/n/12 st-le-blower an-swers re-a-der questions.  []$\OT1/cmtt/m/n/12 
-https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--416
-\OT1/cmtt/m/n/12 / / www . theguardian . com / world / 2013 / jun / 17 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--416
-\OT1/cmtt/m/n/12 edward-[]snowden-[]nsa-[]files-[]whistleblower$[]\OT1/cmr/m/n/
-12 , Ju-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--423
-[]\OT1/cmr/m/n/12 Jimmy Song.  Why bitco-in is dif-fe-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--423
-\OT1/cmr/m/n/12 rent.  []$\OT1/cmtt/m/n/12 https : / / medium . com / @jimmyson
-g /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--423
-\OT1/cmtt/m/n/12 why-[]bitcoin-[]is-[]different-[]e17b813fd947$[]\OT1/cmr/m/n/1
-2 , April
- []
-
-[136]
-Underfull \hbox (badness 10000) in paragraph at lines 425--429
-[]\OT1/cmr/m/n/12 U.S. Ge-o-lo-gi-cal Sur-vey.  Na-tio-nal mi-ne-rals in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--429
-\OT1/cmr/m/n/12 for-ma-tion cen-ter -- mi-ne-ral com-mo-di-ty sum-ma-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--429
-\OT1/cmr/m/n/12 ri-es.  []$\OT1/cmtt/m/n/12 https : / / www . usgs . gov / cent
-ers / nmic /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 441--445
-[]\OT1/cmr/m/n/12 Tom El-vis Je-du-sor.  Mim-blewim-b-le ori-gin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 441--445
-[]$\OT1/cmtt/m/n/12 https : / / github . com / mimblewimble / docs / wiki /
- []
-
-
-Underfull \hbox (badness 1629) in paragraph at lines 465--471
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  2013{pre-sent eco-no-mic cri-
- []
-
-
-Underfull \hbox (badness 2573) in paragraph at lines 465--471
-\OT1/cmr/m/n/12 sis in ve-nezu-ela --- Wikipe-dia, the free en-cycl-ope-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--471
-\OT1/cmr/m/n/12 dia.  []$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w 
-/ index . php ?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--471
-\OT1/cmtt/m/n/12 title = 2013 % E2 % 80 % 93present _ economic _ crisis _
- []
-
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 473--478
-\OT1/cmtt/m/n/12 index . php ? title = Austrian _ School & oldid = 920008469$[]
-\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 480--485
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Bi-me-tal-lism --- Wikipe-dia,
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 480--485
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 480--485
-\OT1/cmtt/m/n/12 w / index . php ? title = Bimetallism & oldid = 920537299$[]\O
-T1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 487--492
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--492
-\OT1/cmtt/m/n/12 w / index . php ? title = Crypto _ Wars & oldid = 916147143$[]
-\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 494--499
-\OT1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / /
- en . wikipedia .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--499
-\OT1/cmtt/m/n/12 org / w / index . php ? title = Discrete _ logarithm & oldid =
-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 501--506
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--506
-\OT1/cmtt/m/n/12 w / index . php ? title = Dual _ EC _ DRBG & oldid = 918490393
-$[]\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 508--513
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--513
-\OT1/cmtt/m/n/12 w / index . php ? title = Dyson _ sphere & oldid = 916621053$[
-]\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 515--520
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Elliptic-curve cryp-to-grap-hy
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 515--520
-\OT1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 
-https : / / en .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 515--520
-\OT1/cmtt/m/n/12 wikipedia . org / w / index . php ? title = Elliptic-[]curve _
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 522--527
-\OT1/cmtt/m/n/12 index . php ? title = Hyperinflation & oldid = 919343724$[]\OT
-1/cmr/m/n/12 ,
- []
-
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
-\OT1/cmtt/m/n/12 index . php ? title = Illegal _ number & oldid = 918772989$[]\
-OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 536--541
-\OT1/cmtt/m/n/12 index . php ? title = Illegal _ prime & oldid = 913087454$[]\O
-T1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 543--548
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Key-nesi-an eco-no-mi-
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 543--548
-\OT1/cmr/m/n/12 cs --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/
-12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 543--548
-\OT1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Keynesian
- _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--555
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Lan-dau-er's prin-cip-
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 550--555
-\OT1/cmr/m/n/12 le --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/
-12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--555
-\OT1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Landauer 
-%
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 557--562
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Last gla-ci-al maxi-mum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 557--562
-\OT1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 
-https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 557--562
-\OT1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Last _
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 564--569
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Lin-dy ef-fect --- Wikipe-dia,
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 564--569
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 564--569
-\OT1/cmtt/m/n/12 w / index . php ? title = Lindy _ effect & oldid = 921214819$[
-]\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 571--576
-\OT1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / /
- en . wikipedia .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 571--576
-\OT1/cmtt/m/n/12 org / w / index . php ? title = List _ of _ currencies & oldid
- =
- []
-
-[139]
-Underfull \hbox (badness 10000) in paragraph at lines 578--584
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  List of hi-sto-ri-cal cur-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 578--584
-\OT1/cmr/m/n/12 ren-cies --- Wikipe-dia, the free en-cycl-ope-dia.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 578--584
-[]$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title 
-=
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 578--584
-\OT1/cmtt/m/n/12 List _ of _ historical _ currencies & oldid = 919919705$[]\OT1
-/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 586--591
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Met-hods of co-in de-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 586--591
-\OT1/cmr/m/n/12 ba-se-ment --- Wikipe-dia, the free en-cycl-ope-dia.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 586--591
-[]$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title 
-=
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 593--598
-\OT1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / /
- en . wikipedia .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 593--598
-\OT1/cmtt/m/n/12 org / w / index . php ? title = Money _ multiplier & oldid =
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 600--605
-\OT1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / / en .
- wikipedia . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 600--605
-\OT1/cmtt/m/n/12 w / index . php ? title = Money _ supply & oldid = 921152289$[
-]\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--612
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  P ver-sus np pro-blem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--612
-\OT1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 
-https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--612
-\OT1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = P _ versu
-s _
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 614--619
-\OT1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/n/12 https : / /
- en . wikipedia .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 614--619
-\OT1/cmtt/m/n/12 org / w / index . php ? title = Paradox _ of _ value & oldid =
-
- []
-
-[140]
-Underfull \hbox (badness 10000) in paragraph at lines 627--632
-\OT1/cmtt/m/n/12 index . php ? title = Ship _ of _ Theseus & oldid = 923020256$
-[]\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 2126) in paragraph at lines 634--640
-\OT1/cmr/m/n/12 tes) --- Wikipe-dia, the free en-cycl-ope-dia.  []$\OT1/cmtt/m/
+Underfull \hbox (badness 1259) in paragraph at lines 300--305
+[]\T1/cmr/m/n/12 British Mu-se-um.  The ori-gins of co-i-na-ge.  []$\T1/cmtt/m/
 n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--640
-\OT1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Silver _
+Underfull \hbox (badness 10000) in paragraph at lines 300--305
+\T1/cmtt/m/n/12 / / www . britishmuseum . org / explore / themes / money /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--640
-\OT1/cmtt/m/n/12 certificate _ (United _ States ) &oldid = 917688197$[]\OT1/cmr
-/m/n/12 ,
+Underfull \hbox (badness 4819) in paragraph at lines 312--317
+[]\T1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: Bitco-in p2p e-cash pa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--647
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Sub-jecti-ve the-ory
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+\T1/cmr/m/n/12 per.  []$\T1/cmtt/m/n/12 https : / / www . metzdowd . com / pipe
+rmail /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--647
-\OT1/cmr/m/n/12 of va-lue --- Wikipe-dia, the free en-cycl-ope-dia.
+Underfull \hbox (badness 10000) in paragraph at lines 319--324
+\T1/cmtt/m/n/12 topics / bitcoin-[]open-[]source ? commentId = 2003008 %
+ []
+
+[134]
+Underfull \hbox (badness 6510) in paragraph at lines 338--342
+[]\T1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: Questions about bitco-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--647
-[]$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title 
+Underfull \hbox (badness 7012) in paragraph at lines 344--348
+[]\T1/cmr/m/n/12 Satoshi Na-ka-mo-to.  De-a-ling with sha-256 col-li-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 344--348
+\T1/cmr/m/n/12 sions.  []$\T1/cmtt/m/n/12 https : / / bitcointalk . org / index
+ . php ? topic =
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 350--354
+[]\T1/cmr/m/n/12 Satoshi Na-ka-mo-to.  Re: 0.3 al-most re-a-dy.  []$\T1/cmtt/m/
+n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
+\T1/cmtt/m/n/12 / / bitcointalk . org / index . php ? topic = 199 . msg1670 #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--360
+\T1/cmtt/m/n/12 org / index . php ? topic = 195 . msg1611 # msg1611$[]\T1/cmr/m
+/n/12 , Ju-ne
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 367--373
+[]\T1/cmr/m/n/12 Jordan Pear-son.  In-si-de the wor-ld of the bitco-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 367--373
+\T1/cmr/m/n/12 in car-ni-vo-res: Why a small com-mu-ni-ty of bitco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/cmr/m/n/12 in users is eat-ing me-at exclu-si-ve-ly.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/cmtt/m/n/12 / / motherboard . vice . com / en _ us / article / ne74nw /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/cmtt/m/n/12 inside-[]the-[]world-[]of-[]the-[]bitcoin-[]carnivores$[]\T1/cm
+r/m/n/12 ,
+ []
+
+[135]
+Underfull \hbox (badness 4279) in paragraph at lines 375--380
+[]\T1/cmr/m/n/12 Pieter Wu-il-le.  Sch-norr sig-na-tu-res for secp256k1.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--380
+[]$\T1/cmtt/m/n/12 https : / / github . com / sipa / bips / blob / bip-[]schnor
+r /
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 382--388
+[]\T1/cmr/m/n/12 Plato.  \T1/cmr/m/it/12 Pla-to in Twel-ve Vo-lu-mes, Vol. 3. (
+Eut-hy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
+[]$\T1/cmtt/m/n/12 http : / / www . perseus . tufts . edu / hopper / text ? doc
+ =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
+\T1/cmtt/m/n/12 Perseus % 3Atext % 3A1999 . 01 . 0178 % 3Atext % 3DEuthyd .
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 411--416
+[]\T1/cmr/m/n/12 Edward Snow-den.  Edward snow-den: Nsa whi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/cmr/m/n/12 st-le-blower an-swers re-a-der questions.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/cmtt/m/n/12 / / www . theguardian . com / world / 2013 / jun / 17 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/cmtt/m/n/12 edward-[]snowden-[]nsa-[]files-[]whistleblower$[]\T1/cmr/m/n/12
+ , Ju-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+[]\T1/cmr/m/n/12 Jimmy Song.  Why bitco-in is dif-fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+\T1/cmr/m/n/12 rent.  []$\T1/cmtt/m/n/12 https : / / medium . com / @jimmysong 
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+\T1/cmtt/m/n/12 why-[]bitcoin-[]is-[]different-[]e17b813fd947$[]\T1/cmr/m/n/12 
+, April
+ []
+
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 425--429
+[]\T1/cmr/m/n/12 U.S. Ge-o-lo-gi-cal Sur-vey.  Na-tio-nal mi-ne-rals in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--429
+\T1/cmr/m/n/12 for-ma-tion cen-ter -- mi-ne-ral com-mo-di-ty sum-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--429
+\T1/cmr/m/n/12 ri-es.  []$\T1/cmtt/m/n/12 https : / / www . usgs . gov / center
+s / nmic /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--445
+[]\T1/cmr/m/n/12 Tom El-vis Je-du-sor.  Mim-blewim-b-le ori-gin.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--445
+[]$\T1/cmtt/m/n/12 https : / / github . com / mimblewimble / docs / wiki /
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 465--471
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  2013^^Upre-sent eco-no-mic cri-
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 465--471
+\T1/cmr/m/n/12 sis in ve-nezu-ela --- Wikipe-dia, the free en-cycl-ope-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--471
+\T1/cmr/m/n/12 dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / 
+index . php ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--471
+\T1/cmtt/m/n/12 title = 2013 % E2 % 80 % 93present _ economic _ crisis _
+ []
+
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 473--478
+\T1/cmtt/m/n/12 index . php ? title = Austrian _ School & oldid = 920008469$[]\
+T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 480--485
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Bi-me-tal-lism --- Wikipe-dia,
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 480--485
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--485
+\T1/cmtt/m/n/12 w / index . php ? title = Bimetallism & oldid = 920537299$[]\T1
+/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 487--492
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--492
+\T1/cmtt/m/n/12 w / index . php ? title = Crypto _ Wars & oldid = 916147143$[]\
+T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 494--499
+\T1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--499
+\T1/cmtt/m/n/12 org / w / index . php ? title = Discrete _ logarithm & oldid =
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 501--506
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--506
+\T1/cmtt/m/n/12 w / index . php ? title = Dual _ EC _ DRBG & oldid = 918490393$
+[]\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 508--513
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--513
+\T1/cmtt/m/n/12 w / index . php ? title = Dyson _ sphere & oldid = 916621053$[]
+\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 515--520
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Elliptic-curve cryp-to-grap-hy
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 515--520
+\T1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps : / / en .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--520
+\T1/cmtt/m/n/12 wikipedia . org / w / index . php ? title = Elliptic-[]curve _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+\T1/cmtt/m/n/12 index . php ? title = Hyperinflation & oldid = 919343724$[]\T1/
+cmr/m/n/12 ,
+ []
+
+[138]
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+\T1/cmtt/m/n/12 index . php ? title = Illegal _ number & oldid = 918772989$[]\T
+1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--541
+\T1/cmtt/m/n/12 index . php ? title = Illegal _ prime & oldid = 913087454$[]\T1
+/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--548
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Key-nesi-an eco-no-mi-
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 543--548
+\T1/cmr/m/n/12 cs --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12
+ https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--548
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Keynesian 
+_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Lan-dau-er's prin-cip-
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 550--555
+\T1/cmr/m/n/12 le --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12
+ https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Landauer %
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Last gla-ci-al maxi-mum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+\T1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Last _
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 564--569
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Lin-dy ef-fect --- Wikipe-dia,
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 564--569
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--569
+\T1/cmtt/m/n/12 w / index . php ? title = Lindy _ effect & oldid = 921214819$[]
+\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 571--576
+\T1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--576
+\T1/cmtt/m/n/12 org / w / index . php ? title = List _ of _ currencies & oldid 
 =
  []
 
-
-Underfull \hbox (badness 7832) in paragraph at lines 656--661
-[]\OT1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  The-ory of va-lue (eco-
+[139]
+Underfull \hbox (badness 10000) in paragraph at lines 578--584
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  List of hi-sto-ri-cal cur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--661
-\OT1/cmr/m/n/12 no-mi-cs) --- Wikipe-dia, the free en-cycl-ope-dia.
+Underfull \hbox (badness 10000) in paragraph at lines 578--584
+\T1/cmr/m/n/12 ren-cies --- Wikipe-dia, the free en-cycl-ope-dia.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--661
-[]$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title 
-=
+Underfull \hbox (badness 10000) in paragraph at lines 578--584
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--661
-\OT1/cmtt/m/n/12 Theory _ of _ value _ (economics ) &oldid = 919603374$[]\OT1/c
+Underfull \hbox (badness 10000) in paragraph at lines 578--584
+\T1/cmtt/m/n/12 List _ of _ historical _ currencies & oldid = 919919705$[]\T1/c
 mr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 663--669
-\OT1/cmr/m/n/12 hits 40 no-des, 60 chan-nels.  []$\OT1/cmtt/m/n/12 https : / / 
-bitcoinist .
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Met-hods of co-in de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+\T1/cmr/m/n/12 ba-se-ment --- Wikipe-dia, the free en-cycl-ope-dia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 593--598
+\T1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--598
+\T1/cmtt/m/n/12 org / w / index . php ? title = Money _ multiplier & oldid =
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 600--605
+\T1/cmr/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--605
+\T1/cmtt/m/n/12 w / index . php ? title = Money _ supply & oldid = 921152289$[]
+\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--612
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  P ver-sus np pro-blem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--612
+\T1/cmr/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--612
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = P _ versus
+ _
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 614--619
+\T1/cmr/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--619
+\T1/cmtt/m/n/12 org / w / index . php ? title = Paradox _ of _ value & oldid =
+ []
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 627--632
+\T1/cmtt/m/n/12 index . php ? title = Ship _ of _ Theseus & oldid = 923020256$[
+]\T1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 634--640
+\T1/cmr/m/n/12 tes) --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/
+12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--640
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Silver _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--640
+\T1/cmtt/m/n/12 certificate _ (United _ States ) &oldid = 917688197$[]\T1/cmr/m
+/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--647
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  Sub-jecti-ve the-ory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--647
+\T1/cmr/m/n/12 of va-lue --- Wikipe-dia, the free en-cycl-ope-dia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--647
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 656--661
+[]\T1/cmr/m/n/12 Wikipedia con-tri-bu-tors.  The-ory of va-lue (eco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+\T1/cmr/m/n/12 no-mi-cs) --- Wikipe-dia, the free en-cycl-ope-dia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+\T1/cmtt/m/n/12 Theory _ of _ value _ (economics ) &oldid = 919603374$[]\T1/cmr
+/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 663--669
+\T1/cmr/m/n/12 hits 40 no-des, 60 chan-nels.  []$\T1/cmtt/m/n/12 https : / / bi
+tcoinist .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 663--669
-\OT1/cmtt/m/n/12 com / bitcoin-[]lightning-[]network-[]mainnet-[]nodes/$[]\OT1/
-cmr/m/n/12 ,
+\T1/cmtt/m/n/12 com / bitcoin-[]lightning-[]network-[]mainnet-[]nodes/$[]\T1/cm
+r/m/n/12 ,
  []
 
 ) (./tak.tex [141] [142
@@ -2248,58 +2164,60 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 1.
 [143] [144] [145]
-Overfull \hbox (16.03056pt too wide) in paragraph at lines 32--33
-[]\OT1/cmr/bx/n/12 Telegram-kanalen "EnOgTy-ve": \OT1/cmr/m/n/12 Chat for dan-s
-ke Bitcoin-
+Overfull \hbox (15.51132pt too wide) in paragraph at lines 32--33
+[]\T1/cmr/bx/n/12 Telegram-kanalen "EnOgTy-ve": \T1/cmr/m/n/12 Chat for dan-ske
+ Bitcoin-
  []
 
 
-Overfull \hbox (8.17105pt too wide) in paragraph at lines 34--35
-[]\OT1/cmr/bx/n/12 Bogen \OT1/cmr/bx/it/12 Bitco-in-stan-dar-den\OT1/cmr/bx/n/1
-2 : \OT1/cmr/m/n/12 En de-tal-je-ret ^^\ko-no-misk ana-
+Overfull \hbox (5.29857pt too wide) in paragraph at lines 34--35
+[]\T1/cmr/bx/n/12 Bogen \T1/cmr/bx/it/12 Bitco-in-stan-dar-den\T1/cmr/bx/n/12 :
+ \T1/cmr/m/n/12 En de-tal-je-ret øko-no-misk ana-
  []
 
 ) [146] (./167-main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `167-main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13756 strings out of 480432
- 248354 string characters out of 5891250
- 818211 words of memory out of 5000000
- 29953 multiletter control sequences out of 15000+600000
- 411977 words of font info for 55 fonts, out of 8000000 for 9000
- 428 hyphenation exceptions out of 8191
+ 13994 strings out of 479304
+ 251091 string characters out of 5869779
+ 821094 words of memory out of 5000000
+ 30348 multiletter control sequences out of 15000+600000
+ 421066 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
  111i,10n,116p,10660b,888s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/debian/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.60
-0pk> </home/debian/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.
-600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmtt12.pfb>
-Output written on 167-main.pdf (162 pages, 19308176 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0700.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfti1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on 167-main.pdf (162 pages, 19542706 bytes).
 PDF statistics:
- 2011 PDF objects out of 2073 (max. 8388607)
- 1750 compressed objects within 18 object streams
+ 2046 PDF objects out of 2073 (max. 8388607)
+ 1778 compressed objects within 18 object streams
  568 named destinations out of 1000 (max. 500000)
  422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

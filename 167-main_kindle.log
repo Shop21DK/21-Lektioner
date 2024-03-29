@@ -1,0 +1,2295 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2024.3.22)  25 MAR 2024 08:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**167-main_kindle.tex
+(./167-main_kindle.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2020/09/21 v3.32 KOMA-Script document class (book)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2020/09/21 v3.32 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Package scrbook Info: You've used standard option `12pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=12pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=12pt' there
+(scrbook)             instead of `12pt', too.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 2437.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2020/09/21 v3.32 KOMA-Script font size class option (12pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2020/09/21 v3.32 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count177
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 45
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 433.62pt
+(typearea)              \textwidth      = 404.71204pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -52.99802pt
+(typearea)              \oddsidemargin  = -62.634pt
+(typearea)             \paperheight     = 650.43pt
+(typearea)              \textheight     = 519.5pt
+(typearea)              \topmargin      = -57.816pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1740.
+)
+\c@part=\count178
+\c@chapter=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5625.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5636.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5636.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5645.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5655.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5655.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5665.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5665.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5676.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5676.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5686.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5686.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6929.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count185
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6950.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count186
+Class scrbook Info: Redefining `\numberline' on input line 7123.
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language86
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-danish/danish.ldf
+Language: danish 2009/09/19 v1.3r Danish support from the babel system
+Package babel Info: Making " an active character on input line 82.
+))
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 36.135pt
+(typearea)             \paperwidth      = 433.62pt
+(typearea)              \textwidth      = 325.215pt
+(typearea)              \evensidemargin = -24.09pt
+(typearea)              \oddsidemargin  = -12.045pt
+(typearea)             \paperheight     = 650.43pt
+(typearea)              \textheight     = 488.65999pt
+(typearea)              \topmargin      = -48.18pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
+Package: crop 2017/11/19 1.10 crop marks (mf)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\stockwidth=\dimen140
+\stockheight=\dimen141
+\CROP@index=\count189
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\CROP@offset=\count190
+Package crop Info: Local config file crop.cfg used on input line 622.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tex4ebook/tex4ebook.sty
+Package: tex4ebook 2016/03/31 version 0.1d
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+))
+
+Class scrbook Warning: Usage of package `fancyhdr' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use 
+(scrbook)              package `scrlayer' or `scrlayer-scrpage', because
+(scrbook)              they support KOMA-Script classes.
+(scrbook)              With `fancyhdr' several features of class `scrbook'
+(scrbook)              like options `headsepline', `footsepline' or command
+(scrbook)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrbook)              `\addtokomafont' for the page style elements need
+(scrbook)              explicite user intervention to work.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `fancyhdr' on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/endnotes/endnotes.sty
+Package: endnotes 2020-01-02 endnotes package
+\c@endnote=\count192
+\endnotesep=\dimen144
+\@enotes=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks18
+\@arclen=\dimen145
+\@arcrad=\dimen146
+\pIIe@tempdima=\dimen147
+\pIIe@tempdimb=\dimen148
+\pIIe@tempdimc=\dimen149
+\pIIe@tempdimd=\dimen150
+\pIIe@tempdime=\dimen151
+\pIIe@tempdimf=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-01-04 v5.2k context-sensitive quotations (JAW)
+\csq@reset=\count197
+\csq@gtype=\count198
+\csq@glevel=\count199
+\csq@qlevel=\count266
+\csq@maxlvl=\count267
+\csq@tshold=\count268
+\csq@ltx@everypar=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-01-04 v5.2k csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box49
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip73
+\bibsep=\skip74
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count274
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen167
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip75
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen170
+\captionmargin@=\dimen171
+\captionwidth=\dimen172
+\caption@tempdima=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
+Package caption Info: KOMA-Script document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+Package caption Info: hyperref package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/01/20 v3.7 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count283
+\FV@InFile=\read3
+\FV@TabBox=\box50
+\c@FancyVerbLine=\count284
+\FV@StepNumber=\count285
+\FV@OutFile=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip76
+\L@UnitsRaiseTextstyle=\skip77
+\L@UnitsRaiseScriptstyle=\skip78
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `167-main_kindle.idx'.
+
+
+Writing index file 167-main_kindle.idx
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'danish'.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 23
+2.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 232.
+
+(./167-main_kindle.aux)
+\openout1 = `167-main_kindle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 232.
+LaTeX Font Info:    ... okay on input line 232.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen177
+\scratchbox=\box51
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen178
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package crop Info: requested driver: `' on input line 232.
+Package crop Info: detected driver: `pdftex' on input line 232.
+Package crop Info: using `pdftex' graphics driver on input line 232.
+Package hyperref Info: Link coloring OFF on input line 232.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count292
+)
+LaTeX Info: Redefining \ref on input line 232.
+LaTeX Info: Redefining \pageref on input line 232.
+LaTeX Info: Redefining \nameref on input line 232.
+
+(./167-main_kindle.out) (./167-main_kindle.out)
+\@outlinefile=\write6
+\openout6 = `167-main_kindle.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 232.
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count293
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 242.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 23.63593pt on input line 242.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 242.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 16.41594pt on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 242.
+ [1
+
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 242.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 2
+42.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 242.
+<assets/images/cc-by-sa.pdf, id=13, 66.2475pt x 23.33719pt>
+File: assets/images/cc-by-sa.pdf Graphic file (type pdf)
+<use assets/images/cc-by-sa.pdf>
+Package pdftex.def Info: assets/images/cc-by-sa.pdf  used on input line 242.
+(pdftex.def)             Requested size: 56.90602pt x 20.04642pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 242.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 242.
+\openout3 = `167-main_kindle.ent'.
+
+ [2
+
+ <./assets/images/cc-by-sa.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <17.28> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 250.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 16.41594pt on input line 250.
+ [3
+
+
+
+
+] [4
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 252.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 257.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 11.39996pt on input line 257.
+ [5] [6]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 275.
+ [7] [8
+
+
+] (./167-main_kindle.toc [9]
+Overfull \hbox (1.34494pt too wide) detected at line 44
+ \T1/phv/b/n/12 101
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 46
+ \T1/phv/b/n/12 103
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 48
+ \T1/phv/b/n/12 107
+ []
+
+
+Overfull \hbox (5.1479pt too wide) detected at line 50
+ \T1/phv/b/n/14.4 115
+ []
+
+
+Overfull \hbox (5.1479pt too wide) detected at line 51
+ \T1/phv/b/n/14.4 143
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `167-main_kindle.toc'.
+
+ [10]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 294.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 294.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 294.
+ [11
+
+
+] [12]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 304.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 304.
+ [13] [14
+
+
+] [15] [16
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 332.
+ [1
+
+
+] [2] [3] [4
+
+
+]
+<assets/images/the-tweet.png, id=172, 480.79625pt x 377.41pt>
+File: assets/images/the-tweet.png Graphic file (type png)
+<use assets/images/the-tweet.png>
+Package pdftex.def Info: assets/images/the-tweet.png  used on input line 350.
+(pdftex.def)             Requested size: 199.17458pt x 156.3458pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6 <./assets/images/the-tweet.png>]
+<assets/images/bitcoin-orange-pill.jpg, id=194, 1927.2pt x 1084.05pt>
+File: assets/images/bitcoin-orange-pill.jpg Graphic file (type jpg)
+<use assets/images/bitcoin-orange-pill.jpg>
+Package pdftex.def Info: assets/images/bitcoin-orange-pill.jpg  used on input l
+ine 372.
+(pdftex.def)             Requested size: 325.20833pt x 182.92967pt.
+ [7] [8 <./assets/images/bitcoin-orange-pill.jpg>]
+part I.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 388.
+[9
+
+
+] [10]
+<assets/images/blind-monks.jpg, id=214, 302.43832pt x 219.13644pt>
+File: assets/images/blind-monks.jpg Graphic file (type jpg)
+<use assets/images/blind-monks.jpg>
+Package pdftex.def Info: assets/images/blind-monks.jpg  used on input line 397.
+
+(pdftex.def)             Requested size: 325.21176pt x 235.63728pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+
+]
+[12 <./assets/images/blind-monks.jpg>] [13] [14
+
+
+]
+chapter 1.
+[15] [16] [17] [18
+
+
+]
+chapter 2.
+[19] [20]
+chapter 3.
+[21
+
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 528.
+
+
+Package hyperref Warning: Suppressing empty link on input line 528.
+
+[22]
+chapter 4.
+
+Package hyperref Warning: Suppressing empty link on input line 559.
+
+
+Package hyperref Warning: Suppressing empty link on input line 559.
+
+[23
+
+
+]
+Underfull \hbox (badness 5133) in paragraph at lines 564--565
+[]\T1/phv/m/n/12 Kryptovalutaer, især si-den den før-ste om-strid-te hårde-
+ []
+
+[24]
+chapter 5.
+[25
+
+
+] [26]
+chapter 6.
+[27
+
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 625.
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 625--625
+[]\T1/phv/m/n/12 ^^R  Der er ik-ke no-get tids-punkt i en Bitcoin-
+ []
+
+[28]
+chapter 7.
+<assets/images/rabbit-hole-bottomless.png, id=392, 401.5pt x 402.50375pt>
+File: assets/images/rabbit-hole-bottomless.png Graphic file (type png)
+<use assets/images/rabbit-hole-bottomless.png>
+Package pdftex.def Info: assets/images/rabbit-hole-bottomless.png  used on inpu
+t line 663.
+(pdftex.def)             Requested size: 199.17502pt x 199.67296pt.
+[29
+
+
+] [30 <./assets/images/rabbit-hole-bottomless.png>]
+part II.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 688.
+[31
+
+
+] [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33
+
+
+]
+[34]
+chapter 8.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+23.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [35
+
+
+] [36]
+
+Package hyperref Warning: Suppressing empty link on input line 740.
+
+[37] [38]
+chapter 9.
+[39
+
+
+]
+<assets/images/children-playing-with-money.png, id=498, 1053.9375pt x 381.425pt
+>
+File: assets/images/children-playing-with-money.png Graphic file (type png)
+<use assets/images/children-playing-with-money.png>
+Package pdftex.def Info: assets/images/children-playing-with-money.png  used on
+ input line 774.
+(pdftex.def)             Requested size: 325.22165pt x 117.69925pt.
+ [40] [41 <./assets/images/children-playing-with-money.png>] [42] [43]
+[44
+
+
+]
+chapter 10.
+[45] [46]
+chapter 11.
+[47
+
+
+] [48] [49] [50
+
+
+]
+chapter 12.
+[51]
+<assets/images/fiat-definition.png, id=633, 457.71pt x 143.53625pt>
+File: assets/images/fiat-definition.png Graphic file (type png)
+<use assets/images/fiat-definition.png>
+Package pdftex.def Info: assets/images/fiat-definition.png  used on input line 
+901.
+(pdftex.def)             Requested size: 227.61826pt x 71.38028pt.
+ [52 <./assets/images/fiat-definition.png>]
+<assets/images/lydian-coin-stater.png, id=648, 301.125pt x 239.89626pt>
+File: assets/images/lydian-coin-stater.png Graphic file (type png)
+<use assets/images/lydian-coin-stater.png>
+Package pdftex.def Info: assets/images/lydian-coin-stater.png  used on input li
+ne 910.
+(pdftex.def)             Requested size: 142.26852pt x 113.34059pt.
+<assets/images/clipped-coins.png, id=649, 1474.50874pt x 707.64375pt>
+File: assets/images/clipped-coins.png Graphic file (type png)
+<use assets/images/clipped-coins.png>
+Package pdftex.def Info: assets/images/clipped-coins.png  used on input line 92
+0.
+(pdftex.def)             Requested size: 325.2029pt x 156.07082pt.
+
+Underfull \vbox (badness 4582) has occurred while \output is active []
+
+ [53 <./assets/images/lydian-coin-stater.png>]
+<assets/images/joachimsthaler.png, id=659, 935.495pt x 935.495pt>
+File: assets/images/joachimsthaler.png Graphic file (type png)
+<use assets/images/joachimsthaler.png>
+Package pdftex.def Info: assets/images/joachimsthaler.png  used on input line 9
+29.
+(pdftex.def)             Requested size: 142.25952pt x 142.25952pt.
+ [54 <./assets/images/clipped-coins.png>]
+<assets/images/us-silver-dollar-note-smaller.png, id=671, 1280.785pt x 551.0587
+5pt>
+File: assets/images/us-silver-dollar-note-smaller.png Graphic file (type png)
+<use assets/images/us-silver-dollar-note-smaller.png>
+Package pdftex.def Info: assets/images/us-silver-dollar-note-smaller.png  used 
+on input line 938.
+(pdftex.def)             Requested size: 325.19852pt x 139.9169pt.
+
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [55 <./assets/images/joachimsthaler.png>]
+<assets/images/us-gold-cert-100-smaller.png, id=683, 1269.74374pt x 551.05875pt
+>
+File: assets/images/us-gold-cert-100-smaller.png Graphic file (type png)
+<use assets/images/us-gold-cert-100-smaller.png>
+Package pdftex.def Info: assets/images/us-gold-cert-100-smaller.png  used on in
+put line 951.
+(pdftex.def)             Requested size: 325.2044pt x 141.13614pt.
+ [56 <./assets/images/us-silver-dollar-note-smaller.png>]
+<assets/images/us-dollar-2004.jpg, id=689, 1283.79625pt x 551.05875pt>
+File: assets/images/us-dollar-2004.jpg Graphic file (type jpg)
+<use assets/images/us-dollar-2004.jpg>
+Package pdftex.def Info: assets/images/us-dollar-2004.jpg  used on input line 9
+62.
+(pdftex.def)             Requested size: 325.19911pt x 139.58897pt.
+
+Underfull \hbox (badness 6141) in paragraph at lines 960--966
+[]\T1/phv/m/n/12 Afskaffelsen af guld-stan-dar-den i 1971 ful-dend-te det-te
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./assets/images/us-gold-cert-100-smaller.png>] [58 <./assets/images/us-do
+llar-2004.jpg>]
+chapter 13.
+[59
+
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 995.
+
+
+Package hyperref Warning: Suppressing empty link on input line 995.
+
+<assets/images/money-multiplier.png, id=714, 779.91376pt x 444.66125pt>
+File: assets/images/money-multiplier.png Graphic file (type png)
+<use assets/images/money-multiplier.png>
+Package pdftex.def Info: assets/images/money-multiplier.png  used on input line
+ 1006.
+(pdftex.def)             Requested size: 325.21715pt x 185.4198pt.
+[60] [61 <./assets/images/money-multiplier.png>]
+<assets/images/bsg.jpg, id=732, 1284.8pt x 722.7pt>
+File: assets/images/bsg.jpg Graphic file (type jpg)
+<use assets/images/bsg.jpg>
+Package pdftex.def Info: assets/images/bsg.jpg  used on input line 1017.
+(pdftex.def)             Requested size: 325.21812pt x 182.93518pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <./assets/images/bsg.jpg>] [63] [64
+
+
+]
+chapter 14.
+[65]
+<assets/images/you-are-here.png, id=766, 1510.64375pt x 761.84625pt>
+File: assets/images/you-are-here.png Graphic file (type png)
+<use assets/images/you-are-here.png>
+Package pdftex.def Info: assets/images/you-are-here.png  used on input line 106
+7.
+(pdftex.def)             Requested size: 325.19699pt x 164.00299pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+[67 <./assets/images/you-are-here.png>]
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [68]
+<assets/images/stock-to-flow-white-cropped.png, id=805, 2351.78625pt x 891.33pt
+>
+File: assets/images/stock-to-flow-white-cropped.png Graphic file (type png)
+<use assets/images/stock-to-flow-white-cropped.png>
+Package pdftex.def Info: assets/images/stock-to-flow-white-cropped.png  used on
+ input line 1105.
+(pdftex.def)             Requested size: 325.1928pt x 123.24847pt.
+<assets/images/soundness-over-time.png, id=806, 600.2425pt x 371.3875pt>
+File: assets/images/soundness-over-time.png Graphic file (type png)
+<use assets/images/soundness-over-time.png>
+Package pdftex.def Info: assets/images/soundness-over-time.png  used on input l
+ine 1111.
+(pdftex.def)             Requested size: 325.22519pt x 201.22629pt.
+
+Underfull \hbox (badness 1057) in paragraph at lines 1112--1112
+[][][]|\T1/phv/m/n/12 Sti-gen-de for-hold mel-lem la-ger og pro-duk-tion for
+ []
+
+[69] [70 <./assets/images/stock-to-flow-white-cropped.png>] [71 <./assets/image
+s/soundness-over-time.png>] [72]
+part III.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1157.
+[73
+
+
+] [74]
+Underfull \vbox (badness 2197) has occurred while \output is active []
+
+ [75
+
+
+]
+[76]
+chapter 15.
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 1191.
+[77
+
+
+]
+<assets/images/xkcd-1225.png, id=876, 742.775pt x 398.48875pt>
+File: assets/images/xkcd-1225.png Graphic file (type png)
+<use assets/images/xkcd-1225.png>
+Package pdftex.def Info: assets/images/xkcd-1225.png  used on input line 1195.
+(pdftex.def)             Requested size: 325.22394pt x 174.47824pt.
+ [78 <./assets/images/xkcd-1225.png>] [79]
+<assets/images/youtube-vid-inverted.png, id=905, 1282.7925pt x 717.68124pt>
+File: assets/images/youtube-vid-inverted.png Graphic file (type png)
+<use assets/images/youtube-vid-inverted.png>
+Package pdftex.def Info: assets/images/youtube-vid-inverted.png  used on input 
+line 1214.
+(pdftex.def)             Requested size: 325.19931pt x 181.93858pt.
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [80 <./assets/images/youtube-vid-inverted.png>]
+<assets/images/xkcd-538.png, id=924, 404.712pt x 247.52475pt>
+File: assets/images/xkcd-538.png Graphic file (type png)
+<use assets/images/xkcd-538.png>
+Package pdftex.def Info: assets/images/xkcd-538.png  used on input line 1226.
+(pdftex.def)             Requested size: 227.62523pt x 139.21721pt.
+ [81]
+<assets/images/elliptic-curve-examples.png, id=941, 1284.8pt x 389.455pt>
+File: assets/images/elliptic-curve-examples.png Graphic file (type png)
+<use assets/images/elliptic-curve-examples.png>
+Package pdftex.def Info: assets/images/elliptic-curve-examples.png  used on inp
+ut line 1240.
+(pdftex.def)             Requested size: 325.21812pt x 98.58174pt.
+ [82 <./assets/images/xkcd-538.png>]
+[83 <./assets/images/elliptic-curve-examples.png>] [84
+
+
+]
+chapter 16.
+
+Package hyperref Warning: Suppressing empty link on input line 1279.
+
+[85]
+<assets/images/ken-thompson-hack.png, id=976, 1183.42125pt x 838.13126pt>
+File: assets/images/ken-thompson-hack.png Graphic file (type png)
+<use assets/images/ken-thompson-hack.png>
+Package pdftex.def Info: assets/images/ken-thompson-hack.png  used on input lin
+e 1292.
+(pdftex.def)             Requested size: 325.21613pt x 230.32695pt.
+ [86] [87 <./assets/images/ken-thompson-hack.png>]
+<assets/images/stealthy-hardware-trojan.png, id=993, 999.735pt x 299.1175pt>
+File: assets/images/stealthy-hardware-trojan.png Graphic file (type png)
+<use assets/images/stealthy-hardware-trojan.png>
+Package pdftex.def Info: assets/images/stealthy-hardware-trojan.png  used on in
+put line 1301.
+(pdftex.def)             Requested size: 325.21512pt x 97.30331pt.
+ [88 <./assets/images/stealthy-hardware-trojan.png>] [89]
+<assets/images/guix-bootstrap-dependencies.png, id=1021, 931.48pt x 262.9825pt>
+
+File: assets/images/guix-bootstrap-dependencies.png Graphic file (type png)
+<use assets/images/guix-bootstrap-dependencies.png>
+Package pdftex.def Info: assets/images/guix-bootstrap-dependencies.png  used on
+ input line 1315.
+(pdftex.def)             Requested size: 325.21272pt x 91.81651pt.
+ [90 <./assets/images/guix-bootstrap-dependencies.png>] [91] [92
+
+
+]
+chapter 17.
+<assets/images/bitcoin-whitepaper-timestamp-wide.png, id=1044, 1381.16pt x 372.
+39125pt>
+File: assets/images/bitcoin-whitepaper-timestamp-wide.png Graphic file (type pn
+g)
+<use assets/images/bitcoin-whitepaper-timestamp-wide.png>
+Package pdftex.def Info: assets/images/bitcoin-whitepaper-timestamp-wide.png  u
+sed on input line 1362.
+(pdftex.def)             Requested size: 325.20488pt x 87.68242pt.
+[93 <./assets/images/bitcoin-whitepaper-timestamp-wide.png>] [94] [95] [96
+
+
+]
+chapter 18.
+
+Underfull \hbox (badness 1490) in paragraph at lines 1414--1414
+[]\T1/phv/m/n/12 ^^R  Man-ge men-ne-sker af-vi-ser au-to-ma-tisk e-valuta
+ []
+
+[97] [98] [99] [100]
+chapter 19.
+<assets/images/nope.png, id=1121, 3613.5pt x 907.39pt>
+File: assets/images/nope.png Graphic file (type png)
+<use assets/images/nope.png>
+Package pdftex.def Info: assets/images/nope.png  used on input line 1474.
+(pdftex.def)             Requested size: 325.20097pt x 81.66158pt.
+[101
+
+
+] [102 <./assets/images/nope.png>]
+chapter 20.
+
+Package hyperref Warning: Suppressing empty link on input line 1512.
+
+
+Package hyperref Warning: Suppressing empty link on input line 1512.
+
+
+Package hyperref Warning: Suppressing empty link on input line 1512.
+
+
+Underfull \vbox (badness 1215) has occurred while \output is active []
+
+ [103
+
+
+]
+<assets/images/bitcoin-code-white.png, id=1155, 905.3825pt x 572.1375pt>
+File: assets/images/bitcoin-code-white.png Graphic file (type png)
+<use assets/images/bitcoin-code-white.png>
+Package pdftex.def Info: assets/images/bitcoin-code-white.png  used on input li
+ne 1518.
+(pdftex.def)             Requested size: 325.20526pt x 205.50664pt.
+
+[104] [105 <./assets/images/bitcoin-code-white.png>] [106
+
+
+]
+chapter 21.
+<assets/images/tech-adoption.png, id=1187, 1188.44pt x 800.9925pt>
+File: assets/images/tech-adoption.png Graphic file (type png)
+<use assets/images/tech-adoption.png>
+Package pdftex.def Info: assets/images/tech-adoption.png  used on input line 15
+55.
+(pdftex.def)             Requested size: 325.21715pt x 219.19196pt.
+<assets/images/mobile-phone.png, id=1190, 2055.68pt x 662.475pt>
+File: assets/images/mobile-phone.png Graphic file (type png)
+<use assets/images/mobile-phone.png>
+Package pdftex.def Info: assets/images/mobile-phone.png  used on input line 156
+3.
+(pdftex.def)             Requested size: 325.2142pt x 104.80536pt.
+[107] [108 <./assets/images/tech-adoption.png>] [109 <./assets/images/mobile-ph
+one.png>]
+<assets/images/internet-evolution-white-dates.png, id=1234, 2148.025pt x 1284.8
+pt>
+File: assets/images/internet-evolution-white-dates.png Graphic file (type png)
+<use assets/images/internet-evolution-white-dates.png>
+Package pdftex.def Info: assets/images/internet-evolution-white-dates.png  used
+ on input line 1578.
+(pdftex.def)             Requested size: 325.20526pt x 194.51529pt.
+<assets/images/running-bitcoin.png, id=1239, 624.3325pt x 261.97874pt>
+File: assets/images/running-bitcoin.png Graphic file (type png)
+<use assets/images/running-bitcoin.png>
+Package pdftex.def Info: assets/images/running-bitcoin.png  used on input line 
+1585.
+(pdftex.def)             Requested size: 227.6175pt x 95.5115pt.
+ [110 <./assets/images/internet-evolution-white-dates.png>]
+<assets/images/lnd-growth-lopp-white.png, id=1249, 2096.83376pt x 974.64125pt>
+File: assets/images/lnd-growth-lopp-white.png Graphic file (type png)
+<use assets/images/lnd-growth-lopp-white.png>
+Package pdftex.def Info: assets/images/lnd-growth-lopp-white.png  used on input
+ line 1593.
+(pdftex.def)             Requested size: 325.19785pt x 151.15706pt.
+
+Underfull \hbox (badness 3977) in paragraph at lines 1594--1594
+[][][]|\T1/phv/m/n/12 Lightning-netværket, ja-nu-ar 2018 vs. de-cem-ber
+ []
+
+[111 <./assets/images/running-bitcoin.png>] [112 <./assets/images/lnd-growth-lo
+pp-white.png>] [113] [114
+
+
+]
+part without number
+[115] [116] [117
+
+
+] [118] [119] [120
+
+
+] [121
+
+
+] [122] (./167-main_kindle.lof
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123
+
+
+]
+Overfull \hbox (1.34494pt too wide) detected at line 46
+ []\T1/phv/m/n/12 102
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 48
+ []\T1/phv/m/n/12 105
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 50
+ []\T1/phv/m/n/12 108
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 51
+ []\T1/phv/m/n/12 109
+ []
+
+[124]
+Overfull \hbox (1.34494pt too wide) detected at line 52
+ []\T1/phv/m/n/12 110
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 53
+ []\T1/phv/m/n/12 111
+ []
+
+
+Overfull \hbox (1.34494pt too wide) detected at line 54
+ []\T1/phv/m/n/12 112
+ []
+
+)
+\tf@lof=\write8
+\openout8 = `167-main_kindle.lof'.
+
+ [125] [126
+
+
+] (./167-main_kindle.bbl [127] [128
+
+
+]
+Underfull \hbox (badness 6236) in paragraph at lines 10--15
+[]\T1/phv/m/n/12 Saifedean Am-mous.  Pre-sen-ta-tion on the bitco-in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+\T1/phv/m/n/12 stan-dard.  []$\T1/cmtt/m/n/12 https : / / www . bayernlb . de /
+ internet /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+\T1/cmtt/m/n/12 media / de / ir / downloads _ 1 / bayernlb _ research /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+\T1/cmtt/m/n/12 sonderpublikationen _ 1 / bitcoin _ munich _ may _ 28 . pdf$[]\
+T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 17--20
+\T1/phv/m/n/12 and Vin-ce Vat-ter.  A lower bo-und on the length of
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 27--32
+[]\T1/phv/m/n/12 Julian As-san-ge.  Cyp-her-punks: Fre-edom and the fu-
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 27--32
+\T1/phv/m/n/12 tu-re of the in-ter-net - in-tro-duction: A call to cryp-
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 27--32
+\T1/phv/m/n/12 to-grap-hic arms.  []$\T1/cmtt/m/n/12 https : / / cryptome . org
+ / 2012 / 12 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+[]\T1/phv/m/n/12 Beautyon.  Why ame-ri-ca can't re-gu-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+\T1/phv/m/n/12 te bitco-in.  []$\T1/cmtt/m/n/12 https : / / hackernoon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+\T1/cmtt/m/n/12 why-[]america-[]cant-[]regulate-[]bitcoin-[]8c77cee8d794$[]\T1/
+phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+[]\T1/phv/m/n/12 Beautyon.  Bitco-in is. and that is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+\T1/phv/m/n/12 enough.  []$\T1/cmtt/m/n/12 https : / / hackernoon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+\T1/cmtt/m/n/12 bitcoin-[]is-[]and-[]that-[]is-[]enough-[]e3116870eed1$[]\T1/ph
+v/m/n/12 ,
+ []
+
+[129]
+Underfull \hbox (badness 1881) in paragraph at lines 63--68
+[]\T1/phv/m/n/12 Jeff Bezos.  To our sha-re-hol-ders.  []$\T1/cmtt/m/n/12 http 
+: / / media .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+\T1/cmtt/m/n/12 corporate-[]ir . net / media _ files / irol / 97 / 97664 /
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 84--89
+[]\T1/phv/m/n/12 Bitcoin Wiki con-tri-bu-tors.  Ge-ne-sis blo-ck --- Bitco-
+ []
+
+[130]
+Underfull \hbox (badness 1231) in paragraph at lines 115--120
+\T1/phv/m/n/12 ke to be a bitco-in?  []$\T1/cmtt/m/n/12 https : / / medium . co
+m / s / story /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--120
+\T1/cmtt/m/n/12 what-[]is-[]it-[]like-[]to-[]be-[]a-[]bitcoin-[]56109f3e6753$[]
+\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
+\T1/cmtt/m/n/12 gnu . org / manual / en / html _ node / Bootstrapping . html$[]
+\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 140--145
+[]\T1/phv/m/n/12 Jeff Desjar-dins.  The ri-sing spe-ed of te-ch-no-lo-gi-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+\T1/phv/m/n/12 adop-tion.  []$\T1/cmtt/m/n/12 https : / / www . visualcapitalis
+t . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+\T1/cmtt/m/n/12 rising-[]speed-[]technological-[]adoption/$[]\T1/phv/m/n/12 , F
+e-bru-ary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
+\T1/cmtt/m/n/12 index . php ? topic = 4994 . msg140770 # msg140770$[]\T1/phv/m/
+n/12 , May
+ []
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 168--173
+[]\T1/phv/m/n/12 Electronic Fron-ti-er Fo-un-da-tion.  The cryp-to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--173
+\T1/phv/m/n/12 wars:governments wor-king to un-der-mi-ne en-cryp-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--173
+\T1/phv/m/n/12 tion.  []$\T1/cmtt/m/n/12 https : / / www . eff . org / files / 
+2014 / 01 / 03 /
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 180--185
+[]\T1/phv/m/n/12 William Gib-son.  The sci-en-ce in sci-en-ce fi-ction.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+[]$\T1/cmtt/m/n/12 https : / / www . npr . org / 2018 / 10 / 22 / 1067220 /
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 187--191
+[]\T1/phv/m/n/12 Gigi.  Bitco-in's ener-gy consump-tion -- a shift in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--191
+\T1/phv/m/n/12 per-specti-ve.  []$\T1/cmtt/m/n/12 https : / / dergigi . com / 2
+018 / 06 / 10 /
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 193--198
+[]\T1/phv/m/n/12 Gigi.  The magic dust of cryp-to-grap-hy -- how
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
+\T1/phv/m/n/12 di-gi-tal in-for-ma-tion is chan-ging our so-cie-ty-bitco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
+\T1/phv/m/n/12 in's gravi-ty.  []$\T1/cmtt/m/n/12 https : / / dergigi . com / 2
+018 / 08 / 17 /
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 200--205
+\T1/phv/m/n/12 le scrip-ting.  []$\T1/cmtt/m/n/12 https : / / lists . linuxfoun
+dation . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
+\T1/cmtt/m/n/12 pipermail / bitcoin-[]dev / 2018-[]January / 015614 . html$[]\T
+1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--211
+[]\T1/phv/m/n/12 Hasu.  Un-pa-ck-ing bitco-in's so-ci-al con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--211
+\T1/phv/m/n/12 tra-ct.  []$\T1/cmtt/m/n/12 https : / / uncommoncore . co /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--211
+\T1/cmtt/m/n/12 unpacking-[]bitcoins-[]social-[]contract$[]\T1/phv/m/n/12 , De-
+cem-ber
+ []
+
+[132]
+Underfull \hbox (badness 1325) in paragraph at lines 225--229
+[]\T1/phv/m/n/12 Henry Ha-zlitt.  \T1/phv/m/sl/12 Eco-no-mi-cs in One Les-son\T
+1/phv/m/n/12 .  Ludwig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--229
+\T1/phv/m/n/12 von Mi-ses In-sti-tu-te, []$\T1/cmtt/m/n/12 https : / / mises . 
+org / library /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
+[]\T1/phv/m/n/12 Dan Held.  Bitco-in's di-stri-bu-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
+\T1/phv/m/n/12 was fair.  []$\T1/cmtt/m/n/12 https : / / blog . picks . co /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
+\T1/cmtt/m/n/12 bitcoins-[]distribution-[]was-[]fair-[]e2ef7bbbc892$[]\T1/phv/m
+/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 238--241
+[]\T1/phv/m/n/12 Eric Hug-hes.  A cyp-her-punk's ma-ni-fe-sto.  []$\T1/cmtt/m/n
+/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
+\T1/cmtt/m/n/12 / / www . activism . net / cypherpunk / manifesto . html$[]\T1/
+phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--247
+[]\T1/phv/m/n/12 Guido Jörg Hüls-mann.  \T1/phv/m/sl/12 Et-hi-cs of Mo-ney Pro-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--247
+\T1/phv/m/sl/12 duction\T1/phv/m/n/12 .  Ludwig von Mi-ses In-sti-tu-te, []$\T1
+/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--247
+\T1/cmtt/m/n/12 / / mises . org / library / ethics-[]money-[]production$[]\T1/p
+hv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 266--272
+[]\T1/phv/m/n/12 Margo Rap-port.  Hi-story shows pri-ce of an oun-
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 266--272
+\T1/phv/m/n/12 ce of gold equals pri-ce of a de-cent men's su-it,
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 266--272
+\T1/phv/m/n/12 says sionna in-ve-st-ment ma-na-gers.  []$\T1/cmtt/m/n/12 https 
+: / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--272
+\T1/cmtt/m/n/12 businesswire . com / news / home / 20110819005774 / en /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--272
+\T1/cmtt/m/n/12 History-[]Shows-[]Price-[]Ounce-[]Gold-[]Equals-[]Price$[]\T1/p
+hv/m/n/12 ,
+ []
+
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 274--278
+[]\T1/phv/m/n/12 Trace May-er.  The 7 net-work ef-fects of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--278
+\T1/phv/m/n/12 bitco-in.  []$\T1/cmtt/m/n/12 https : / / www . thrivenotes . co
+m /
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 280--284
+[]\T1/phv/m/n/12 Ralph C. Mer-k-le.  Da-os, de-mo-cra-cy and gover-nan-
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 280--284
+\T1/phv/m/n/12 ce.  []$\T1/cmtt/m/n/12 https : / / alcor . org / cryonics / Cry
+onics2016-[]4 .
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 286--291
+\T1/phv/m/n/12 wor-king for fi-nan-ci-al in-sti-tu-tions?  []$\T1/cmtt/m/n/12 h
+ttps : / / twitter .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--291
+\T1/cmtt/m/n/12 com / fiatminimalist / status / 1072880815661436928$[]\T1/phv/m
+/n/12 ,
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 293--298
+[]\T1/phv/m/n/12 The Au-stri-an Mint.  Gold: The extra-or-di-nary me-tal.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--298
+[]$\T1/cmtt/m/n/12 https : / / www . muenzeoesterreich . at / eng / discover /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--298
+\T1/cmtt/m/n/12 for-[]investors / gold-[]the-[]extraordinary-[]metal$[]\T1/phv/
+m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 300--305
+[]\T1/phv/m/n/12 British Mu-se-um.  The ori-gins of co-i-na-ge.  []$\T1/cmtt/m/
+n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--305
+\T1/cmtt/m/n/12 / / www . britishmuseum . org / explore / themes / money /
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 312--317
+[]\T1/phv/m/n/12 Satoshi Na-ka-mo-to.  Re: Bitco-in p2p e-cash pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+\T1/phv/m/n/12 per.  []$\T1/cmtt/m/n/12 https : / / www . metzdowd . com / pipe
+rmail /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--324
+\T1/cmtt/m/n/12 topics / bitcoin-[]open-[]source ? commentId = 2003008 %
+ []
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 338--342
+\T1/cmtt/m/n/12 bitcointalk . org / index . php ? topic = 13 . msg46 # msg46$[]
+\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 344--348
+[]\T1/phv/m/n/12 Satoshi Na-ka-mo-to.  De-a-ling with sha-256 col-li-sions.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+[]$\T1/cmtt/m/n/12 https : / / bitcointalk . org / index . php ? topic = 191 .
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 350--354
+[]\T1/phv/m/n/12 Satoshi Na-ka-mo-to.  Re: 0.3 al-most re-a-dy.  []$\T1/cmtt/m/
+n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
+\T1/cmtt/m/n/12 / / bitcointalk . org / index . php ? topic = 199 . msg1670 #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--360
+\T1/cmtt/m/n/12 org / index . php ? topic = 195 . msg1611 # msg1611$[]\T1/phv/m
+/n/12 , Ju-ne
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 367--373
+[]\T1/phv/m/n/12 Jordan Pear-son.  In-si-de the wor-ld of the bitco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/phv/m/n/12 in car-ni-vo-res: Why a small com-mu-ni-ty of bitco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/phv/m/n/12 in users is eat-ing me-at exclu-si-ve-ly.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/cmtt/m/n/12 / / motherboard . vice . com / en _ us / article / ne74nw /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--373
+\T1/cmtt/m/n/12 inside-[]the-[]world-[]of-[]the-[]bitcoin-[]carnivores$[]\T1/ph
+v/m/n/12 ,
+ []
+
+[135]
+Underfull \hbox (badness 5288) in paragraph at lines 375--380
+[]\T1/phv/m/n/12 Pieter Wu-il-le.  Sch-norr sig-na-tu-res for secp256k1.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--380
+[]$\T1/cmtt/m/n/12 https : / / github . com / sipa / bips / blob / bip-[]schnor
+r /
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 382--388
+[]\T1/phv/m/n/12 Plato.  \T1/phv/m/sl/12 Pla-to in Twel-ve Vo-lu-mes, Vol. 3. (
+Eut-hy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
+[]$\T1/cmtt/m/n/12 http : / / www . perseus . tufts . edu / hopper / text ? doc
+ =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
+\T1/cmtt/m/n/12 Perseus % 3Atext % 3A1999 . 01 . 0178 % 3Atext % 3DEuthyd .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+[]\T1/phv/m/n/12 Edward Snow-den.  Edward snow-den: Nsa whi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/phv/m/n/12 st-le-blower an-swers re-a-der questions.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/cmtt/m/n/12 / / www . theguardian . com / world / 2013 / jun / 17 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
+\T1/cmtt/m/n/12 edward-[]snowden-[]nsa-[]files-[]whistleblower$[]\T1/phv/m/n/12
+ , Ju-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+[]\T1/phv/m/n/12 Jimmy Song.  Why bitco-in is dif-fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+\T1/phv/m/n/12 rent.  []$\T1/cmtt/m/n/12 https : / / medium . com / @jimmysong 
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
+\T1/cmtt/m/n/12 why-[]bitcoin-[]is-[]different-[]e17b813fd947$[]\T1/phv/m/n/12 
+, April
+ []
+
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 425--429
+\T1/cmtt/m/n/12 gov / centers / nmic / mineral-[]commodity-[]summaries$[]\T1/ph
+v/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--445
+[]\T1/phv/m/n/12 Tom El-vis Je-du-sor.  Mim-blewim-b-le ori-gin.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--445
+[]$\T1/cmtt/m/n/12 https : / / github . com / mimblewimble / docs / wiki /
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 465--471
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  2013^^Upre-sent eco-no-mic cri-
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 465--471
+\T1/phv/m/n/12 sis in ve-nezu-ela --- Wikipe-dia, the free en-cycl-ope-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--471
+\T1/phv/m/n/12 dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / 
+index . php ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--471
+\T1/cmtt/m/n/12 title = 2013 % E2 % 80 % 93present _ economic _ crisis _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--478
+\T1/cmtt/m/n/12 index . php ? title = Austrian _ School & oldid = 920008469$[]\
+T1/phv/m/n/12 ,
+ []
+
+[137]
+Underfull \hbox (badness 2318) in paragraph at lines 480--485
+\T1/phv/m/n/12 en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia 
+. org / w / index .
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 487--492
+\T1/phv/m/n/12 en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia 
+. org / w / index .
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 494--499
+\T1/phv/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--499
+\T1/cmtt/m/n/12 org / w / index . php ? title = Discrete _ logarithm & oldid =
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 501--506
+\T1/phv/m/n/12 en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia 
+. org / w / index .
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 508--513
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Dy-son sp-he-re --- Wikipe-dia,
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 508--513
+\T1/phv/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--513
+\T1/cmtt/m/n/12 w / index . php ? title = Dyson _ sphere & oldid = 916621053$[]
+\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 515--520
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Elliptic-curve cryp-to-grap-hy
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 515--520
+\T1/phv/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps : / / en .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--520
+\T1/cmtt/m/n/12 wikipedia . org / w / index . php ? title = Elliptic-[]curve _
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 522--527
+\T1/phv/m/n/12 free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikip
+edia . org / w /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+\T1/cmtt/m/n/12 index . php ? title = Hyperinflation & oldid = 919343724$[]\T1/
+phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 529--534
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Il-le-gal num-ber --- Wikipe-dia,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+\T1/cmtt/m/n/12 index . php ? title = Illegal _ number & oldid = 918772989$[]\T
+1/phv/m/n/12 ,
+ []
+
+[138]
+Underfull \hbox (badness 2318) in paragraph at lines 536--541
+\T1/phv/m/n/12 en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia 
+. org / w / index .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--548
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Key-nesi-an eco-no-mi-cs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--548
+\T1/phv/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--548
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Keynesian 
+_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+\T1/cmtt/m/n/12 index . php ? title = Landauer % 27s _ principle & oldid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Last gla-ci-al maxi-mum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+\T1/phv/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--562
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Last _
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 564--569
+\T1/phv/m/n/12 en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . wikipedia 
+. org / w / index .
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 571--576
+\T1/phv/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--576
+\T1/cmtt/m/n/12 org / w / index . php ? title = List _ of _ currencies & oldid 
+=
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 578--584
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  List of hi-sto-ri-cal cur-ren-
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 578--584
+\T1/phv/m/n/12 cies --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/
+12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--584
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = List _ of 
+_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Met-hods of co-in de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+\T1/phv/m/n/12 ba-se-ment --- Wikipe-dia, the free en-cycl-ope-dia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
+ []
+
+[139]
+Underfull \hbox (badness 2035) in paragraph at lines 593--598
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Mo-ney mul-ti-pli-er --- Wikipe-
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 593--598
+\T1/phv/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--598
+\T1/cmtt/m/n/12 org / w / index . php ? title = Money _ multiplier & oldid =
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 600--605
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Mo-ney sup-ply --- Wikipe-dia,
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 600--605
+\T1/phv/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--605
+\T1/cmtt/m/n/12 w / index . php ? title = Money _ supply & oldid = 921152289$[]
+\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 607--612
+\T1/phv/m/n/12 the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / en . w
+ikipedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--612
+\T1/cmtt/m/n/12 w / index . php ? title = P _ versus _ NP _ problem & oldid =
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 614--619
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Pa-ra-dox of va-lue --- Wikipe-
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 614--619
+\T1/phv/m/n/12 dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 https : / / e
+n . wikipedia .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--619
+\T1/cmtt/m/n/12 org / w / index . php ? title = Paradox _ of _ value & oldid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--632
+\T1/cmtt/m/n/12 index . php ? title = Ship _ of _ Theseus & oldid = 923020256$[
+]\T1/phv/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 634--640
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Sil-ver cer-ti-fi-ca-te (uni-ted s
+ta-
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 634--640
+\T1/phv/m/n/12 tes) --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/
+12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--640
+\T1/cmtt/m/n/12 / / en . wikipedia . org / w / index . php ? title = Silver _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--640
+\T1/cmtt/m/n/12 certificate _ (United _ States ) &oldid = 917688197$[]\T1/phv/m
+/n/12 ,
+ []
+
+[140]
+Underfull \hbox (badness 3724) in paragraph at lines 642--647
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  Sub-jecti-ve the-ory of va-lue
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 642--647
+\T1/phv/m/n/12 --- Wikipe-dia, the free en-cycl-ope-dia.  []$\T1/cmtt/m/n/12 ht
+tps : / / en .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--647
+\T1/cmtt/m/n/12 wikipedia . org / w / index . php ? title = Subjective _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+[]\T1/phv/m/n/12 Wikipedia con-tri-bu-tors.  The-ory of va-lue (eco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+\T1/phv/m/n/12 no-mi-cs) --- Wikipe-dia, the free en-cycl-ope-dia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+[]$\T1/cmtt/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--661
+\T1/cmtt/m/n/12 Theory _ of _ value _ (economics ) &oldid = 919603374$[]\T1/phv
+/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 663--669
+\T1/phv/m/n/12 hits 40 no-des, 60 chan-nels.  []$\T1/cmtt/m/n/12 https : / / bi
+tcoinist .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--669
+\T1/cmtt/m/n/12 com / bitcoin-[]lightning-[]network-[]mainnet-[]nodes/$[]\T1/ph
+v/m/n/12 ,
+ []
+
+) (./tak.tex [141] [142
+
+
+]
+part IV.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1.
+[143] [144] [145]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 34.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 11.39996pt on input line 34.
+) [146] (./167-main_kindle.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `167-main_kindle.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 14603 strings out of 479304
+ 259789 string characters out of 5869779
+ 832985 words of memory out of 5000000
+ 30915 multiletter control sequences out of 15000+600000
+ 451990 words of font info for 74 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,12n,116p,10667b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/helvetic/uhvro8a.pfb>
+Output written on 167-main_kindle.pdf (162 pages, 19267124 bytes).
+PDF statistics:
+ 1995 PDF objects out of 2073 (max. 8388607)
+ 1740 compressed objects within 18 object streams
+ 569 named destinations out of 1000 (max. 500000)
+ 422 words of extra memory for PDF output out of 10000 (max. 10000000)
+
